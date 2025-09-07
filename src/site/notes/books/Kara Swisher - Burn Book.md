@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/kara-swisher-burn-book/","title":"\"Burn Book\"","tags":["business","non-fiction","autobiography","tech"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=9NbnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## Burn Book
+
+### Description
+
+From award-winning journalist Kara Swisher comes a witty, scathing, but fair accounting of the tech industry and its founders who wanted to change the world but broke it instead. While tech titans bragged they would 'move fast and break things', Kara Swisher was moving faster and breaking news. Covering the explosion of the digital sector in the early 1990s, she developed a long track record of digging up and reporting the truth of this new world order. Her consistent scoops drove one CEO to accuse her of "listening in the heating ducts" and for Facebook's Sheryl Sandberg to once say: 'It is a constant joke in the Valley when people write memos for them to say, "I hope Kara never sees this."' Burn Book is part memoir, part history and, most of all, a necessary recounting of tech's most powerful players. This is the inside story we've all been waiting for of modern Silicon Valley and the biggest boom in wealth creation in the history of the world. While still in college, Swisher got her start at The Washington Post, where she became one of the few people in journalism interested in the emerging field of tech. She was among the first to recognize the potential of the internet, accurately predicting that 'everything that could be digitized, would be digitized.' She went on to work for The Wall Story Journal, joining with Walt Mossberg to start the groundbreaking AllThingsD conference, as well as pioneering online tech sites. It's only a slight exaggeration to say Swisher has interviewed everyone. Steve Jobs, Jeff Bezos, Elon Musk, Bill Gates, Bob Iger, Larry Page and Sergey Brin, Meg Whitman, Peter Thiel, and Mark Zuckerberg are just a few who Swisher made sweat-figuratively and, in one famous case, literally. Despite the damage she chronicles, Swisher remains optimistic about tech's potential to help solve problems and not just create them. She calls upon the industry to make better, more thoughtful choices, even as a new set of powerful AI tools are poised to change the world yet again. At its heart, this book is a love story to, for, and about tech from someone who knows it better than anyone. Burn Book includes soaring tales of innovation and brilliant entrepreneurs, as well as Silicon Valley's much more complex history of striving, success, and failure. The book details how the commercial internet came into being and how, for all it has given the world, it now sits at the center of global power, creating a clear and present danger to humanity.
+```
