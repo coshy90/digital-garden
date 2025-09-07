@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/sequoia-nagamatsu-how-high-we-go-in-the-dark/","title":"\"How High We Go in the Dark\"","tags":["dystopia","science-fiction"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=d3g4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## How High We Go in the Dark
+
+### Description
+
+SHORTLISTED FOR THE WATERSTONES DEBUT FICTION PRIZE 2022 FINALIST FOR THE BARNES & NOBLE DISCOVER PRIZE 2022 FINALIST FOR THE URSULA LE GUIN PRIZE FOR FICTION 2022 WATERSTONES AND ESQUIRE BEST BOOKS OF 2022 For fans of Cloud Atlas and Station Eleven, Sequoia Nagamatsu's debut is a wildly imaginative, genre-bending work spanning generations across the globe as humanity struggles to rebuild itself in the aftermath of a climate plague. 'Haunting and luminous ... An astonishing debut' – Alan Moore, creator of Watchmen and V for Vendetta 'A powerfully moving and thought provoking read. At times sublime, strange and deeply human' Adrian Tchaikovsky, bestselling author of the Children of Time series Dr. Cliff Miyashiro arrives in the Arctic Circle to continue his recently deceased daughter's research, only to discover a virus, newly unearthed from melting permafrost. The plague unleashed reshapes life on earth for generations. Yet even while struggling to counter this destructive force, humanity stubbornly persists in myriad moving and ever inventive ways. Among those adjusting to this new normal are an aspiring comedian, employed by a theme park designed for terminally ill children, who falls in love with a mother trying desperately to keep her son alive; a scientist who, having failed to save his own son from the plague, gets a second chance at fatherhood when one of his test subjects-a pig-develops human speech; a man who, after recovering from his own coma, plans a block party for his neighbours who have also woken up to find that they alone have survived their families; and a widowed painter and her teenaged granddaughter who must set off on cosmic quest to locate a new home planet. From funerary skyscrapers to hotels for the dead, How High We Go in the Dark follows a cast of intricately linked characters spanning hundreds of years as humanity endeavours to restore the delicate balance of the world. This is a story of unshakable hope that crosses literary lines to give us a world rebuilding itself through an endless capacity for love, resilience and reinvention. Wonderful and disquieting, dreamlike and all too possible. [How High We Go in the Dark] reaches far beyond our stars while its heart remains rooted to Earth, and reminds us that our wellbeing depends on the wellbeing of our world - Samantha Shannon, author of The Priory of the Orange Tree
+```
