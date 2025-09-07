@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/deborah-harkness-a-discovery-of-witches/","title":"\"A Discovery of Witches\"","tags":["Fantasy","romance"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=GucTZscZJhwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## A Discovery of Witches
+
+### Description
+
+*THE HIGHLY ANTICIPATED FIFTH NOVEL IN THE BELOVED NUMBER ONE SUNDAY TIMES BESTSELLING ALL SOULS SERIES, THE BLACK BIRD ORACLE, IS AVAILABLE TO ORDER.* 'A masterpiece' Reader Review, ⭐ ⭐ ⭐ ⭐ ⭐ 'Bewitches you and doesn't set you free' Reader Review, ⭐ ⭐ ⭐ ⭐ ⭐ 'One of the best books I have ever read' Reader Review, ⭐ ⭐ ⭐ ⭐ ⭐ The phenomenal first instalment in the Number One Sunday Times bestselling ALL SOULS series! It begins with absence and desire. It begins with blood and fear. It begins with a discovery of witches. --- A world of witches, daemons and vampires. A manuscript which holds the secrets of their past and the key to their future. Diana and Matthew - the forbidden love at the heart of it. When historian Diana Bishop opens an alchemical manuscript in the Bodleian Library, it's an unwelcome intrusion of magic into her carefully ordered life. Though Diana is a witch of impeccable lineage, the violent death of her parents while she was still a child convinced her that human fear is more potent than any witchcraft. Now Diana has unwittingly exposed herself to a world she's kept at bay for years; one of powerful witches, creative, destructive daemons and long-lived vampires. Sensing the significance of Diana's discovery, the creatures gather in Oxford, among them the enigmatic Matthew Clairmont, a vampire geneticist. Diana is inexplicably drawn to Matthew and, in a shadowy world of half-truths and old enmities, ties herself to him without fully understanding the ancient line they are crossing. As they begin to unlock the secrets of the manuscript and their feelings for each other deepen, so the fragile balance of peace unravels... Fall under the spell of Diana and Matthew in the stunning first volume of the runaway Number One Sunday Times bestselling ALL SOULS series. --- Five reasons to read A Discovery of Witches and the ALL SOULS series: 'Haunting in every way. A story thick with family secrets, human heartache, and the kind of deep magic only Harkness can conjure. You will be enchanted' LEIGH BARDUGO 'Harkness's lush prose makes a fantastical world real enough to touch' JODI PICOULT 'Rich, thrilling . . . A captivating and romantic ripping yarn' E L JAMES 'Intelligent and off-the-wall . . . irresistible to Twilight fans' SUNDAY TIMES 'A bubbling cauldron of illicit desire . . . an assured saga that blends romance with fantasy' DAILY MAIL
+```

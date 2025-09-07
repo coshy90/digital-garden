@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/ed-catmull-amy-wallace-creativity-inc-the-expanded-edition/","title":"\"Creativity, Inc. (The Expanded Edition)\"","tags":["business","non-fiction","creative","animation"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=UqccAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## Creativity, Inc. (The Expanded Edition)
+
+### Description
+
+The co-founder and longtime president of Pixar updates and expands his 2014 New York Times bestseller on creative leadership, reflecting on the management principles that built Pixar’s singularly successful culture, and on all he learned during the past nine years that allowed Pixar to retain its creative culture while continuing to evolve. “Might be the most thoughtful management book ever.”—Fast Company For nearly thirty years, Pixar has dominated the world of animation, producing such beloved films as the Toy Story trilogy, Finding Nemo, The Incredibles, Up, and WALL-E, which have gone on to set box-office records and garner eighteen Academy Awards. The joyous storytelling, the inventive plots, the emotional authenticity: In some ways, Pixar movies are an object lesson in what creativity really is. Here, Catmull reveals the ideals and techniques that have made Pixar so widely admired—and so profitable. As a young man, Ed Catmull had a dream: to make the first computer-animated movie. He nurtured that dream as a Ph.D. student, and then forged a partnership with George Lucas that led, indirectly, to his founding Pixar with Steve Jobs and John Lasseter in 1986. Nine years later, Toy Story was released, changing animation forever. The essential ingredient in that movie’s success—and in the twenty-five movies that followed—was the unique environment that Catmull and his colleagues built at Pixar, based on philosophies that protect the creative process and defy convention, such as: • Give a good idea to a mediocre team and they will screw it up. But give a mediocre idea to a great team and they will either fix it or come up with something better. • It’s not the manager’s job to prevent risks. It’s the manager’s job to make it safe for others to take them. • The cost of preventing errors is often far greater than the cost of fixing them. • A company’s communication structure should not mirror its organizational structure. Everybody should be able to talk to anybody. Creativity, Inc. has been significantly expanded to illuminate the continuing development of the unique culture at Pixar. It features a new introduction, two entirely new chapters, four new chapter postscripts, and changes and updates throughout. Pursuing excellence isn’t a one-off assignment but an ongoing, day-in, day-out, full-time job. And Creativity, Inc. explores how it is done.
+```
