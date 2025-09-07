@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/lauren-graham-talking-as-fast-as-i-can/","title":"\"Talking As Fast As I Can\"","tags":["essay","autobiography"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=lob1DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## Talking As Fast As I Can
+
+### Description
+
+A NEW YORK TIMES BESTSELLER In this collection of personal essays, the beloved star of Gilmore Girls and Parenthood reveals stories about life, love, and working as a woman in Hollywood, along with behind-the-scenes dispatches from the set of the new Gilmore Girls, where she plays the fast-talking Lorelai Gilmore once again. In Talking As Fast As I Can, Lauren Graham hits pause for a moment and looks back on her life, sharing laugh-out-loud stories about growing up, starting out as an actress, and, years later, sitting in her trailer on the Parenthood set and asking herself, "Did you, um, make it?" She opens up about the challenges of being single in Hollywood ("Strangers were worried about me; that's how long I was single!"), the time she was asked to audition her butt for a role, and her experience being a judge onProject Runway ("It's like I had a fashion-induced blackout"). In "What It Was Like, Part One," Graham sits down for an epic Gilmore Girls marathon and reflects on being cast as the fast-talking Lorelai Gilmore. The essay "What It Was Like, Part Two" reveals how it felt to pick up the role again nine years later, and what doing so has meant to her. Some more things you will learn about Lauren: She once tried to go vegan just to bond with Ellen DeGeneres, she's aware that meeting guys at awards shows has its pitfalls ("If you're meeting someone for the first time after three hours of hair, makeup, and styling, you've already set the bar too high"), and she's a card-carrying REI shopper ("My bungee cords now earn points!"). Including photos and excerpts from the diary Graham kept during the filming of the recent Gilmore Girls: A Year in the Life, this book is like a cozy night in, catching up with your best friend, laughing and swapping stories, and-of course-talking as fast as you can. Don't miss Lauren Graham's book of advice for graduates and reflections on staying true to yourself , IN CONCLUSION, DON'T WORRY ABOUT IT.
+```
