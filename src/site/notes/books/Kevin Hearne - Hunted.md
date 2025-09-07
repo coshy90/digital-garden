@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/kevin-hearne-hunted/","title":"\"Hunted\"","tags":["Fantasy","druid"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=wYzva5t_5KQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## Hunted
+
+### Description
+
+NEW YORK TIMES BESTSELLER For a two-thousand-year-old Druid, Atticus O’Sullivan is a pretty fast runner. Good thing, because he’s being chased by not one but two goddesses of the hunt—Artemis and Diana—for messing with one of their own. Dodging their slings and arrows, Atticus, Granuaile, and his wolfhound Oberon are making a mad dash across modern-day Europe to seek help from a friend of the Tuatha Dé Danann. His usual magical option of shifting planes is blocked, so instead of playing hide-and-seek, the game plan is . . . run like hell. Crashing the pantheon marathon is the Norse god Loki. Killing Atticus is the only loose end he needs to tie up before unleashing Ragnarok—AKA the Apocalypse. Atticus and Granuaile have to outfox the Olympians and contain the god of mischief if they want to go on living—and still have a world to live in. Includes Kevin Hearne’s novella “Two Ravens and One Crow” in the back of the book Don’t miss any of Kevin Hearne’s phenomenal Iron Druid Chronicles novels: HOUNDED | HEXED | HAMMERED | TRICKED | TRAPPED | HUNTED | SHATTERED | STAKED Praise for Kevin Hearne “It may be possible that Hearne and Atticus are the logical heir to Butcher and Dresden.”―SFFWorld “An exciting mix of comedy, action, and mythology . . . [Atticus] is one of the best main characters currently present in the urban fantasy genre.”—Fantasy Book Critic, on Tricked “Superb . . . eminently readable . . . plenty of quips and zap-pow-bang fighting.”—Publishers Weekly (starred review), on Hounded Praise for Hunted “Hunted is the best by far! . . . Storytelling doesn’t get much better than this, folks. The author has caught lightning (pun intended) in a bottle and he keeps doing it again, and again. If you haven’t caught on to the joy that is the Iron Druid Chronicles, you should remedy that, post-haste.”—My Bookish Ways “Hunted is everything you’ve come to expect from an Iron Druid book, and then some. I give Hunted [a] five out of five.”—Roqoo Depot “A fun, action packed book that delivers some great sequences, and some superb narrative with some great humour.”—The Founding Fields “Hunted is filled with everything I love about the series. Snark runs rampant, action is non-stop, the world building is phenomenal, and the characters are ones that you would love to sit down and have a drink with.”—Mad Hatter Reads “Hunted is an adrenaline-filled read with tons of action, fantastic mythology and some real twists. The epilogue has me itching to get my hands on the next in the series.”—Vampire Book Club
+```
