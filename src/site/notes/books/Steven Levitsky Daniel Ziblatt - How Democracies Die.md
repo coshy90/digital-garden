@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/steven-levitsky-daniel-ziblatt-how-democracies-die/","title":"\"How Democracies Die\"","tags":["non-fiction","politics","sociopolitical","history"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=iF3ODgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## How Democracies Die
+
+### Description
+
+NEW YORK TIMES BESTSELLER • “Comprehensive, enlightening, and terrifyingly timely.”—The New York Times Book Review (Editors' Choice) WINNER OF THE GOLDSMITH BOOK PRIZE • SHORTLISTED FOR THE LIONEL GELBER PRIZE • NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The Washington Post • Time • Foreign Affairs • WBUR • Paste Donald Trump’s presidency has raised a question that many of us never thought we’d be asking: Is our democracy in danger? Harvard professors Steven Levitsky and Daniel Ziblatt have spent more than twenty years studying the breakdown of democracies in Europe and Latin America, and they believe the answer is yes. Democracy no longer ends with a bang—in a revolution or military coup—but with a whimper: the slow, steady weakening of critical institutions, such as the judiciary and the press, and the gradual erosion of long-standing political norms. The good news is that there are several exit ramps on the road to authoritarianism. The bad news is that, by electing Trump, we have already passed the first one. Drawing on decades of research and a wide range of historical and global examples, from 1930s Europe to contemporary Hungary, Turkey, and Venezuela, to the American South during Jim Crow, Levitsky and Ziblatt show how democracies die. Now the question is, can our democracy be saved? Praise for How Democracies Die “What we desperately need is a sober, dispassionate look at the current state of affairs. Steven Levitsky and Daniel Ziblatt, two of the most respected scholars in the field of democracy studies, offer just that.”—The Washington Post “Where Levitsky and Ziblatt make their mark is in weaving together political science and historical analysis of both domestic and international democratic crises; in doing so, they expand the conversation beyond Trump and before him, to other countries and to the deep structure of American democracy and politics.”—Ezra Klein, Vox “If you only read one book for the rest of the year, read How Democracies Die. . . .This is not a book for just Democrats or Republicans. It is a book for all Americans. It is nonpartisan. It is fact based. It is deeply rooted in history. . . . The best commentary on our politics, no contest.”—Michael Morrell, former Acting Director of the Central Intelligence Agency (via Twitter) “A smart and deeply informed book about the ways in which democracy is being undermined in dozens of countries around the world, and in ways that are perfectly legal.”—Fareed Zakaria, CNN
+```
