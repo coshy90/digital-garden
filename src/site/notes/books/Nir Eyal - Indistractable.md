@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/nir-eyal-indistractable/","title":"\"Indistractable\"","tags":["psychology","non-fiction"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=kO5KEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## Indistractable
+
+### Description
+
+"Indistractable provides a framework that will deliver the focus you need to get results." —James Clear, author of Atomic Habits "If you value your time, your focus, or your relationships, this book is essential reading. I'm putting these ideas into practice." —Jonathan Haidt, author of The Righteous Mind NATIONAL BESTSELLER WINNER OF THE OUTSTANDING WORKS OF LITERATURE (OWL) AWARD INCLUDED IN THE TOP 5 BEST PERSONAL DEVELOPMENT BOOKS OF THE YEAR BY AUDIBLE INCLUDED IN THE TOP 20 BEST BUSINESS AND LEADERSHIP BOOKS OF THE YEAR BY AMAZON FEATURED IN THE AMAZON BOOK REVIEW NEWSLETTER, JANUARY 2020 GOODREADS BEST SCIENCE & TECHNOLOGY OF 2019 FINALIST You sit down at your desk to work on an important project, but a notification on your phone interrupts your morning. Later, as you're about to get back to work, a colleague taps you on the shoulder to chat. At home, screens get in the way of quality time with your family. Another day goes by, and once again, your most important personal and professional goals are put on hold. What would be possible if you followed through on your best intentions? What could you accomplish if you could stay focused? What if you had the power to become "indistractable?" International bestselling author, former Stanford lecturer, and behavioral design expert, Nir Eyal, wrote Silicon Valley's handbook for making technology habit-forming. Five years after publishing Hooked, Eyal reveals distraction's Achilles' heel in his groundbreaking new book. In Indistractable, Eyal reveals the hidden psychology driving us to distraction. He describes why solving the problem is not as simple as swearing off our devices: Abstinence is impractical and often makes us want more. Eyal lays bare the secret of finally doing what you say you will do with a four-step, research-backed model. Indistractable reveals the key to getting the best out of technology, without letting it get the best of us. Inside, Eyal overturns conventional wisdom and reveals: • Why distraction at work is a symptom of a dysfunctional company culture—and how to fix it • What really drives human behavior and why "time management is pain management" • Why your relationships (and your sex life) depend on you becoming indistractable • How to raise indistractable children in an increasingly distracting world Empowering and optimistic, Indistractable provides practical, novel techniques to control your time and attention—helping you live the life you really want.
+```

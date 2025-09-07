@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/nicholas-carr-the-shallows-what-the-internet-is-doing-to-our-brains/","title":"\"The Shallows: What the Internet Is Doing to Our Brains\"","tags":["psychology","science","tech","non-fiction"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=1KayoVl3OTMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## The Shallows: What the Internet Is Doing to Our Brains
+
+### Description
+
+Finalist for the 2011 Pulitzer Prize in General Nonfiction: “Nicholas Carr has written a Silent Spring for the literary mind.”—Michael Agger, Slate “Is Google making us stupid?” When Nicholas Carr posed that question, in a celebrated Atlantic Monthly cover story, he tapped into a well of anxiety about how the Internet is changing us. He also crystallized one of the most important debates of our time: As we enjoy the Net’s bounties, are we sacrificing our ability to read and think deeply? Now, Carr expands his argument into the most compelling exploration of the Internet’s intellectual and cultural consequences yet published. As he describes how human thought has been shaped through the centuries by “tools of the mind”—from the alphabet to maps, to the printing press, the clock, and the computer—Carr interweaves a fascinating account of recent discoveries in neuroscience by such pioneers as Michael Merzenich and Eric Kandel. Our brains, the historical and scientific evidence reveals, change in response to our experiences. The technologies we use to find, store, and share information can literally reroute our neural pathways. Building on the insights of thinkers from Plato to McLuhan, Carr makes a convincing case that every information technology carries an intellectual ethic—a set of assumptions about the nature of knowledge and intelligence. He explains how the printed book served to focus our attention, promoting deep and creative thought. In stark contrast, the Internet encourages the rapid, distracted sampling of small bits of information from many sources. Its ethic is that of the industrialist, an ethic of speed and efficiency, of optimized production and consumption—and now the Net is remaking us in its own image. We are becoming ever more adept at scanning and skimming, but what we are losing is our capacity for concentration, contemplation, and reflection. Part intellectual history, part popular science, and part cultural criticism, The Shallows sparkles with memorable vignettes—Friedrich Nietzsche wrestling with a typewriter, Sigmund Freud dissecting the brains of sea creatures, Nathaniel Hawthorne contemplating the thunderous approach of a steam locomotive—even as it plumbs profound questions about the state of our modern psyche. This is a book that will forever alter the way we think about media and our minds.
+```
