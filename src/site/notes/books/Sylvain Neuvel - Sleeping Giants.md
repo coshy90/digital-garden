@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/sylvain-neuvel-sleeping-giants/","title":"\"Sleeping Giants\"","tags":["science-fiction"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=RvriCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## Sleeping Giants
+
+### Description
+
+A page-turning debut in the tradition of Michael Crichton, World War Z, and The Martian, Sleeping Giants is a thriller fueled by an earthshaking mystery—and a fight to control a gargantuan power. A girl named Rose is riding her new bike near her home in Deadwood, South Dakota, when she falls through the earth. She wakes up at the bottom of a square hole, its walls glowing with intricate carvings. But the firemen who come to save her peer down upon something even stranger: a little girl in the palm of a giant metal hand. Seventeen years later, the mystery of the bizarre artifact remains unsolved—its origins, architects, and purpose unknown. Its carbon dating defies belief; military reports are redacted; theories are floated, then rejected. But some can never stop searching for answers. Rose Franklin is now a highly trained physicist leading a top secret team to crack the hand’s code. And along with her colleagues, she is being interviewed by a nameless interrogator whose power and purview are as enigmatic as the provenance of the relic. What’s clear is that Rose and her compatriots are on the edge of unraveling history’s most perplexing discovery—and figuring out what it portends for humanity. But once the pieces of the puzzle are in place, will the result prove to be an instrument of lasting peace or a weapon of mass destruction? Praise for Sleeping Giants “As high-concept as it is, Sleeping Giants is a thriller through and through. . . . One of the most promising series kickoffs in recent memory, [and] a smart demonstration of how science fiction can honor its traditions and reverse-engineer them at the same time.”—NPR “Neuvel weaves a complex tapestry with ancient machinery buried in the Earth, shadow governments, and geopolitical conflicts. But the most surprising thing about the book may just be how compelling the central characters are in the midst of these larger-than-life concepts. . . . I can’t stop thinking about it.”—Chicago Review of Books “A remarkable debut . . . Reminiscent of Max Brooks’s World War Z, the story’s format effectively builds suspense.”—Library Journal (debut of the month) “This stellar debut novel . . . masterfully blends together elements of sci-fi, political thriller and apocalyptic fiction. . . . A page-turner of the highest order.”—Kirkus Reviews (starred review) Don’t miss any of The Themis Files by Sylvain Neuvel: SLEEPING GIANTS | WAKING GODS | ONLY HUMAN
+```
