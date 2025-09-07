@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/nana-kwame-adjei-brenyah-chain-gang-all-stars-a-read-with-jenna-pick/","title":"\"Chain Gang All Stars: A Read with Jenna Pick\"","tags":["dystopia","contemporary"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=Ov14EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## Chain Gang All Stars: A Read with Jenna Pick
+
+### Description
+
+A NEW YORK TIMES TOP TEN BOOK OF THE YEAR • FINALIST FOR THE NATIONAL BOOK AWARD IN FICTION • A READ WITH JENNA BOOK CLUB PICK • NATIONAL BESTSELLER • Two top women gladiators fight for their freedom within a depraved private prison system not so far-removed from America’s own in this explosive, hotly-anticipated debut novel from the New York Times bestselling author of Friday Black • LONGLISTED FOR THE ANDREW CARNEGIE MEDAL FOR EXCELLENCE “This book is so good. Brutal subject matter, beautiful writing. This one is from the heart.” —Stephen King A Best Book of the Year: The New York Times, The Washington Post, NPR, Elle, Esquire, Chicago Tribune, Lit Hub, Kirkus Reviews “Like Orwell’s 1984 and Atwood’s The Handmaid’s Tale, Adjei-Brenyah’s book presents a dystopian vision so…illuminating that it should permanently shift our understanding of who we are and what we’re capable of doing.” —The Washington Post She felt their eyes, all those executioners… Loretta Thurwar and Hamara “Hurricane Staxxx” Stacker are the stars of the Chain-Gang All-Stars, the cornerstone of CAPE, or Criminal Action Penal Entertainment, a highly popular, highly controversial profit-raising program in America’s increasingly dominant private prison industry. It’s the return of the gladiators, and prisoners are com­peting for the ultimate prize: their freedom. In CAPE, prisoners travel as Links in Chain-Gangs, competing in death matches before packed arenas with righteous protestors at the gates. Thur­war and Staxxx, both teammates and lovers, are the fan favorites. And if all goes well, Thurwar will be free in just a few matches, a fact she carries as heavily as her lethal hammer. As she prepares to leave her fellow Links, Thurwar considers how she might help preserve their humanity, in defiance of these so-called games. But CAPE’s corporate own­ers will stop at nothing to protect their status quo, and the obstacles they lay in Thurwar’s path have devastating consequences. Moving from the Links in the field to the protestors, to the CAPE employees and beyond, Chain-Gang All-Stars is a kaleidoscopic, excoriating look at the American prison system’s unholy alli­ance of systemic racism, unchecked capitalism, and mass incarceration, and a clear-eyed reckoning with what freedom in this country really means from a “new and necessary American voice” (Tommy Orange, The New York Times Book Review).
+```
