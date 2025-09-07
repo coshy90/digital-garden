@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/reed-hastings-erin-meyer-no-rules-rules/","title":"\"No Rules Rules\"","tags":["business","non-fiction","creative"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=Hh6OEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+
+## No Rules Rules
+
+### Description
+
+The New York Times bestseller Shortlisted for the 2020 Financial Times & McKinsey Business Book of the Year Netflix cofounder Reed Hastings reveals for the first time the unorthodox culture behind one of the world's most innovative, imaginative, and successful companies There has never before been a company like Netflix. It has led nothing short of a revolution in the entertainment industries, generating billions of dollars in annual revenue while capturing the imaginations of hundreds of millions of people in over 190 countries. But to reach these great heights, Netflix, which launched in 1998 as an online DVD rental service, has had to reinvent itself over and over again. This type of unprecedented flexibility would have been impossible without the counterintuitive and radical management principles that cofounder Reed Hastings established from the very beginning. Hastings rejected the conventional wisdom under which other companies operate and defied tradition to instead build a culture focused on freedom and responsibility, one that has allowed Netflix to adapt and innovate as the needs of its members and the world have simultaneously transformed. Hastings set new standards, valuing people over process, emphasizing innovation over efficiency, and giving employees context, not controls. At Netflix, there are no vacation or expense policies. At Netflix, adequate performance gets a generous severance, and hard work is irrel­evant. At Netflix, you don’t try to please your boss, you give candid feedback instead. At Netflix, employees don’t need approval, and the company pays top of market. When Hastings and his team first devised these unorthodox principles, the implications were unknown and untested. But in just a short period, their methods led to unparalleled speed and boldness, as Netflix quickly became one of the most loved brands in the world. Here for the first time, Hastings and Erin Meyer, bestselling author of The Culture Map and one of the world’s most influential business thinkers, dive deep into the controversial ideologies at the heart of the Netflix psyche, which have generated results that are the envy of the business world. Drawing on hundreds of interviews with current and past Netflix employees from around the globe and never-before-told stories of trial and error from Hastings’s own career, No Rules Rules is the fascinating and untold account of the philosophy behind one of the world’s most innovative, imaginative, and successful companies.
+```
