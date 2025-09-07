@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/books/melinda-french-gates-the-moment-of-lift/","title":"\"The Moment of Lift\"","tags":["feminism","non-fiction","sociopolitical"]}
+---
+
+```
+
+![cover|150](http://books.google.com/books/content?id=8eWGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+
+## The Moment of Lift
+
+### Description
+
+'When you lift up women, you lift up everybody - families, communities, entire countries... In her book, Melinda tells the stories of the inspiring people she's met through her work all over the world, digs into the data, and powerfully illustrates issues that need our attention... I've called Melinda an impatient optimist and that's what she delivers here - the urgency to tackle these problems and the unwavering belief that solving them is indeed possible.' Barack Obama How can we summon a moment of lift for human beings - and especially for women? Because when you lift up women, you lift up humanity. In this moving and compelling New York Times bestseller, Melinda shares lessons she's learned from the inspiring people she's met during her work and travels around the world. As she writes in the introduction, 'That is why I had to write this book - to share the stories of people who have given focus and urgency to my life. I want all of us to see ways we can lift women up where we live.' For the last twenty years, Melinda Gates has been on a mission to find solutions for people with the most urgent needs, wherever they live. Throughout this journey, one thing has become increasingly clear to her: if you want to lift a society up, you need to stop keeping women down. Melinda provides an unforgettable narrative backed by startling data as she presents the issues that most need our attention - from child marriage to lack of access to contraceptives to gender inequity in the workplace. and, for the first time, she writes about her personal life and the road to equality in her own marriage. Throughout, she shows how there has never been more opportunity to change the world - and ourselves. Writing with emotion, candour and grace, she introduces us to remarkable women and shows the power of connecting with one another. When we lift others up, they lift us up too. PRAISE FOR THE MOMENT OF LIFT 'It is a call for unity, inclusion and connection. We need this message more than ever' Malala Yousafzai 'The Moment of Lift is an urgent call to courage. It changed how I think about myself, my family, my work, and what's possible in the world. Melinda weaves together vulnerable, brave storytelling and compelling data to make this one of those rare books you carry in your heart and mind long after the last page.' Brené Brown, PdD, author of New York Times bestseller Dare to Lead
+```
