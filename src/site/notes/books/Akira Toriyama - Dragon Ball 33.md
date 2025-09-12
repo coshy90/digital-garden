@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/akira-toriyama-dragon-ball-33/","title":"\"Dragon Ball 33\"","tags":["manga","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=vzpxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
