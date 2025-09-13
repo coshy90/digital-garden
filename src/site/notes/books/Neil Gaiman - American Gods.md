@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/neil-gaiman-american-gods/","title":"\"American Gods\"","tags":["contemporary","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=fXfJCKXp5-kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

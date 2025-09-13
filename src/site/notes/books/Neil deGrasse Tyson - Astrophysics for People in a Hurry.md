@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/neil-de-grasse-tyson-astrophysics-for-people-in-a-hurry/","title":"\"Astrophysics for People in a Hurry\"","tags":["science","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=hx5DDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

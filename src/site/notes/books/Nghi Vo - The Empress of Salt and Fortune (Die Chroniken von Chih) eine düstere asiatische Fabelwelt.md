@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/nghi-vo-the-empress-of-salt-and-fortune-die-chroniken-von-chih-eine-duestere-asiatische-fabelwelt/","title":"\"The Empress of Salt and Fortune (Die Chroniken von Chih) | eine düstere asiatische Fabelwelt.\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Br5TEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

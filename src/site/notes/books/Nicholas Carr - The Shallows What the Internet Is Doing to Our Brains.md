@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/nicholas-carr-the-shallows-what-the-internet-is-doing-to-our-brains/","title":"\"The Shallows: What the Internet Is Doing to Our Brains\"","tags":["psychology","science","tech","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=1KayoVl3OTMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
