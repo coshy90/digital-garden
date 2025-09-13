@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/brian-k-vaughan-saga-vol-11/","title":"\"Saga Vol. 11\"","tags":["graphic-novel","Fantasy","science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=5OPhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

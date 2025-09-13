@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/chantha-nguon-slow-noodles/","title":"\"Slow Noodles\"","tags":["autobiography","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=K6vDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

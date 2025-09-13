@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/brianna-wiest-101-essays-that-will-change-the-way-you-think/","title":"\"101 Essays That Will Change the Way You Think\"","tags":["essay","non-fiction","philosophy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Qt1ZvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

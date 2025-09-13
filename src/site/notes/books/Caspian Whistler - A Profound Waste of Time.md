@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/caspian-whistler-a-profound-waste-of-time/","title":"\"A Profound Waste of Time\"","tags":["non-fiction","essay","video-games","art"]}
 ---
 
-```
+
 
 ![cover|150](https://cdn.thestorygraph.com/e24dnbvl8wohu0y5hzcw1fxt0dzy)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/carmine-gallo-talk-like-ted/","title":"\"Talk Like TED\"","tags":["non-fiction","business","work"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=3YzqAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

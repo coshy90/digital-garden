@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/charles-duhigg-the-power-of-habit/","title":"\"The Power of Habit\"","tags":["non-fiction","psychology"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=c12idXqsE5cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

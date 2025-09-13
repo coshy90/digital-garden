@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/carl-zuckmayer-der-hauptmann-von-koepenick/","title":"\"Der Hauptmann von Köpenick\"","tags":["play","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=PtFuAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

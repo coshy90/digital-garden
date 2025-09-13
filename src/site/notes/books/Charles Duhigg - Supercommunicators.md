@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/charles-duhigg-supercommunicators/","title":"\"Supercommunicators\"","tags":["communication","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=D9e_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

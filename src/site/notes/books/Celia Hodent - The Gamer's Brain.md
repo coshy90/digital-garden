@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/celia-hodent-the-gamer-s-brain/","title":"The Gamer's Brain","tags":["non-fiction","video-games","psychology","science"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=JzyhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

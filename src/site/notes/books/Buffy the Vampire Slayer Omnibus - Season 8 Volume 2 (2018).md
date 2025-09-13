@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/buffy-the-vampire-slayer-omnibus-season-8-volume-2-2018/","title":"\"Buffy the Vampire Slayer Omnibus - Season 8 Volume #2 (2018)\"","tags":["graphic-novel","Fantasy","horror"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=_oluEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

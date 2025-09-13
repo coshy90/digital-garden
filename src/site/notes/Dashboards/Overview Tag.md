@@ -72,7 +72,10 @@
 | #1-6              | 1     | [[Tags/1-6\|To 1-6 overview]]                           |
 | #13-18            | 1     | [[Tags/13-18\|To 13-18 overview]]                       |
 | #43-48            | 1     | [[Tags/43-48\|To 43-48 overview]]                       |
+| #49-54            | 1     | [[Tags/49-54\|To 49-54 overview]]                       |
 | #6-10             | 1     | [[Tags/6-10\|To 6-10 overview]]                         |
+| #61-66            | 1     | [[Tags/61-66\|To 61-66 overview]]                       |
+| #7-12             | 1     | [[Tags/7-12\|To 7-12 overview]]                         |
 | #animation        | 1     | [[Tags/animation\|To animation overview]]               |
 | #community        | 1     | [[Tags/community\|To community overview]]               |
 | #cooking          | 1     | [[Tags/cooking\|To cooking overview]]                   |

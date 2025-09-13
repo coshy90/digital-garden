@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/britney-spears-the-woman-in-me/","title":"\"The Woman in Me\"","tags":["autobiography","non-fiction","music"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=kw2ZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

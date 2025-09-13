@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/brian-k-vaughan-saga-volume-2-new-edition/","title":"\"Saga Volume 2\"","tags":["Fantasy","science-fiction","graphic-novel"]}
 ---
 
-```
+
 
 ![cover|150](https://cdn.thestorygraph.com/semkk0ud4i54143lzfwjvjevpks0)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/cassandra-clare-sword-catcher-die-chroniken-von-castellan/","title":"\"Sword Catcher - Die Chroniken von Castellan\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ci6oEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

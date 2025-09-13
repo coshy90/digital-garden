@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/carne-ross-independent-diplomat/","title":"\"Independent Diplomat\"","tags":["politics","non-fiction","academic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=vKBfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

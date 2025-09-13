@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/cal-newport-digital-minimalism/","title":"\"Digital Minimalism\"","tags":["non-fiction","sociopolitical"]}
 ---
 
-```
+
 
 ![cover|150](https://dansilvestre.com/wp-content/uploads/2021/02/Digital-Minimalism-by-Cal-Newport-scaled.jpg)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/cass-r-sunstein-on-rumours/","title":"\"On Rumours\"","tags":["non-fiction","sociopolitical"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=bECs_-UaRkEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

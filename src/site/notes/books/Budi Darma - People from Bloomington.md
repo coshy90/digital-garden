@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/budi-darma-people-from-bloomington/","title":"\"People from Bloomington\"","tags":["contemporary","short-story"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=SfE3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/charles-webb-the-graduate/","title":"\"The Graduate\"","tags":["classic","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=lcQpAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
