@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gosho-aoyama-case-closed-vol-36/","title":"\"Detektiv Conan Vol. 36\"","tags":["manga","crime"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=GRX0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

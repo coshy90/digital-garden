@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gosho-aoyama-case-closed-vol-32/","title":"\"Detektiv Conan Vol. 32\"","tags":["manga","crime"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=N5L3PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
