@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yoshiki-nakamura-skip-beat-22/","title":"\"Skip Beat! 22\"","tags":["romance","manga"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=gmtwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

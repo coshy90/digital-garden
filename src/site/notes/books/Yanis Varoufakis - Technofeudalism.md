@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yanis-varoufakis-technofeudalism/","title":"\"Technofeudalism\"","tags":["non-fiction","business","economy","politics","sociopolitical"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=9k2lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

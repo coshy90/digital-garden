@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/wolfgang-koeppen-tauben-im-gras/","title":"\"Tauben im Gras\"","tags":["classic","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ttE7CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yeonmi-park-in-order-to-live/","title":"\"In Order to Live\"","tags":["autobiography"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=OrBXrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
