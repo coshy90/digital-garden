@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/ed-catmull-amy-wallace-creativity-inc-the-expanded-edition/","title":"\"Creativity, Inc. (The Expanded Edition)\"","tags":["business","non-fiction","creative","animation"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=UqccAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

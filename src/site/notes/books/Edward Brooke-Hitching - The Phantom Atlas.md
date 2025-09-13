@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/edward-brooke-hitching-the-phantom-atlas/","title":"\"The Phantom Atlas\"","tags":["non-fiction","maps","history"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=rdA8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

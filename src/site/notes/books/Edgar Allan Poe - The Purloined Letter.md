@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/edgar-allan-poe-the-purloined-letter/","title":"\"The Purloined Letter\"","tags":["classic","crime","short-story"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=KZVdEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

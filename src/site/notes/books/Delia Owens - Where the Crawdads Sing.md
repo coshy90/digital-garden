@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/delia-owens-where-the-crawdads-sing/","title":"\"Where the Crawdads Sing\"","tags":["contemporary","crime"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=jVB1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eiichiro-oda-one-piece-22/","title":"\"One Piece 22\"","tags":["manga","Fantasy","pirate"]}
 ---
 
-```
+
 
 ![cover|150](https://cdn.thestorygraph.com/dex0503g5s21kz77e5x2tpgpfjde)
 

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/books/dk-the-literature-book/","title":"\"The Literature Book\"","tags":["non-fiction","books","history"]}
 ---
 
-```
 
 ![cover|150](http://books.google.com/books/content?id=T0NgCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

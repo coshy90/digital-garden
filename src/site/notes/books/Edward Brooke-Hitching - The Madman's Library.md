@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/edward-brooke-hitching-the-madman-s-library/","title":"The Madman's Library","tags":["non-fiction","books","history"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=lKIFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/douglas-stone-bruce-patton-sheila-heen-difficult-conversations/","title":"\"Difficult Conversations\"","tags":["non-fiction","communication"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=D5HxtvaRzdwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/dipo-faloyin-africa-is-not-a-country/","title":"\"Africa Is Not A Country\"","tags":["race","non-fiction","history","sociopolitical"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=tiAxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

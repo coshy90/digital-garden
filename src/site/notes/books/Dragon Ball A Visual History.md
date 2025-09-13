@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/dragon-ball-a-visual-history/","title":"\"Dragon Ball: A Visual History\"","tags":["art","anime","graphic-novel","Fantasy","manga"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=JVcDwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eckhart-tolle-the-power-of-now/","title":"\"The Power of Now\"","tags":["philosophy","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=QFQ7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

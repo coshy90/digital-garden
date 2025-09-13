@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/edward-m-hallowell-john-j-ratey-adhd-20/","title":"\"ADHD 2.0\"","tags":["health","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](https://images.thenile.io/r1000/9780399178740.jpg)
 

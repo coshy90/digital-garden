@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/dk-a-history-of-magic-witchcraft-and-the-occult/","title":"\"A History of Magic, Witchcraft and the Occult\"","tags":["non-fiction","history","myth","religion","magic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=PSnkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
