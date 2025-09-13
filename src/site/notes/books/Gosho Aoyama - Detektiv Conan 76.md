@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gosho-aoyama-detektiv-conan-76/","title":"\"Detektiv Conan 76\"","tags":["crime","manga"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=eT9_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

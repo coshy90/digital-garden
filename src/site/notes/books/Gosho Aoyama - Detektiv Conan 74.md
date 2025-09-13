@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gosho-aoyama-detektiv-conan-74/","title":"\"Detektiv Conan 74\"","tags":["manga","crime"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=mD1_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

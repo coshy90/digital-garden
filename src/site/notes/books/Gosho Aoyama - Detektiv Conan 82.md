@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gosho-aoyama-detektiv-conan-82/","title":"\"Detektiv Conan 82\"","tags":["crime","manga"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=GP4DDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gosho-aoyama-detektiv-conan-vol-3/","title":"\"Detektiv Conan\"","tags":["manga","crime"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=F0fDPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
