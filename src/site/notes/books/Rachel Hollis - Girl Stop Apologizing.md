@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rachel-hollis-girl-stop-apologizing/","title":"\"Girl, Stop Apologizing\"","tags":["non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ENFgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

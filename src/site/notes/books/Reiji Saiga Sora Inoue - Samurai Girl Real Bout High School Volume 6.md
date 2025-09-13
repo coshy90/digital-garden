@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/reiji-saiga-sora-inoue-samurai-girl-real-bout-high-school-volume-6/","title":"\"Samurai Girl Real Bout High School Volume 6\"","tags":["manga","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=YVXabXW2z7cC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

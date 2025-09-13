@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rf-kuang-yellowface/","title":"\"Yellowface\"","tags":["contemporary","crime","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=iJPhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

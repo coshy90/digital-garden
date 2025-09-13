@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/books/reggie-fils-aime-disrupting-the-game/","title":"\"Disrupting the Game\"","tags":["autobiography","business","video-games"]}
+{"dg-publish":true,"permalink":"/books/reggie-fils-aime-disrupting-the-game/","title":"\"Disrupting the Game\"","tags":["autobiography","business","video-games","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=oos1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

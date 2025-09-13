@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rachel-smythe-lore-olympus-volume-one/","title":"\"Lore Olympus: Volume One\"","tags":["retelling","graphic-novel","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=mGmTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

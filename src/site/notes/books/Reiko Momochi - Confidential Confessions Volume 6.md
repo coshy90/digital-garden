@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/reiko-momochi-confidential-confessions-volume-6/","title":"\"Confidential Confessions Volume 6\"","tags":["manga","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=aWPUPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

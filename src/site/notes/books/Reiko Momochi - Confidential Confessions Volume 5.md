@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/reiko-momochi-confidential-confessions-volume-5/","title":"\"Confidential Confessions Volume 5\"","tags":["manga","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=R_YEAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

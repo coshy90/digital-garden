@@ -165,7 +165,7 @@
 - [[books/Philip Pullman - The Subtle Knife\|Philip Pullman - The Subtle Knife]]: "The Subtle Knife" (Philip Pullman)
 - [[books/Prince Harry The Duke of Sussex - Spare\|Prince Harry The Duke of Sussex - Spare]]: "Spare" (Prince Harry The Duke of Sussex)
 - [[books/R P Barston - Modern Diplomacy\|R P Barston - Modern Diplomacy]]: "Modern Diplomacy" (R. P. Barston)
-- [[books/Rebel Girls Elena Favilli Francesca Cavallo - Good Night Stories for Rebel Girls 100 Tales of Extraordinary Women\|Rebel Girls Elena Favilli Francesca Cavallo - Good Night Stories for Rebel Girls 100 Tales of Extraordinary Women]]: "Good Night Stories for Rebel Girls: 100 Tales of Extraordinary Women" (Rebel Girls, Elena Favilli, Francesca Cavallo)
+- [[books/Rebel Girls Elena Favilli Francesca Cavallo - Good Night Stories for Rebel Girls 100 Tales of Extraordinary Women\|Rebel Girls Elena Favilli Francesca Cavallo - Good Night Stories for Rebel Girls 100 Tales of Extraordinary Women]]: "Good Night Stories for Rebel Girls: 100 Tales of Extraordinary Women" (Elena Favilli, Francesca Cavallo)
 - [[books/Reinhold Zippelius - Kleine deutsche Verfassungsgeschichte\|Reinhold Zippelius - Kleine deutsche Verfassungsgeschichte]]: "Kleine deutsche Verfassungsgeschichte" (Reinhold Zippelius)
 - [[books/Rolf Dobelli - The Art of the Good Life\|Rolf Dobelli - The Art of the Good Life]]: "The Art of the Good Life" (Rolf Dobelli)
 - [[books/Ruth Prawer Jhabvala - Heat and Dust\|Ruth Prawer Jhabvala - Heat and Dust]]: "Heat and Dust" (Ruth Prawer Jhabvala)

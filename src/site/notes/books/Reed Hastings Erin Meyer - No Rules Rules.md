@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/reed-hastings-erin-meyer-no-rules-rules/","title":"\"No Rules Rules\"","tags":["business","non-fiction","creative"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Hh6OEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
