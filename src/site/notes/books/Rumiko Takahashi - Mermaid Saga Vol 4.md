@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rumiko-takahashi-mermaid-saga-vol-4/","title":"\"Mermaid Saga, Vol. 4\"","tags":["manga","horror","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=cdTxMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
