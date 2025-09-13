@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/joe-abercrombie-the-blade-itself/","title":"\"The Blade Itself\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=pvVSwRWXerEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

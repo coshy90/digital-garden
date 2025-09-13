@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/juan-diaz-canales-blacksad-the-collected-stories/","title":"\"Blacksad: the Collected Stories\"","tags":["graphic-novel","noir","crime"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=duDrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

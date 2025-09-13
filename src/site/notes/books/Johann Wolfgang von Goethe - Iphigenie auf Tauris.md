@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/johann-wolfgang-von-goethe-iphigenie-auf-tauris/","title":"\"Iphigenie auf Tauris\"","tags":["classic","play","fiction","retelling"]}
 ---
 
-```
+
 
 ![cover|150](https://cdn.thestorygraph.com/368lwfb6qti9dvc335h1jbuks33q)
 

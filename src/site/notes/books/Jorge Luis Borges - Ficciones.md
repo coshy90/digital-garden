@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jorge-luis-borges-ficciones/","title":"\"Ficciones\"","tags":["classic","magical-realism","short-story"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=-VdAAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jrr-tolkien-the-hobbit/","title":"\"The Hobbit\"","tags":["classic","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=CixXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

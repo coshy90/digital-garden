@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/johann-wolfgang-von-goethe-die-leiden-des-jungen-werther/","title":"\"Die Leiden des Jungen Werther\"","tags":["classic","romance","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=UALRywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/john-ronald-reuel-tolkien-christina-scull-the-fellowship-of-the-ring/","title":"\"The Fellowship of the Ring\"","tags":["Fantasy","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=IGvdhaVC5QwC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

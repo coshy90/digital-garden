@@ -67,6 +67,7 @@
 | #religion         | 2     | [[Tags/religion\|To religion overview]]                 |
 | #screenplay       | 2     | [[Tags/screenplay\|To screenplay overview]]             |
 | #travel           | 2     | [[Tags/travel\|To travel overview]]                     |
+| #1-               | 1     | [[Tags/1-\|To 1- overview]]                             |
 | #1-10             | 1     | [[Tags/1-10\|To 1-10 overview]]                         |
 | #1-4              | 1     | [[Tags/1-4\|To 1-4 overview]]                           |
 | #1-5              | 1     | [[Tags/1-5\|To 1-5 overview]]                           |

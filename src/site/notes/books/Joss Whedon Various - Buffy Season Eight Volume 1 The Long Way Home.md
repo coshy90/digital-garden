@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/joss-whedon-various-buffy-season-eight-volume-1-the-long-way-home/","title":"\"Buffy Season Eight Volume 1: The Long Way Home\"","tags":["graphic-novel","Fantasy","horror"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ArkMPRonHxoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

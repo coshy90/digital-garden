@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/john-hirst-the-shortest-history-of-europe/","title":"\"The Shortest History of Europe\"","tags":["non-fiction","history"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=1k94EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

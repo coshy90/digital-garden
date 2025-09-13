@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/john-philip-jenkins-the-lost-history-of-christianity/","title":"\"The Lost History of Christianity\"","tags":["religion","history","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=R76no_DHCZ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jonathan-haidt-the-anxious-generation/","title":"\"The Anxious Generation\"","tags":["psychology","non-fiction","tech"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=I03HEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

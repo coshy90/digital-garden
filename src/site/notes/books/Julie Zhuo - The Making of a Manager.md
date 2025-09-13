@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/julie-zhuo-the-making-of-a-manager/","title":"\"The Making of a Manager\"","tags":["leadership","work","business","tech","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=iblMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

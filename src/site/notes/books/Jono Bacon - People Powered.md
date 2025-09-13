@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jono-bacon-people-powered/","title":"\"People Powered\"","tags":["communication","community","business","work","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=y1GNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

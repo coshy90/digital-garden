@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/judith-butler-who-s-afraid-of-gender/","title":"Who's Afraid of Gender?","tags":["non-fiction","feminism","philosophy","politics"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=TDPGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

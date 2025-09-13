@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jon-ronson-so-you-ve-been-publicly-shamed/","title":"So You've Been Publicly Shamed","tags":["non-fiction","psychology"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=eXQqCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

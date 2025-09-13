@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/joe-abercrombie-last-argument-of-kings/","title":"\"Last Argument Of Kings\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=im4WxfT6lB0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
