@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rumiko-takahashi-gerard-jones-inuyasha-vol-4/","title":"\"Inuyasha, Vol. 4\"","tags":["manga","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=GfT57quuQsMC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/scott-lynch-the-republic-of-thieves/","title":"\"The Republic of Thieves\"","tags":["Fantasy","friendship"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=BkZ7BMPxLdkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

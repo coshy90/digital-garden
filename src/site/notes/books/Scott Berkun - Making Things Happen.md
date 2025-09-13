@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/scott-berkun-making-things-happen/","title":"Making Things Happen"}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=vKVQaJ0pMdQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

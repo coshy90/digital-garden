@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/seneca-on-the-shortness-of-life/","title":"\"On the Shortness of Life\"","tags":["classic","non-fiction","philosophy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=-UmoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

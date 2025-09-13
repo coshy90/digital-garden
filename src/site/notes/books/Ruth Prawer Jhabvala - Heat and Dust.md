@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/ruth-prawer-jhabvala-heat-and-dust/","title":"\"Heat and Dust\"","tags":["fiction","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=pq8OAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

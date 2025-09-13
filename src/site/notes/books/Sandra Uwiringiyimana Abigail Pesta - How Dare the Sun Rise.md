@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/sandra-uwiringiyimana-abigail-pesta-how-dare-the-sun-rise/","title":"\"How Dare the Sun Rise\"","tags":["autobiography","resilience"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=TN7hDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

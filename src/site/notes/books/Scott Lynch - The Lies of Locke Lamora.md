@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/scott-lynch-the-lies-of-locke-lamora/","title":"\"The Lies of Locke Lamora\"","tags":["Fantasy","heist"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=dG8disouIykC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

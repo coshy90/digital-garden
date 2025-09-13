@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/s-a-cosby-razorblade-tears/","title":"\"Razorblade Tears\"","tags":["crime","contemporary","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=J4YUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

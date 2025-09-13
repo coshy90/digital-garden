@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/salman-rushdie-knife/","title":"\"Knife\"","tags":["non-fiction","autobiography"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ksfcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

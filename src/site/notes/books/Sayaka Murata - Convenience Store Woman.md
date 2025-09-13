@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/sayaka-murata-convenience-store-woman/","title":"\"Convenience Store Woman\"","tags":["contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=5oFjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

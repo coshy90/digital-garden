@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/sarah-andersen-big-mushy-happy-lump/","title":"\"Big Mushy Happy Lump\"","tags":["graphic-novel","illustrations","fiction","art"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=QIPEDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

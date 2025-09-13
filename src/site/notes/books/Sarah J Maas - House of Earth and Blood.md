@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/sarah-j-maas-house-of-earth-and-blood/","title":"\"House of Earth and Blood\"","tags":["Fantasy","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=LUmQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/sarah-andersen-herding-cats/","title":"\"Herding Cats\"","tags":["illustrations","art","graphic-novel"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=RQNKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

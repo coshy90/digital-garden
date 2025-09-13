@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/sergei-dovlatov-pushkin-hills/","title":"\"Pushkin Hills\"","tags":["classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=vXCQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

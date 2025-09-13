@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/sarah-andersen-adulthood-is-a-myth/","title":"\"Adulthood Is a Myth\"","tags":["graphic-novel","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Yl_LCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

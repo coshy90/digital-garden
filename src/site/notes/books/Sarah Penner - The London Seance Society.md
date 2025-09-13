@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/sarah-penner-the-london-seance-society/","title":"\"The London Seance Society\"","tags":["Fantasy","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=QC6uEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
