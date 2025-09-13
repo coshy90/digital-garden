@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/chris-broad-abroad-in-japan/","title":"\"Abroad in Japan\"","tags":["autobiography","travel"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=C4KgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

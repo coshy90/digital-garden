@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/christa-wolf-kein-ort-nirgends/","title":"\"Kein Ort. Nirgends\"","tags":["poetry","fiction","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=MOI7CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/christiana-figueres-tom-rivett-carnac-the-future-we-choose/","title":"\"The Future We Choose\"","tags":["non-fiction","politics","sociopolitical","climate","science"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=oEqwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

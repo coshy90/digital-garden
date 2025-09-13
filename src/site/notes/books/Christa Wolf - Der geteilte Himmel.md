@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/christa-wolf-der-geteilte-himmel/","title":"\"Der geteilte Himmel\"","tags":["classic","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=slRcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/china-mieville-un-lun-dun/","title":"\"Un Lun Dun\"","tags":["Fantasy","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Q4k54ZP1-AsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

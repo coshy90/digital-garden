@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/chris-anderson-infectious-generosity/","title":"\"Infectious Generosity\"","tags":["psychology","non-fiction","business"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=9XbFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

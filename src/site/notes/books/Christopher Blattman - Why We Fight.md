@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/christopher-blattman-why-we-fight/","title":"\"Why We Fight\"","tags":["non-fiction","politics","sociopolitical"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=4FA3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

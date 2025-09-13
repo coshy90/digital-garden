@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/claire-north-the-first-fifteen-lives-of-harry-august/","title":"\"The First Fifteen Lives of Harry August\"","tags":["science-fiction","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=AZShAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/christian-fuerchtegott-gellert-die-zaertlichen-schwestern/","title":"\"Die zärtlichen Schwestern\"","tags":["fiction","play","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=nw7TDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/christine-feehan-dark-prince/","title":"\"Dark Prince\"","tags":["Fantasy","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=g_MLAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

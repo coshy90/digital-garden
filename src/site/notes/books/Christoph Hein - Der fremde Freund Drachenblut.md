@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/christoph-hein-der-fremde-freund-drachenblut/","title":"\"Der fremde Freund. Drachenblut\"","tags":["classic","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=NNc7CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

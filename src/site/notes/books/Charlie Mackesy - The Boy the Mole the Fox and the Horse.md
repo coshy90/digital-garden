@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/charlie-mackesy-the-boy-the-mole-the-fox-and-the-horse/","title":"\"The Boy, the Mole, the Fox and the Horse\"","tags":["childrens","fiction","graphic-novel"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=fX7hwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

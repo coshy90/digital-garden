@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/chris-miller-chip-war/","title":"\"Chip War\"","tags":["tech","science","politics","sociopolitical","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=fUVdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

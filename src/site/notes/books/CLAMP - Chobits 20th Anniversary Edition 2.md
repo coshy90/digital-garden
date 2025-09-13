@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/clamp-chobits-20th-anniversary-edition-2/","title":"\"Chobits 2\"","tags":["science-fiction","manga","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=guz_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

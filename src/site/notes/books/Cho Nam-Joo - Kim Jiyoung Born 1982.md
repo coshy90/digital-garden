@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/cho-nam-joo-kim-jiyoung-born-1982/","title":"\"Kim Jiyoung, Born 1982\"","tags":["contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ROF_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

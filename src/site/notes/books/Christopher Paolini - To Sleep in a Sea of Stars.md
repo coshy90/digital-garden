@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/christopher-paolini-to-sleep-in-a-sea-of-stars/","title":"\"To Sleep in a Sea of Stars\"","tags":["science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=6MzSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

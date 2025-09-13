@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/cherian-george-air-conditioned-nation-revisited-essays-on-singapore-politics/","title":"\"Air-Conditioned Nation Revisited: Essays on Singapore Politics\"","tags":["politics","sociopolitical","essay"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=1Mi8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

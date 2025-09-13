@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/chelsea-manning-readm-etxt/","title":"\"README.txt\"","tags":["autobiography","non-fiction","politics","sociopolitical"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=xNiXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
