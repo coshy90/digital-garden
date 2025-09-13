@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/matt-haig-the-midnight-library/","title":"\"The Midnight Library\"","tags":["science-fiction","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=M53SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

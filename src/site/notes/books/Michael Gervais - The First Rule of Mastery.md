@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/michael-gervais-the-first-rule-of-mastery/","title":"\"The First Rule of Mastery\"","tags":["psychology","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ae-qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

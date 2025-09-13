@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/melinda-french-gates-the-moment-of-lift/","title":"\"The Moment of Lift\"","tags":["feminism","non-fiction","sociopolitical"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=8eWGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

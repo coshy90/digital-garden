@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/massimo-bottura-massimo-bottura-never-trust-a-skinny-italian-chef/","title":"\"Massimo Bottura: Never Trust A Skinny Italian Chef\"","tags":["cooking","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=bZDQoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

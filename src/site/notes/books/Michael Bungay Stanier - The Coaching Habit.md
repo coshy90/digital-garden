@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/michael-bungay-stanier-the-coaching-habit/","title":"\"The Coaching Habit\"","tags":["business","non-fiction","leadership"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=EGFPDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/michael-la-bossiere-42-fallacies/","title":"\"42 Fallacies\"","tags":["non-fiction","philosophy","psychology","academic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=bemLmgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

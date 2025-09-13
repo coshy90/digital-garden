@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/michael-pollan-the-omnivore-s-dilemma/","title":"The Omnivore's Dilemma","tags":["non-fiction","health","nature","science"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=QZ1D4Q8uZuoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

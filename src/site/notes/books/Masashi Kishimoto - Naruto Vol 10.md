@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/masashi-kishimoto-naruto-vol-10/","title":"\"Naruto, Vol. 10\"","tags":["manga","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=85iumE19cQYC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/michael-pollan-this-is-your-mind-on-plants/","title":"\"This Is Your Mind On Plants\"","tags":["nature","psychology","health","science","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=zKkdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

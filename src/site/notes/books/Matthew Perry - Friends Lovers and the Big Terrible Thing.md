@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/matthew-perry-friends-lovers-and-the-big-terrible-thing/","title":"\"Friends, Lovers and the Big Terrible Thing\"","tags":["non-fiction","autobiography"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=gmlVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

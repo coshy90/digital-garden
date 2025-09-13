@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/meagan-marie-women-in-gaming-100-professionals-of-play/","title":"\"Women in Gaming: 100 Professionals of Play\"","tags":["non-fiction","video-games","history"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=3ad2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
