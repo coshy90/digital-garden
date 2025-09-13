@@ -83,6 +83,8 @@
 | #community        | 1     | [[Tags/community\|To community overview]]               |
 | #cooking          | 1     | [[Tags/cooking\|To cooking overview]]                   |
 | #education        | 1     | [[Tags/education\|To education overview]]               |
+| #gamergate        | 1     | [[Tags/gamergate\|To gamergate overview]]               |
+| #gamergate--they  | 1     | [[Tags/gamergate--they\|To gamergate--they overview]]   |
 | #heist            | 1     | [[Tags/heist\|To heist overview]]                       |
 | #journalism       | 1     | [[Tags/journalism\|To journalism overview]]             |
 | #magic            | 1     | [[Tags/magic\|To magic overview]]                       |

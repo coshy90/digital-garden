@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yuval-noah-harari-21-lessons-for-the-21st-century/","title":"\"21 Lessons for the 21st Century\"","tags":["non-fiction","history","philosophy","science"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ar44DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

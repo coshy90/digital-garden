@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/zoe-quinn-crash-override/","title":"\"Crash Override\"","tags":["non-fiction","feminism","tech","autobiography"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=poGZDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

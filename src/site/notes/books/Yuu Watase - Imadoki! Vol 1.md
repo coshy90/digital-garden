@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yuu-watase-imadoki-vol-1/","title":"\"Imadoki!, Vol. 1\"","tags":["manga","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=5r2vv22dFFoC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/zoe-schlanger-the-light-eaters/","title":"\"The Light Eaters\"","tags":["non-fiction","nature","science"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=tvTQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

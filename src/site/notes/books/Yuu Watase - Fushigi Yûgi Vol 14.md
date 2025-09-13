@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yuu-watase-fushigi-yugi-vol-14/","title":"\"Fushigi Yûgi, Vol. 14\"","tags":["Fantasy","manga","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=mip0yEybmhQC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

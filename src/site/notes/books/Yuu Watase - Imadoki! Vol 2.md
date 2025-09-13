@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yuu-watase-imadoki-vol-2/","title":"\"Imadoki!, Vol. 2\"","tags":["manga","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=SSb0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
