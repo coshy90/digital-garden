@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/nunzio-de-filippis-christina-weir-dragon-age-blue-wraith/","title":"\"Dragon Age: Blue Wraith\"","tags":["Fantasy","graphic-novel","video-games"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=j3j1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/patricia-evangelista-some-people-need-killing/","title":"\"Some People Need Killing\"","tags":["journalism","autobiography","sociopolitical","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=FbkwEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

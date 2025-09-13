@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/oscar-wilde-the-picture-of-dorian-gray/","title":"\"The Picture of Dorian Gray\"","tags":["classic","horror","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=oQeTzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/patrick-m-lencioni-death-by-meeting/","title":"\"Death by Meeting\"","tags":["work","non-fiction","business"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=q13HAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

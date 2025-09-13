@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/nobuhiro-watsuki-rurouni-kenshin/","title":"\"Rurouni Kenshin\"","tags":["manga","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=bAxXngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

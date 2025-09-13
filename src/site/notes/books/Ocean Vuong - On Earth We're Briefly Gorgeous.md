@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/ocean-vuong-on-earth-we-re-briefly-gorgeous/","title":"On Earth We're Briefly Gorgeous","tags":["contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=hKRtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

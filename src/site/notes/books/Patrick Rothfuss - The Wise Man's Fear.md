@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/patrick-rothfuss-the-wise-man-s-fear/","title":"The Wise Man's Fear","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=6FmJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

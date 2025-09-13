@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/nobuhiro-watsuki-rurouni-kenshin-vol-23/","title":"\"Rurouni Kenshin, Vol. 23\"","tags":["manga","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=WbDwAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
