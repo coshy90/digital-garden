@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/suzanne-collins-the-hunger-games/","title":"\"The Hunger Games\"","tags":["dystopia","science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=unQIPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

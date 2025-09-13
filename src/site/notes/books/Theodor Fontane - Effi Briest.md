@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/theodor-fontane-effi-briest/","title":"\"Effi Briest\"","tags":["fiction","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=vb1A7lzIB40C&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

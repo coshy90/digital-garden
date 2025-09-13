@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/tad-williams-shadowmarch-band-1/","title":"\"Shadowmarch. Band 1\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=zJQMOra9hl8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

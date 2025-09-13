@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/travis-bagwell-awaken-online/","title":"\"Awaken Online\"","tags":["science-fiction","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](https://cdn.thestorygraph.com/pa53k9tg5o6mkmv2hiyny5loi13l)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/suzanne-collins-catching-fire-hunger-games-book-two/","title":"\"Catching Fire (Hunger Games, Book Two)\"","tags":["dystopia","science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=FN5wMOZKTYMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

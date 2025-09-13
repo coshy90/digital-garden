@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/suzanne-collins-mockingjay-hunger-games-book-three/","title":"\"Mockingjay\"","tags":["dystopia","science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Iw_gHtk4ghYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

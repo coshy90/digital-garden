@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/sylvia-plath-the-bell-jar/","title":"\"The Bell Jar\"","tags":["classic","contemporary","depression"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=YEeIPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

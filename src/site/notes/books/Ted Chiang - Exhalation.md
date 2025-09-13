@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/ted-chiang-exhalation/","title":"\"Exhalation\"","tags":["science-fiction","short-story"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=L61oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

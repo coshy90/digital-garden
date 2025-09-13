@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/sylvain-neuvel-sleeping-giants/","title":"\"Sleeping Giants\"","tags":["science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=RvriCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

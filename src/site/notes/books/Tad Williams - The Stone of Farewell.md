@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/tad-williams-the-stone-of-farewell/","title":"\"The Stone of Farewell\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=NFmJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

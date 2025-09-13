@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/tj-klune-the-house-in-the-cerulean-sea/","title":"\"The House in the Cerulean Sea\"","tags":["Fantasy","cozy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=O0iSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

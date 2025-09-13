@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/sylvain-neuvel-the-test/","title":"\"The Test\"","tags":["dystopia","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=3b5uDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

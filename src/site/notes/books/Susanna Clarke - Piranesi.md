@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/susanna-clarke-piranesi/","title":"\"Piranesi\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=EbrbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

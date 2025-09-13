@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/stieg-larsson-the-girl-with-the-dragon-tattoo/","title":"\"The Girl with the Dragon Tattoo\"","tags":["crime","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=KL-wtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

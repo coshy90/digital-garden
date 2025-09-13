@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/tove-ditlevsen-childhood-youth-dependency/","title":"\"Childhood, Youth, Dependency\"","tags":["contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=OQzQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/tad-williams-the-dragonbone-chair/","title":"\"The Dragonbone Chair\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=VFmJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
