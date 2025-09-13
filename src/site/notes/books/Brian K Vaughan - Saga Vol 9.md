@@ -10,5 +10,4 @@
 
 ### Description
 
-Get ready for the most shocking, most impactful SAGA storyline yet, an action-packed adventure about fake news and genuine terror. Collects SAGA #49-54
-```
+Get ready for the most shocking, most impactful SAGA storyline yet, an action-packed adventure about fake news and genuine terror. 
