@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eiichiro-oda-one-piece-29/","title":"\"One Piece 29\"","tags":["Fantasy","pirate","manga"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=g-okCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

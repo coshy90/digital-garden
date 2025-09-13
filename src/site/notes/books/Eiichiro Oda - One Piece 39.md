@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eiichiro-oda-one-piece-39/","title":"\"One Piece 39\"","tags":["Fantasy","manga","pirate"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=sM9cCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
