@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/travis-baldree-legends-lattes/","title":"\"Legends & Lattes\"","tags":["Fantasy","cozy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=KjA6zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

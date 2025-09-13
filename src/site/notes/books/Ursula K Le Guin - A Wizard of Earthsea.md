@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/ursula-k-le-guin-a-wizard-of-earthsea/","title":"\"A Wizard of Earthsea\"","tags":["Fantasy","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=FD72ekYZqIkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

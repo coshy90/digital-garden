@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/trevor-noah-born-a-crime/","title":"\"Born A Crime\"","tags":["autobiography","race","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=dAzJCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

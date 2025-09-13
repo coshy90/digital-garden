@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/travis-baldree-bookshops-bonedust/","title":"\"Bookshops & Bonedust\"","tags":["Fantasy","cozy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=U6y0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

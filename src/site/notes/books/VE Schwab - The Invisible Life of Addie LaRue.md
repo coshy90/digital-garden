@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/ve-schwab-the-invisible-life-of-addie-la-rue/","title":"\"The Invisible Life of Addie LaRue\"","tags":["Fantasy","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=eof4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

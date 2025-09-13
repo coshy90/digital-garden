@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/ulrich-plenzdorf-die-neuen-leiden-des-jungen-w/","title":"\"Die neuen Leiden des jungen W\"","tags":["classic","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=NPiQCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

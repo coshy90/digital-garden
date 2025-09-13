@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/william-h-mc-raven-make-your-bed/","title":"\"Make Your Bed\"","tags":["non-fiction","psychology"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=60glDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

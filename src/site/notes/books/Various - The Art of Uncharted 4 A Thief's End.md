@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/various-the-art-of-uncharted-4-a-thief-s-end/","title":"The Art of Uncharted 4: A Thief's End","tags":["art","video-games","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=bOKaCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
