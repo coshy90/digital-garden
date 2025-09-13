@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/arina-tanemura-the-gentlemen-s-alliance-vol-1/","title":"The Gentlemen's Alliance †, Vol. 1","tags":["manga","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=yofiAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

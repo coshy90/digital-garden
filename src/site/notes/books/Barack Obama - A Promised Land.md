@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/barack-obama-a-promised-land/","title":"\"A Promised Land\"","tags":["politics","non-fiction","autobiography"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ypb9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

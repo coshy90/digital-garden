@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/becky-chambers-a-closed-and-common-orbit/","title":"\"A Closed and Common Orbit\"","tags":["science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=5qNnCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

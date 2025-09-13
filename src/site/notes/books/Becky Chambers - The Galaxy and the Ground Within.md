@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/becky-chambers-the-galaxy-and-the-ground-within/","title":"\"The Galaxy, and the Ground Within\"","tags":["science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=u2GQzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

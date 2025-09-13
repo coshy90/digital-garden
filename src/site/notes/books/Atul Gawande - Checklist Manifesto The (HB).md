@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/atul-gawande-checklist-manifesto-the-hb/","title":"\"Checklist Manifesto: How to get things done right\"","tags":["non-fiction","business","work"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=9T3yxD8UhKoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

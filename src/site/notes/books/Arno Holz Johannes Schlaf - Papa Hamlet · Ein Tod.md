@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/arno-holz-johannes-schlaf-papa-hamlet-ein-tod/","title":"\"Papa Hamlet · Ein Tod\"","tags":["play","classic","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=vvSbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

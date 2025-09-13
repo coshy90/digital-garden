@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/becky-chambers-record-of-a-spaceborn-few/","title":"\"Record of a Spaceborn Few\"","tags":["science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Uq8FDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

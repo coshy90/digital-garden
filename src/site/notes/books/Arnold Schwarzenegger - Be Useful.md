@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/arnold-schwarzenegger-be-useful/","title":"\"Be Useful\"","tags":["non-fiction","autobiography"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=cWG3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

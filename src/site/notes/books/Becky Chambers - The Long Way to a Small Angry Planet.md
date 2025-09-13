@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/becky-chambers-the-long-way-to-a-small-angry-planet/","title":"\"The Long Way to a Small, Angry Planet\"","tags":["science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Jm6yBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

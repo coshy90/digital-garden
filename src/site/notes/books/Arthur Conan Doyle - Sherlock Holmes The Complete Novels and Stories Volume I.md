@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/arthur-conan-doyle-sherlock-holmes-the-complete-novels-and-stories-volume-i/","title":"\"Sherlock Holmes: The Complete Novels and Stories, Volume I\"","tags":["short-story","crime","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=7ObWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

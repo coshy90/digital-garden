@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/banana-yoshimoto-ihre-nacht/","title":"\"Ihre Nacht\"","tags":["contemporary","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=XGltAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
