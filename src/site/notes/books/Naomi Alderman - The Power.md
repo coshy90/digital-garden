@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/naomi-alderman-the-power/","title":"\"The Power\"","tags":["dystopia","contemporary","science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=xS_eDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

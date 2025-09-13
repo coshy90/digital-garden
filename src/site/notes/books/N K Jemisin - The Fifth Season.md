@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/n-k-jemisin-the-fifth-season/","title":"\"The Fifth Season\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=tNPQnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

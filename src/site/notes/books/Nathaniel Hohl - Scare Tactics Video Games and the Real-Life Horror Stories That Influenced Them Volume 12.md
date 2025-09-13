@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/nathaniel-hohl-scare-tactics-video-games-and-the-real-life-horror-stories-that-influenced-them-volume-12/","title":"\"Scare Tactics: Video Games and the Real-Life Horror Stories That Influenced Them\"","tags":["horror","essay","video-games","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=TIFmEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

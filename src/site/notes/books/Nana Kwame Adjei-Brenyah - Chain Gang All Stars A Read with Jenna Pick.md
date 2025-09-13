@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/nana-kwame-adjei-brenyah-chain-gang-all-stars-a-read-with-jenna-pick/","title":"\"Chain Gang All Stars: A Read with Jenna Pick\"","tags":["dystopia","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Ov14EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/mona-chollet-in-defense-of-witches/","title":"\"In Defense of Witches\"","tags":["sociopolitical","feminism"]}
 ---
 
-```
+
 
 ![cover|150](https://salemwitchmuseum.com/wp-content/uploads/2022/06/In-Defense-of-Witches-cover.jpg)
 
