@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gosho-aoyama-detektiv-conan-51/","title":"\"Detektiv Conan 51\"","tags":["crime","manga"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=YIrnCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
