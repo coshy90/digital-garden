@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/lian-hearn-der-clan-der-otori-band-3-der-glanz-des-mondes/","title":"\"Der Clan der Otori, Band 3: Der Glanz des Mondes\"","tags":["fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=pMd3AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/madeline-miller-circe/","title":"\"Circe\"","tags":["Fantasy","retelling","myth"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=GUMIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

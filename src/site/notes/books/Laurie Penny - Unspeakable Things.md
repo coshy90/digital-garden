@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/laurie-penny-unspeakable-things/","title":"\"Unspeakable Things\"","tags":["essay","feminism","sociopolitical","non-fiction","politics"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=thu7AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

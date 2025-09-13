@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/madeline-miller-galatea/","title":"\"Galatea\"","tags":["Fantasy","short-story"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=jd5ZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

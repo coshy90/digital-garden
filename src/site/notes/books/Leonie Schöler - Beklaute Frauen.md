@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/leonie-schoeler-beklaute-frauen/","title":"\"Beklaute Frauen\"","tags":["feminism","history","sociopolitical"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=vCvhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

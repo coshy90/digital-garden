@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/m-l-wang-blood-over-bright-haven/","title":"\"Blood Over Bright Haven\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619934041i/57915993.jpg)
 

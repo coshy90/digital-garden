@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/madeline-miller-the-song-of-achilles/","title":"\"The Song of Achilles\"","tags":["Fantasy","retelling","myth","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=jxvj0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

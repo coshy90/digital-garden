@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/liam-wong-after-dark/","title":"\"After Dark\"","tags":["photography","art","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=wNCNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

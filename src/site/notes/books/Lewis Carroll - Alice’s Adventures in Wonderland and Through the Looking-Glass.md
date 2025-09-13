@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/lewis-carroll-alice-s-adventures-in-wonderland-and-through-the-looking-glass/","title":"\"Alice’s Adventures in Wonderland and Through the Looking-Glass\"","tags":["classic","Fantasy","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=JEidCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/leonardo-sciascia-sicilian-uncles/","title":"\"Sicilian Uncles\"","tags":["contemporary","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=M0VRAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

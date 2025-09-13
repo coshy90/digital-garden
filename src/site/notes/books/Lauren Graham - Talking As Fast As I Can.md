@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/lauren-graham-talking-as-fast-as-i-can/","title":"\"Talking As Fast As I Can\"","tags":["essay","autobiography"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=lob1DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

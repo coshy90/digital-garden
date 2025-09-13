@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/manfred-g-schmidt-das-politische-system-der-bundesrepublik-deutschland/","title":"\"Das politische System der Bundesrepublik Deutschland\"","tags":["politics","academic","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=eDG0CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

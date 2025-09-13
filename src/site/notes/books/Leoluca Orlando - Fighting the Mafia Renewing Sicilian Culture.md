@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/leoluca-orlando-fighting-the-mafia-renewing-sicilian-culture/","title":"\"Fighting the Mafia & Renewing Sicilian Culture\"","tags":["non-fiction","autobiography","sociopolitical"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=3ksw6-gWW1MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
