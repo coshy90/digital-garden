@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/giorgio-de-maria-the-twenty-days-of-turin/","title":"\"The Twenty Days of Turin\"","tags":["classic","horror"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=xYaQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

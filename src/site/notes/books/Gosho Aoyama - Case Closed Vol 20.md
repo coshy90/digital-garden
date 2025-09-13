@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gosho-aoyama-case-closed-vol-20/","title":"\"Detektiv Conan Vol. 20\"","tags":["manga","crime"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=nebzAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

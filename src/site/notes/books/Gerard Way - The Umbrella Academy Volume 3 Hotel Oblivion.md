@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gerard-way-the-umbrella-academy-volume-3-hotel-oblivion/","title":"\"The Umbrella Academy Volume 3\"","tags":["graphic-novel","Fantasy","super-heroes"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=GLqkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

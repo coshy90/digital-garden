@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gerard-way-umbrella-academy-volume-2-dallas/","title":"\"Umbrella Academy Volume 2\"","tags":["graphic-novel","Fantasy","super-heroes","science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=_F2FvIsqrZ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
