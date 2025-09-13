@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/grady-hendrix-the-southern-book-club-s-guide-to-slaying-vampires/","title":"The Southern Book Club's Guide to Slaying Vampires","tags":["horror","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=-emBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

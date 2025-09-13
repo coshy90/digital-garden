@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/greg-rucka-michael-lark-lazarus/","title":"\"Lazarus\"","tags":["dystopia","science-fiction","graphic-novel"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=PPrjngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

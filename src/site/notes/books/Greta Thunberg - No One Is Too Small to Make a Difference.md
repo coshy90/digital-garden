@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/greta-thunberg-no-one-is-too-small-to-make-a-difference/","title":"\"No One Is Too Small to Make a Difference\"","tags":["sociopolitical","climate","essay"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=5AK8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

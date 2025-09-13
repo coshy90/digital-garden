@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/guy-delisle-pyongyang/","title":"\"Pyongyang\"","tags":["non-fiction","graphic-novel","autobiography"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=H2gtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

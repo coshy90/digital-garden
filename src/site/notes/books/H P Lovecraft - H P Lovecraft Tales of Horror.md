@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/h-p-lovecraft-h-p-lovecraft-tales-of-horror/","title":"\"Tales of Horror\"","tags":["horror"]}
 ---
 
-```
+
 
 ![cover|150](https://tse1.mm.bing.net/th/id/OIP.UNOHMXswSMpBjmPKl9avtAHaLo?r=0&pid=Api)
 

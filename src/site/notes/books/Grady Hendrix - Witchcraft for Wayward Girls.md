@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/grady-hendrix-witchcraft-for-wayward-girls/","title":"\"Witchcraft for Wayward Girls\"","tags":["Fantasy","horror"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=BJXyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

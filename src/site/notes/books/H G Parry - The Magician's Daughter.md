@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/h-g-parry-the-magician-s-daughter/","title":"The Magician's Daughter","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=SyhvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

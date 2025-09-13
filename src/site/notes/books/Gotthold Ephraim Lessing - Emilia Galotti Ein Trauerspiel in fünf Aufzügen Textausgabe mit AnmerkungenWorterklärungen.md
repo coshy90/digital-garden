@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gotthold-ephraim-lessing-emilia-galotti-ein-trauerspiel-in-fuenf-aufzuegen-textausgabe-mit-anmerkungen-worterklaerungen/","title":"\"Emilia Galotti. Ein Trauerspiel in fünf Aufzügen\"","tags":["fiction","classic","play"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=l3F3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

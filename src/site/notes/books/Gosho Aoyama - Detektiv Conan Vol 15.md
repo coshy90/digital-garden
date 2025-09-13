@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gosho-aoyama-detektiv-conan-vol-15/","title":"\"Detektiv Conan Vol.15\"","tags":["manga","crime"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=1GE2AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

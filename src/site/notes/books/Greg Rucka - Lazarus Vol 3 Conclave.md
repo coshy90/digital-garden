@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/greg-rucka-lazarus-vol-3-conclave/","title":"\"Lazarus Vol. 3: Conclave\"","tags":["science-fiction","graphic-novel"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Ma4xBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
