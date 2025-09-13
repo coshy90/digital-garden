@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/masashi-kishimoto-naruto-9/","title":"\"Naruto 9\"","tags":["manga","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=cvXAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/marcin-batylda-the-world-of-cyberpunk-2077/","title":"\"The World of Cyberpunk 2077\"","tags":["art","video-games","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=7E6iDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

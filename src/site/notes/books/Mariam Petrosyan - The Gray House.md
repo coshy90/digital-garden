@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/mariam-petrosyan-the-gray-house/","title":"\"The Gray House\"","tags":["contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=rqMqvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

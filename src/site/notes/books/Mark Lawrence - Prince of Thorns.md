@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/mark-lawrence-prince-of-thorns/","title":"\"Prince of Thorns\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=jY-pX6cPxYAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

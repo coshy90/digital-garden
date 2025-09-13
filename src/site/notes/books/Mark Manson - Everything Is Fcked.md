@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/mark-manson-everything-is-fcked/","title":"\"Everything Is F*cked\"","tags":["non-fiction","philosophy","psychology"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=XYdgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

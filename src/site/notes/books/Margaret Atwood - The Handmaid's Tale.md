@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/margaret-atwood-the-handmaid-s-tale/","title":"The Handmaid's Tale","tags":["science-fiction","classic","dystopia"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ZrsVZKWJg4UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

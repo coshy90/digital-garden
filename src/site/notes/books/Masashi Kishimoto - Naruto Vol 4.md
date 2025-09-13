@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/masashi-kishimoto-naruto-vol-4/","title":"\"Naruto, Vol. 4\"","tags":["manga","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=tewgMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

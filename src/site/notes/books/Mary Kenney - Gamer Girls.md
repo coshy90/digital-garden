@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/mary-kenney-gamer-girls/","title":"\"Gamer Girls\"","tags":["video-games","non-fiction","tech"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=gbxBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
