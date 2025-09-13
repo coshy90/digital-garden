@@ -6,7 +6,7 @@
 
 ![cover|150](http://books.google.com/books/content?id=6CNIBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
-## Wayward #1
+## Wayward 1
 
 ### Description
 
