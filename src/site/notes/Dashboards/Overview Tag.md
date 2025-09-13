@@ -68,6 +68,11 @@
 | #screenplay       | 2     | [[Tags/screenplay\|To screenplay overview]]             |
 | #travel           | 2     | [[Tags/travel\|To travel overview]]                     |
 | #1-4              | 1     | [[Tags/1-4\|To 1-4 overview]]                           |
+| #1-5              | 1     | [[Tags/1-5\|To 1-5 overview]]                           |
+| #1-6              | 1     | [[Tags/1-6\|To 1-6 overview]]                           |
+| #13-18            | 1     | [[Tags/13-18\|To 13-18 overview]]                       |
+| #43-48            | 1     | [[Tags/43-48\|To 43-48 overview]]                       |
+| #6-10             | 1     | [[Tags/6-10\|To 6-10 overview]]                         |
 | #animation        | 1     | [[Tags/animation\|To animation overview]]               |
 | #community        | 1     | [[Tags/community\|To community overview]]               |
 | #cooking          | 1     | [[Tags/cooking\|To cooking overview]]                   |

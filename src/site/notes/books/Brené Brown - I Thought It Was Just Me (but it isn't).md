@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/brene-brown-i-thought-it-was-just-me-but-it-isn-t/","title":"I Thought It Was Just Me (but it isn't)","tags":["non-fiction","psychology"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=1fIVD8Hf-e4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

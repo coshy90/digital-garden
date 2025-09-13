@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/brian-k-vaughan-saga-vol-1/","title":"\"Saga Vol. 1\"","tags":["graphic-novel","Fantasy","science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=PbMWAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

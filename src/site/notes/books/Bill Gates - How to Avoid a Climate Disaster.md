@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/bill-gates-how-to-avoid-a-climate-disaster/","title":"\"How to Avoid a Climate Disaster\"","tags":["non-fiction","politics","sociopolitical","science","climate"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=6Z6zDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

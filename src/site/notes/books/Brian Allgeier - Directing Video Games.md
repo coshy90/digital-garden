@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/brian-allgeier-directing-video-games/","title":"\"Directing Video Games\"","tags":["non-fiction","video-games","tech","leadership"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=HTaxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

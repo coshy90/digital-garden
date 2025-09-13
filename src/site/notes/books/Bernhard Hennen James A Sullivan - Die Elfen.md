@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/bernhard-hennen-james-a-sullivan-die-elfen/","title":"\"Die Elfen\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=-Rd77KixmlEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

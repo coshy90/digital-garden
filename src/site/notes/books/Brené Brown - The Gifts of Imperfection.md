@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/brene-brown-the-gifts-of-imperfection/","title":"\"The Gifts of Imperfection\"","tags":["non-fiction","psychology"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=0kPXDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

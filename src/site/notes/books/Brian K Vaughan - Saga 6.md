@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/brian-k-vaughan-saga-6/","title":"\"Saga 6\"","tags":["science-fiction","Fantasy","graphic-novel"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=GDB4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

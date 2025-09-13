@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/brandon-sanderson-the-way-of-kings/","title":"\"The Way of Kings\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=OHclhBVv-X4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

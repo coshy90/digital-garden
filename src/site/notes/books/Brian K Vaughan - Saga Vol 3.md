@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/brian-k-vaughan-saga-vol-3/","title":"\"Saga Vol. 3\"","tags":["Fantasy","science-fiction","graphic-novel"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=EWgJAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

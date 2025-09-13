@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/brian-k-vaughan-paper-girls-vol-2/","title":"\"Paper Girls Vol. 2\"","tags":["graphic-novel","science-fiction","coming-of-age"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=TsWBDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

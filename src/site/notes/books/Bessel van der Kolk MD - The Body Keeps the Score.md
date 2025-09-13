@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/bessel-van-der-kolk-md-the-body-keeps-the-score/","title":"\"The Body Keeps the Score\"","tags":["health","non-fiction","psychology"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=3Q3UAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

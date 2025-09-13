@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/blake-snyder-save-the-cat/","title":"\"Save the Cat!\"","tags":["non-fiction","writing","screenplay"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=WgbknQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
