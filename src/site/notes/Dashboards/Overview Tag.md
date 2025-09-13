@@ -57,7 +57,6 @@
 | #super-heroes     | 3     | [[Tags/super-heroes\|To super-heroes overview]]         |
 | #world-war-2      | 3     | [[Tags/world-war-2\|To world-war-2 overview]]           |
 | #writing          | 3     | [[Tags/writing\|To writing overview]]                   |
-| #1-               | 2     | [[Tags/1-\|To 1- overview]]                             |
 | #books            | 2     | [[Tags/books\|To books overview]]                       |
 | #creative         | 2     | [[Tags/creative\|To creative overview]]                 |
 | #depression       | 2     | [[Tags/depression\|To depression overview]]             |
@@ -68,17 +67,6 @@
 | #religion         | 2     | [[Tags/religion\|To religion overview]]                 |
 | #screenplay       | 2     | [[Tags/screenplay\|To screenplay overview]]             |
 | #travel           | 2     | [[Tags/travel\|To travel overview]]                     |
-| #1-10             | 1     | [[Tags/1-10\|To 1-10 overview]]                         |
-| #1-4              | 1     | [[Tags/1-4\|To 1-4 overview]]                           |
-| #1-5              | 1     | [[Tags/1-5\|To 1-5 overview]]                           |
-| #1-6              | 1     | [[Tags/1-6\|To 1-6 overview]]                           |
-| #10-15            | 1     | [[Tags/10-15\|To 10-15 overview]]                       |
-| #13-18            | 1     | [[Tags/13-18\|To 13-18 overview]]                       |
-| #43-48            | 1     | [[Tags/43-48\|To 43-48 overview]]                       |
-| #49-54            | 1     | [[Tags/49-54\|To 49-54 overview]]                       |
-| #6-10             | 1     | [[Tags/6-10\|To 6-10 overview]]                         |
-| #61-66            | 1     | [[Tags/61-66\|To 61-66 overview]]                       |
-| #7-12             | 1     | [[Tags/7-12\|To 7-12 overview]]                         |
 | #animation        | 1     | [[Tags/animation\|To animation overview]]               |
 | #community        | 1     | [[Tags/community\|To community overview]]               |
 | #cooking          | 1     | [[Tags/cooking\|To cooking overview]]                   |
