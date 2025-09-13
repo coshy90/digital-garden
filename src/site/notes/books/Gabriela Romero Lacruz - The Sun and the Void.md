@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gabriela-romero-lacruz-the-sun-and-the-void/","title":"\"The Sun and the Void\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=83lkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

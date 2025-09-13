@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gary-stevenson-the-trading-game/","title":"\"The Trading Game\"","tags":["autobiography"]}
 ---
 
-```
+
 
 ![cover|150](https://res.cloudinary.com/itimages/image/upload/c_limit,w_1500,f_auto,q_auto/prd/splash_cover_art/xqsmt3ryboq0jht98h7r)
 

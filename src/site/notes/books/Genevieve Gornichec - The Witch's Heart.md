@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/genevieve-gornichec-the-witch-s-heart/","title":"The Witch's Heart","tags":["Fantasy","retelling","myth"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=tm8QEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

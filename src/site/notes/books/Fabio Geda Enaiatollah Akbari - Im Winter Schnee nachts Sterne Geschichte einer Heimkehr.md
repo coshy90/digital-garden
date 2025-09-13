@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/fabio-geda-enaiatollah-akbari-im-winter-schnee-nachts-sterne-geschichte-einer-heimkehr/","title":"\"Im Winter Schnee, nachts Sterne. Geschichte einer Heimkehr\"","tags":["non-fiction","autobiography"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=VxsnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

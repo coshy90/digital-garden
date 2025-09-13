@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/g-r-berridge-diplomacy/","title":"\"Diplomacy\"","tags":["academic","politics","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=wlVOCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

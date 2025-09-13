@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/gerard-way-the-umbrella-academy-volume-1-apocalypse-suite-deluxe-edition/","title":"\"The Umbrella Academy Volume 1\"","tags":["graphic-novel","science-fiction","Fantasy","super-heroes"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=m2XRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

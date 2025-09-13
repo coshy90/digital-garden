@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/frank-wedekind-fruehlingserwachen/","title":"\"Frühlingserwachen\"","tags":["classic","play"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Wb55EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

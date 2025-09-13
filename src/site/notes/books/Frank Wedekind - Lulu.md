@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/frank-wedekind-lulu/","title":"\"Lulu\"","tags":["classic","play"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=g_DjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

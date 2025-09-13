@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/fez-inkwright-botanical-curses-and-poisons/","title":"\"Botanical Curses and Poisons\"","tags":["nature","science","history","non-fiction","illustrations"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=-fxY0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

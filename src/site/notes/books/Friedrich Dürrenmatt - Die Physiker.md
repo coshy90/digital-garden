@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/friedrich-duerrenmatt-die-physiker/","title":"\"Die Physiker\"","tags":["classic","play","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=et9sAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
