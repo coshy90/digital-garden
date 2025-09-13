@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/elena-favilli-francesca-cavallo-good-night-stories-for-rebel-girls-2/","title":"\"Good Night Stories for Rebel Girls 2\"","tags":["illustrations","history"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=cs-YswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

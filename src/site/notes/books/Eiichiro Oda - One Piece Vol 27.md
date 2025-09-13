@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eiichiro-oda-one-piece-vol-27/","title":"\"One Piece, Vol. 27\"","tags":["manga","pirate","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=DJ0OzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

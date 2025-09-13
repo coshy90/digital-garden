@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/erin-meyer-the-culture-map/","title":"\"The Culture Map\"","tags":["non-fiction","communication","psychology","business"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=tG_BtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

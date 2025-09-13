@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/elie-wiesel-night/","title":"\"Night\"","tags":["autobiography","history","world-war-2"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ELbHiPmYSM4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

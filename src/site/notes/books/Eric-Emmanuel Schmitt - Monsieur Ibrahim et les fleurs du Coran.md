@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eric-emmanuel-schmitt-monsieur-ibrahim-et-les-fleurs-du-coran/","title":"\"Monsieur Ibrahim et les fleurs du Coran\"","tags":["screenplay","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=34vi8BVx73MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

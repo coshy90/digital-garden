@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/elena-ferrante-my-brilliant-friend/","title":"\"My Brilliant Friend\"","tags":["contemporary","friendship","coming-of-age"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=mLTRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

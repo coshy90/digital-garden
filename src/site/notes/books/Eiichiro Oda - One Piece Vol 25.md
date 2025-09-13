@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eiichiro-oda-one-piece-vol-25/","title":"\"One Piece, Vol. 25\"","tags":["manga","pirate","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=hbHwAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

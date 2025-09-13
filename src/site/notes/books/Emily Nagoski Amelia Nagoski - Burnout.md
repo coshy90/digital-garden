@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/emily-nagoski-amelia-nagoski-burnout/","title":"\"Burnout\"","tags":["health","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=kZ9KDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

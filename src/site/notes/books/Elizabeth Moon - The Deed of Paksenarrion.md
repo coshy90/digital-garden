@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/elizabeth-moon-the-deed-of-paksenarrion/","title":"\"The Deed of Paksenarrion\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=XWt0CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

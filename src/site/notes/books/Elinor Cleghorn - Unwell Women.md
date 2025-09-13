@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/elinor-cleghorn-unwell-women/","title":"\"Unwell Women\"","tags":["non-fiction","feminism","health","history"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=BTvsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
