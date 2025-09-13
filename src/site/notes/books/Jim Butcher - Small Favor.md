@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-small-favor/","title":"\"Small Favor\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=LZMd8pKXw_QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

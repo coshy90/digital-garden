@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jo-nesbo-cockroaches/","title":"\"Cockroaches\"","tags":["crime","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=p7QLnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

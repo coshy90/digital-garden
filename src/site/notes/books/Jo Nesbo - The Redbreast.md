@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jo-nesbo-the-redbreast/","title":"\"The Redbreast\"","tags":["thriller","crime"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=_f5ciyvMUzUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jk-rowling-harry-potter-and-the-order-of-the-phoenix/","title":"\"Harry Potter and the Order of the Phoenix\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=zpvysRGsBlwC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

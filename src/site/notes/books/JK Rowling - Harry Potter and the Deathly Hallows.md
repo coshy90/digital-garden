@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jk-rowling-harry-potter-and-the-deathly-hallows/","title":"\"Harry Potter and the Deathly Hallows\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=gCtazG4ZXlQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

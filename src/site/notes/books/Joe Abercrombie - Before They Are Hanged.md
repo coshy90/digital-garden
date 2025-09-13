@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/joe-abercrombie-before-they-are-hanged/","title":"\"Before They Are Hanged\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ZiaW-VUuXbAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

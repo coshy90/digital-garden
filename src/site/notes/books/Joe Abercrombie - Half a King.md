@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/joe-abercrombie-half-a-king/","title":"\"Half a King\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Z12VAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

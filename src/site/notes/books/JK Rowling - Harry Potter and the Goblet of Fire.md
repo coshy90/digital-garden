@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jk-rowling-harry-potter-and-the-goblet-of-fire/","title":"\"Harry Potter and the Goblet of Fire\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=etukl7GfrxQC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

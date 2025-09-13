@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-turn-coat/","title":"\"Turn Coat\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=4oePh1JaOFQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jk-rowling-harry-potter-and-the-prisoner-of-azkaban/","title":"\"Harry Potter and the Prisoner of Azkaban\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=wHlDzHnt6x0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-skin-game/","title":"\"Skin Game\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=5VufAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

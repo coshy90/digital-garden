@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-the-aeronaut-s-windlass/","title":"The Aeronaut's Windlass","tags":["Fantasy","science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=qT5LDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

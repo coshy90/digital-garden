@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-zub-steve-cummings-wayward-1/","title":"\"Wayward #1\"","tags":["graphic-novel","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=6CNIBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

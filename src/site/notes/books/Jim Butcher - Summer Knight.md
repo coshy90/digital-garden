@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-summer-knight/","title":"\"Summer Knight\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ev4SpwTuQ4UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

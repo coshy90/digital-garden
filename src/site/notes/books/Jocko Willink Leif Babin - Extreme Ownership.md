@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jocko-willink-leif-babin-extreme-ownership/","title":"\"Extreme Ownership\"","tags":["leadership","non-fiction","business"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=tpspDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

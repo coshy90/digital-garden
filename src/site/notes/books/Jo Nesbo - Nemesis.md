@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jo-nesbo-nemesis/","title":"\"Nemesis\"","tags":["crime","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=MBQDIIKPmuYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

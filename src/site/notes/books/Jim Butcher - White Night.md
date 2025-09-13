@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-white-night/","title":"\"White Night\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Ts5ItxL6hCEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
