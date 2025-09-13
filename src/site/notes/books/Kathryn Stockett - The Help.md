@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kathryn-stockett-the-help/","title":"\"The Help\"","tags":["contemporary","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=mpuhNtrkrV8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

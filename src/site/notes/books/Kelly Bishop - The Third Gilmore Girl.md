@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kelly-bishop-the-third-gilmore-girl/","title":"\"The Third Gilmore Girl\"","tags":["autobiography"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Qor_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

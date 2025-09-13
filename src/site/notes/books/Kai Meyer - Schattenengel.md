@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kai-meyer-schattenengel/","title":"\"Schattenengel\"","tags":["Fantasy","horror","childrens"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=NqCoPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

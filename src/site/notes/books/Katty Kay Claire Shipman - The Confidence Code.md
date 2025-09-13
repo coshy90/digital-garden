@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/katty-kay-claire-shipman-the-confidence-code/","title":"\"The Confidence Code\"","tags":["non-fiction","business"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=U7hXAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

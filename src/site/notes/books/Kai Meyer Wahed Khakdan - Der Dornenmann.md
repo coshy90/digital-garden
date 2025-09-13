@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kai-meyer-wahed-khakdan-der-dornenmann/","title":"\"Der Dornenmann\"","tags":["childrens","Fantasy","horror"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=UUmiPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

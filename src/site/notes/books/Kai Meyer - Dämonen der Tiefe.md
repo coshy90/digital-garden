@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kai-meyer-daemonen-der-tiefe/","title":"\"Dämonen der Tiefe\"","tags":["childrens","horror","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=LlUIPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

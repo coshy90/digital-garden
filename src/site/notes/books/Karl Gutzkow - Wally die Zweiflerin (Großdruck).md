@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/karl-gutzkow-wally-die-zweiflerin-grossdruck/","title":"\"Wally, die Zweiflerin\"","tags":["classic","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=CzXizQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

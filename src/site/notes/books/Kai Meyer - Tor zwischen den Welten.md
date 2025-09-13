@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kai-meyer-tor-zwischen-den-welten/","title":"\"Tor zwischen den Welten\"","tags":["childrens","horror","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=RcyUPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

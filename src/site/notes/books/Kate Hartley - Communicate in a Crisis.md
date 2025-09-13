@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kate-hartley-communicate-in-a-crisis/","title":"\"Communicate in a Crisis\"","tags":["non-fiction","business","economy","communication"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=77SmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

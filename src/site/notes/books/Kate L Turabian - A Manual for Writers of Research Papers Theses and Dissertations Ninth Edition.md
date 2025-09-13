@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kate-l-turabian-a-manual-for-writers-of-research-papers-theses-and-dissertations-ninth-edition/","title":"\"A Manual for Writers of Research Papers, Theses, and Dissertations, Ninth Edition\"","tags":["non-fiction","education","writing"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=6QdTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

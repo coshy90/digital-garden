@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kara-swisher-burn-book/","title":"\"Burn Book\"","tags":["business","non-fiction","autobiography","tech"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=9NbnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

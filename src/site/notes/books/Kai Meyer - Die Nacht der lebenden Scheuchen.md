@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kai-meyer-die-nacht-der-lebenden-scheuchen/","title":"\"Die Nacht der lebenden Scheuchen\"","tags":["childrens","horror","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](https://cdn.thestorygraph.com/mbiogjx2mzjujcg3m5va5lj6628f)
 
