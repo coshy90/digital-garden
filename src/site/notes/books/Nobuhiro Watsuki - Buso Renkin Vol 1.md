@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/nobuhiro-watsuki-buso-renkin-vol-1/","title":"\"Buso Renkin, Vol. 1\"","tags":["manga","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ZTefUpmdUAkC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

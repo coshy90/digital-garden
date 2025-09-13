@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/nir-eyal-indistractable/","title":"\"Indistractable\"","tags":["psychology","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=kO5KEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
