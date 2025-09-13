@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/ken-akamatsu-love-hina-5/","title":"\"Love Hina - Especial - Vol. 5\"","tags":["manga","romance"]}
 ---
 
-```
+
 
 ![cover|150](https://cdn.thestorygraph.com/2amrfg1a9gyt3xd4s7v71umad3p2)
 

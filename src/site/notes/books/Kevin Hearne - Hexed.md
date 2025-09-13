@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kevin-hearne-hexed/","title":"\"Hexed\"","tags":["Fantasy","druid"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=gm4CCWXYgMQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

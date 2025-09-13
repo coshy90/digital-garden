@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kevin-hearne-hounded-with-two-bonus-short-stories/","title":"\"Hounded (with two bonus short stories)\"","tags":["Fantasy","druid"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=2fRbSqwS9OwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

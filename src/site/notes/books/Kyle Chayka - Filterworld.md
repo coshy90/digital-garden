@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kyle-chayka-filterworld/","title":"\"Filterworld\"","tags":["tech","non-fiction","sociopolitical"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=5qojEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

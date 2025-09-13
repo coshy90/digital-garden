@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kim-nordstrom-up-down-up/","title":"\"UP DOWN UP\"","tags":["video-games","business","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=xo8FEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

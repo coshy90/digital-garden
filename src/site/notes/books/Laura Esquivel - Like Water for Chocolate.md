@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/laura-esquivel-like-water-for-chocolate/","title":"\"Like Water for Chocolate\"","tags":["magical-realism","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=uzqNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

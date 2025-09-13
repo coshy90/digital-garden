@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/kevin-hearne-hammered-with-bonus-short-story/","title":"\"Hammered (with bonus short story)\"","tags":["Fantasy","druid"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=m0LsL7OmmHAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

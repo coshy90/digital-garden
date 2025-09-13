@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/ken-akamatsu-love-hina-6/","title":"\"Love Hina 6\"","tags":["manga","romance"]}
 ---
 
-```
+
 
 ![cover|150](https://cdn.thestorygraph.com/nf04v4mk963zjlsfn7zuma2ld8lg)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/khaled-hosseini-tausend-strahlende-sonnen/","title":"\"Tausend strahlende Sonnen\"","tags":["contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=IOKcAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
