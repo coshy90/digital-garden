@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rodman-philbrick-lynn-harnett-the-horror/","title":"\"The Horror\"","tags":["horror","childrens"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=abkYBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

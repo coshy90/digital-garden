@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rolf-dobelli-the-art-of-the-good-life/","title":"\"The Art of the Good Life\"","tags":["non-fiction","philosophy","psychology","business"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=240mDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rl-stine-switched/","title":"\"Switched\"","tags":["thriller","horror","childrens"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=bv7L4LuM6o0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

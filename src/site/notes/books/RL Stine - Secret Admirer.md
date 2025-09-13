@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rl-stine-secret-admirer/","title":"\"Secret Admirer\"","tags":["horror","thriller","childrens"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ZRU5wuTdVFwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

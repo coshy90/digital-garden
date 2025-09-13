@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/robert-vs-redick-the-red-wolf-conspiracy/","title":"\"The Red Wolf Conspiracy\"","tags":["Fantasy","pirate"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=gAMxSdtmfHoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

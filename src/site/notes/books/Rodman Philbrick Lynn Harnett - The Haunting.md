@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rodman-philbrick-lynn-harnett-the-haunting/","title":"\"The Haunting\"","tags":["horror","childrens"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=_bkYBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

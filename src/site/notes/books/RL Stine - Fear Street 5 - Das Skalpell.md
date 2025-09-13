@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rl-stine-fear-street-5-das-skalpell/","title":"\"Das Skalpell\"","tags":["horror","thriller","childrens"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=2P93DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

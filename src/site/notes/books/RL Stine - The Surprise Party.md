@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rl-stine-the-surprise-party/","title":"\"The Surprise Party\"","tags":["horror","thriller","childrens"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=yO7WDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rl-stine-fear-street-41-der-ferienjob/","title":"\"Der Ferienjob\"","tags":["thriller","childrens","horror"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=FC3pDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

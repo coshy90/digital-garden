@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/rl-stine-fear-street-10-rachsuechtig/","title":"\"Rachsüchtig\"","tags":["childrens","horror","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=yEt4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
