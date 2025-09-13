@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yoshiki-nakamura-skip-beat-vol-2/","title":"\"Skip・Beat!, Vol. 2\"","tags":["manga","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=fS70AQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

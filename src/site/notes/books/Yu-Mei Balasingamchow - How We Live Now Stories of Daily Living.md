@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yu-mei-balasingamchow-how-we-live-now-stories-of-daily-living/","title":"\"How We Live Now: Stories of Daily Living\"","tags":["essay","sociopolitical","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=FRrBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

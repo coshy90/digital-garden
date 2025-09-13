@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yoshiki-nakamura-skip-beat-vol-19/","title":"\"Skip·Beat!, Vol. 19\"","tags":["manga","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=oSAKPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

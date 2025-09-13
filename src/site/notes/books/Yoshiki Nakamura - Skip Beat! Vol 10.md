@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yoshiki-nakamura-skip-beat-vol-10/","title":"\"Skip Beat!\"","tags":["manga","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=HXqongEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
