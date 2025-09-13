@@ -10,5 +10,4 @@
 
 ### Description
 
-For the first time since dividing the world, the 16 Families have gathered together again in the exclusive luxury confines of Triton One to resolve the emerging conflict between Family Carlyle and Family Hock, and they've brought their Lazari with them. Amidst budding friendships, romance, and politics, Forever will learn the truth about who she is and the first hints of what she will become. Collects LAZARUS #10-15.
-```
+For the first time since dividing the world, the 16 Families have gathered together again in the exclusive luxury confines of Triton One to resolve the emerging conflict between Family Carlyle and Family Hock, and they've brought their Lazari with them. Amidst budding friendships, romance, and politics, Forever will learn the truth about who she is and the first hints of what she will become. 
