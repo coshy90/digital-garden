@@ -10,5 +10,5 @@
 
 ### Description
 
-The smash-hit series from BRIAN K. VAUGHAN and CLIFF CHIANG continues with a bold new direction, as intrepid young newspaper deliverers Erin, Mac, and Tiffany find themselves launched from 1988 to a distant and terrifying future...the year 2016. Collects PAPER GIRLS #6-10
+The smash-hit series from BRIAN K. VAUGHAN and CLIFF CHIANG continues with a bold new direction, as intrepid young newspaper deliverers Erin, Mac, and Tiffany find themselves launched from 1988 to a distant and terrifying future...the year 2016. 
 ```
