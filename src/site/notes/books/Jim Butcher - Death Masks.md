@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-death-masks/","title":"\"Death Masks\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=1Q9KioAKxlMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

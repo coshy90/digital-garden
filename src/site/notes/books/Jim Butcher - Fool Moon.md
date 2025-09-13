@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-fool-moon/","title":"\"Fool Moon\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=OAtjZ5m1t8wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

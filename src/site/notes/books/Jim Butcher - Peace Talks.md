@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-peace-talks/","title":"\"Peace Talks\"","tags":["Fantasy"]}
 ---
 
-```
 
 ![cover|150](http://books.google.com/books/content?id=SIbEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

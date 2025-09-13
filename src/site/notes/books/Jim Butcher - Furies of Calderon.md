@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-furies-of-calderon/","title":"\"Furies of Calderon\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=H39TaqVmUDYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

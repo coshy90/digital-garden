@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jenny-lawson-let-s-pretend-this-never-happened/","title":"Let's Pretend This Never Happened","tags":["non-fiction","autobiography"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=TsrOgbRduMkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-captain-s-fury/","title":"Captain's Fury","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=GeKZEECFgUUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

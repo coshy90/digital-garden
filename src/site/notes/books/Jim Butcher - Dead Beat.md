@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-dead-beat/","title":"\"Dead Beat\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=kJJdRiEVHxYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

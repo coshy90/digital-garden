@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-princeps-fury/","title":"Princeps' Fury","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=TlVY3S7Pna0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

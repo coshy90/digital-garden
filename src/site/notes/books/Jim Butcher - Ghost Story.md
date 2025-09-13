@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-ghost-story/","title":"\"Ghost Story\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=KBDfngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

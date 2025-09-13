@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-grave-peril/","title":"\"Grave Peril\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=k_Lit-EU4FcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-proven-guilty/","title":"\"Proven Guilty\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=H73i4jx4km0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

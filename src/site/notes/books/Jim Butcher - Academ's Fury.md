@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-academ-s-fury/","title":"Academ's Fury","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=vHLu3Y4H6U8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

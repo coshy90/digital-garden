@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jim-butcher-brief-cases/","title":"\"Brief Cases\"","tags":["Fantasy","short-story"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=X0RBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
