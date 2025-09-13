@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yuu-watase-alice-19th-vol-1/","title":"\"Alice 19th, Vol. 1\"","tags":["Fantasy","manga"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=IBu6-8HzgdkC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

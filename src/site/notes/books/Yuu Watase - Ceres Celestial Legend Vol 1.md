@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yuu-watase-ceres-celestial-legend-vol-1/","title":"\"Aya\"","tags":["Fantasy","manga"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=xVT0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

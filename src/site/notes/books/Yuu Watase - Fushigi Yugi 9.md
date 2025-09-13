@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yuu-watase-fushigi-yugi-9/","title":"\"Fushigi Yugi 09\"","tags":["manga","romance","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=nG69DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

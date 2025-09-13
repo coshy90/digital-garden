@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yuu-watase-fushigi-yugi-8/","title":"\"Fushigi Yugi 8\"","tags":["manga","romance","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](https://cdn.thestorygraph.com/u7auleyhwppm2caixlkq9lm3a0l4)
 

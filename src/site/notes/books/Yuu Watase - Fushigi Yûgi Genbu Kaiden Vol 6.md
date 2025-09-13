@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yuu-watase-fushigi-yugi-genbu-kaiden-vol-6/","title":"\"Fushigi Yûgi: Genbu Kaiden, Vol. 6\"","tags":["manga","romance","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=kUvwAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

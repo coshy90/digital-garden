@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/yuu-watase-fushigi-yugi-vol-3-vizbig-edition/","title":"\"Fushigi Yûgi, Vol. 3\"","tags":["manga","romance","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=_nBdPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
