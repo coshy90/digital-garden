@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/hayao-miyazaki/","title":"\"Hayao Miyazaki\"","tags":["art","anime"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Oj0XzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

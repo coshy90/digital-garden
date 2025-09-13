@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/hector-garcia-francesc-miralles-ikigai/","title":"\"Ikigai\"","tags":["non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=4UCnDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

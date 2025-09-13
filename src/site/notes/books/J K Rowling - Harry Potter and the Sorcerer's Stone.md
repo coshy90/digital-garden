@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/j-k-rowling-harry-potter-and-the-sorcerer-s-stone/","title":"Harry Potter and the Sorcerer's Stone","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=3YUrtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

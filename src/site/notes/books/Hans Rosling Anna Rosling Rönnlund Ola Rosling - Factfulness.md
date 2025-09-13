@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/hans-rosling-anna-rosling-roennlund-ola-rosling-factfulness/","title":"\"Factfulness\"","tags":["non-fiction","economy","psychology","science"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=j-4yDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

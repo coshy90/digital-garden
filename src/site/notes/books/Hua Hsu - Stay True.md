@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/hua-hsu-stay-true/","title":"\"Stay True\"","tags":["autobiography","non-fiction","coming-of-age"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=cVBTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

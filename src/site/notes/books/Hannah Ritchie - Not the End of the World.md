@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/hannah-ritchie-not-the-end-of-the-world/","title":"\"Not the End of the World\"","tags":["sociopolitical","politics","climate","science"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=xua8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

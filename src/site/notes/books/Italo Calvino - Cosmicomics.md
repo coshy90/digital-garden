@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/italo-calvino-cosmicomics/","title":"\"Cosmicomics\"","tags":["science-fiction","short-story","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=0-98EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

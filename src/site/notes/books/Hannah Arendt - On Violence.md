@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/hannah-arendt-on-violence/","title":"\"On Violence\"","tags":["non-fiction","politics","sociopolitical","philosophy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=FJ-REAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

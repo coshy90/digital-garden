@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/hideo-kojima-the-creative-gene/","title":"\"The Creative Gene\"","tags":["essay","video-games","art","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=5K03EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

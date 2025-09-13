@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/hayley-campbell-all-the-living-and-the-dead/","title":"\"All the Living and the Dead\"","tags":["non-fiction","history","science"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=38JT0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

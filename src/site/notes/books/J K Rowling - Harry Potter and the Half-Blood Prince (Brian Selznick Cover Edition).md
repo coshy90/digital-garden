@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/j-k-rowling-harry-potter-and-the-half-blood-prince-brian-selznick-cover-edition/","title":"\"Harry Potter and the Half-Blood Prince\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=kFbQvAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

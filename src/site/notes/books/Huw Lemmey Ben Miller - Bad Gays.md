@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/huw-lemmey-ben-miller-bad-gays/","title":"\"Bad Gays\"","tags":["history","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=bk6GEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

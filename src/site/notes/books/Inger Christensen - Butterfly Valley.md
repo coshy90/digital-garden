@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/inger-christensen-butterfly-valley/","title":"\"Butterfly Valley\"","tags":["poetry"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=PopxW76qmtsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/j-k-rowling-harry-potter-and-the-chamber-of-secrets/","title":"\"Harry Potter and the Chamber of Secrets\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=6CQzYAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
