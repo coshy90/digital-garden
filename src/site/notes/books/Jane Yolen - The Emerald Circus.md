@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jane-yolen-the-emerald-circus/","title":"\"The Emerald Circus\"","tags":["Fantasy","short-story"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=GishDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jack-thorne-j-k-rowling-john-tiffany-harry-potter-and-the-cursed-child-parts-i-and-ii-special-rehearsal-edition-t/","title":"\"Harry Potter and the Cursed Child, Parts I and II\"","tags":["Fantasy","play"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=I2jZswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/james-clemens-wit-ch-star/","title":"Wit'ch Star","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=E8DzRhkp4YIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

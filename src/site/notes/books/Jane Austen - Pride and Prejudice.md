@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jane-austen-pride-and-prejudice/","title":"\"Pride and Prejudice\"","tags":["romance","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

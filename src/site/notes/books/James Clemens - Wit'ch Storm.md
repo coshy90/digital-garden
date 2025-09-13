@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/james-clemens-wit-ch-storm/","title":"Wit'ch Storm","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=NQygI0DfkKMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

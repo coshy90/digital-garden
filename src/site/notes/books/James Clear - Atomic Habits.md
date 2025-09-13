@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/james-clear-atomic-habits/","title":"\"Atomic Habits\"","tags":["non-fiction","psychology"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=fFCjDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

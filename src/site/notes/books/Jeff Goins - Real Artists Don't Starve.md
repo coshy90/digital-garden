@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jeff-goins-real-artists-don-t-starve/","title":"Real Artists Don't Starve","tags":["art","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Cmt7DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

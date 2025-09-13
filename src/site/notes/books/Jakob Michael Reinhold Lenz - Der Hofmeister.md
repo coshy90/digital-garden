@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jakob-michael-reinhold-lenz-der-hofmeister/","title":"\"Der Hofmeister\"","tags":["play","fiction","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Cop4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

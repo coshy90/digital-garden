@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/james-clemens-wit-ch-war/","title":"Wit'ch War","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=GFVSAY5LovQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

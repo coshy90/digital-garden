@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jennette-mc-curdy-i-m-glad-my-mom-died/","title":"I'm Glad My Mom Died","tags":["autobiography","non-fiction","family"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=vrWLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

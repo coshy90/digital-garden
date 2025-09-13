@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jack-weatherford-genghis-khan-and-the-making-of-the-modern-world/","title":"\"Genghis Khan and the Making of the Modern World\"","tags":["history","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=A8Y9B5uHQcAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/james-clemens-wit-ch-gate/","title":"Wit'ch Gate","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=_Igt3cg7vFMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

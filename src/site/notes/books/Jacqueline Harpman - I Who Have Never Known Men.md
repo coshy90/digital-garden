@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jacqueline-harpman-i-who-have-never-known-men/","title":"\"I Who Have Never Known Men\"","tags":["dystopia"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=qF9-J2VEFksC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

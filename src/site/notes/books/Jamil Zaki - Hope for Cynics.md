@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jamil-zaki-hope-for-cynics/","title":"\"Hope for Cynics\"","tags":["psychology","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Z13zEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

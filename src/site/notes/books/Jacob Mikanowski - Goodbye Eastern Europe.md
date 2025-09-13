@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jacob-mikanowski-goodbye-eastern-europe/","title":"\"Goodbye Eastern Europe\"","tags":["geography","sociopolitical","history","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=qfxIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

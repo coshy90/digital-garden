@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/james-islington-the-will-of-the-many/","title":"\"The Will of the Many\"","tags":["Fantasy","rome"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=53u7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

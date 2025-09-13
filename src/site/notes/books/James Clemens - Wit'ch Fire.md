@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/james-clemens-wit-ch-fire/","title":"Wit'ch Fire","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=teUD-XzuxgYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

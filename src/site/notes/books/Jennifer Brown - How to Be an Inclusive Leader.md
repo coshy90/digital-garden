@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jennifer-brown-how-to-be-an-inclusive-leader/","title":"\"How to Be an Inclusive Leader\"","tags":["leadership","business","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=KEyMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
