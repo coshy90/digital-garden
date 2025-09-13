@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/stieg-larsson-the-girl-who-played-with-fire/","title":"\"The Girl Who Played With Fire\"","tags":["crime","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=filhBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

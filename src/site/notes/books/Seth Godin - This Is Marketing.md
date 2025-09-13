@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/seth-godin-this-is-marketing/","title":"\"This Is Marketing\"","tags":["non-fiction","marketing","business","work"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=-AiFtwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

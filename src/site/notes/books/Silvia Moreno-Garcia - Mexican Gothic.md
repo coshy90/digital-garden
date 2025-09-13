@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/silvia-moreno-garcia-mexican-gothic/","title":"\"Mexican Gothic\"","tags":["horror","fiction","contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ksKyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/simon-beckett-whispers-of-the-dead/","title":"\"Whispers of the Dead\"","tags":["crime","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=2OqunQaQW74C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

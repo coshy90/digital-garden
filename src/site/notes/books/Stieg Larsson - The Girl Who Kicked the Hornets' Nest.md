@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/stieg-larsson-the-girl-who-kicked-the-hornets-nest/","title":"The Girl Who Kicked the Hornets' Nest","tags":["crime","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=0F1hBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

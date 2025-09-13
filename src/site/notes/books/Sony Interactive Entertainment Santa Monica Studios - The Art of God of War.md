@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/sony-interactive-entertainment-santa-monica-studios-the-art-of-god-of-war/","title":"\"The Art of God of War\"","tags":["art","non-fiction","video-games"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=cP9RDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

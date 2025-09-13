@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/shelley-parker-chan-she-who-became-the-sun/","title":"\"She Who Became the Sun\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=FwX6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

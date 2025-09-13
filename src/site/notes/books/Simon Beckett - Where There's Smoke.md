@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/simon-beckett-where-there-s-smoke/","title":"Where There's Smoke","tags":["thriller","crime"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=LksyCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

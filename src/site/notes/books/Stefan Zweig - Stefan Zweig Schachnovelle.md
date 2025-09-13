@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/stefan-zweig-stefan-zweig-schachnovelle/","title":"\"Schachnovelle\"","tags":["short-story","fiction","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=x0T1CzCAfugC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

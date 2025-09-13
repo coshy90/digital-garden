@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/simon-beckett-written-in-bone/","title":"\"Written in Bone\"","tags":["crime","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=BUOCrUG71RgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

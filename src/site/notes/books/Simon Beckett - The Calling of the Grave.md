@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/simon-beckett-the-calling-of-the-grave/","title":"\"The Calling of the Grave\"","tags":["crime","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=pwdV0QJZ2VsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

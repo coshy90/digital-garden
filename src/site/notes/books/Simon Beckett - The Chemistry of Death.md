@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/simon-beckett-the-chemistry-of-death/","title":"\"The Chemistry of Death\"","tags":["crime","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=kquC1IOVn7sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

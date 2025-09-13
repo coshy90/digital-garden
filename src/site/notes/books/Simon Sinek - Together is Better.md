@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/simon-sinek-together-is-better/","title":"\"Together is Better\"","tags":["non-fiction","business","leadership"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Asi-CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

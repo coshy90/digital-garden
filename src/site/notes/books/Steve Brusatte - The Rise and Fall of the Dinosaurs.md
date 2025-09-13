@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/steve-brusatte-the-rise-and-fall-of-the-dinosaurs/","title":"\"The Rise and Fall of the Dinosaurs\"","tags":["science","non-fiction","history","nature"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=0Dg9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

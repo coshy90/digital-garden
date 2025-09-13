@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/steven-levitsky-daniel-ziblatt-how-democracies-die/","title":"\"How Democracies Die\"","tags":["non-fiction","politics","sociopolitical","history"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=iF3ODgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
