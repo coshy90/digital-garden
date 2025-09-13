@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/alisa-vitti-in-the-flo/","title":"\"In the FLO\"","tags":["non-fiction","health"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=m2GBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

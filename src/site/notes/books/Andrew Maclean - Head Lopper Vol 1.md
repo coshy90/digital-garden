@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/andrew-maclean-head-lopper-vol-1/","title":"\"Head Lopper Vol. 1\"","tags":["graphic-novel","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=uPcbDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

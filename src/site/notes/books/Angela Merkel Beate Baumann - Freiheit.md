@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/angela-merkel-beate-baumann-freiheit/","title":"\"Freiheit\"","tags":["autobiography","politics","history"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=J5AzEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

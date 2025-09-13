@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/arina-tanemura-kamikaze-kaito-jeanne-tome-04/","title":"\"Kamikaze Kaito Jeanne - 04\"","tags":["manga","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ZPIoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

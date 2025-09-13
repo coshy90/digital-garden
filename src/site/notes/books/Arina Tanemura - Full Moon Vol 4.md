@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/arina-tanemura-full-moon-vol-4/","title":"\"Full Moon, Vol. 4\"","tags":["Fantasy","romance","manga"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=mIetcfUdv9oC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

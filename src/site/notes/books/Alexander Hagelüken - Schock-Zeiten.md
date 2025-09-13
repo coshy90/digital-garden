@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/alexander-hagelueken-schock-zeiten/","title":"\"Schock-Zeiten\"","tags":["politics","sociopolitical","economy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=pojVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
