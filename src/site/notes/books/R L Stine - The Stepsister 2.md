@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/r-l-stine-the-stepsister-2/","title":"\"The Stepsister 2\"","tags":["childrens","horror","thriller"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=6K75uNwBf80C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

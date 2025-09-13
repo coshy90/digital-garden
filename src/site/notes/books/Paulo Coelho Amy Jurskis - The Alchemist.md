@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/paulo-coelho-amy-jurskis-the-alchemist/","title":"\"The Alchemist\"","tags":["classic","Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=orkBswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

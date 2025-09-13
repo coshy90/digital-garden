@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/peter-v-brett-the-daylight-war-book-three-of-the-demon-cycle/","title":"\"The Daylight War\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=0YOU5_JTd0IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

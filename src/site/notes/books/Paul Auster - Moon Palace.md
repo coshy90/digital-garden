@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/paul-auster-moon-palace/","title":"\"Moon Palace\"","tags":["contemporary","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=0oJBBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -7,7 +7,7 @@
 | ----------------- | ----- | ------------------------------------------------------- |
 | #manga            | 425   | [[Tags/manga\|To manga overview]]                       |
 | #Fantasy          | 398   | [[Tags/Fantasy\|To Fantasy overview]]                   |
-| #non-fiction      | 164   | [[Tags/non-fiction\|To non-fiction overview]]           |
+| #non-fiction      | 165   | [[Tags/non-fiction\|To non-fiction overview]]           |
 | #romance          | 140   | [[Tags/romance\|To romance overview]]                   |
 | #crime            | 105   | [[Tags/crime\|To crime overview]]                       |
 | #classic          | 75    | [[Tags/classic\|To classic overview]]                   |

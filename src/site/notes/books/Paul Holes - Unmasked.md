@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/books/paul-holes-unmasked/","title":"\"Unmasked\"","tags":["autobiography","crime"]}
+{"dg-publish":true,"permalink":"/books/paul-holes-unmasked/","title":"\"Unmasked\"","tags":["autobiography","crime","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://prodimage.images-bn.com/pimages/9781250622808_p0_v1_s1200x630.jpg)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/r-l-stine-night-of-the-living-dummy-3-classic-goosebumps-26/","title":"\"Night of the Living Dummy\"","tags":["horror","fiction"]}
 ---
 
-```
+
 
 ![cover|150](https://cdn.thestorygraph.com/qszd8g1v8e09yl88vfqsqndinklq)
 

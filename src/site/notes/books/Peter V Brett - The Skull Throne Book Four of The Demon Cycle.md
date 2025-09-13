@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/peter-v-brett-the-skull-throne-book-four-of-the-demon-cycle/","title":"\"The Skull Throne\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Y4NaBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

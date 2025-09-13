@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/r-l-stine-dead-lifeguard/","title":"\"Dead Lifeguard\"","tags":["horror","thriller","childrens"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=qrsoEPi9wQ4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

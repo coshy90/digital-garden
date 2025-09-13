@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/prince-harry-the-duke-of-sussex-spare/","title":"\"Spare\"","tags":["autobiography","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=CxiWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

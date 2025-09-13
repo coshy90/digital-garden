@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/patrick-sueskind-das-parfum/","title":"\"Das Parfum\"","tags":["crime","thriller","classic"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=PWttAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

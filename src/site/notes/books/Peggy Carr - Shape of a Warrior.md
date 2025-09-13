@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/peggy-carr-shape-of-a-warrior/","title":"\"Shape of a Warrior\"","tags":["contemporary"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=iyMJzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

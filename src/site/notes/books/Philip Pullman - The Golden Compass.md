@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/philip-pullman-the-golden-compass/","title":"\"The Golden Compass\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=VxTegKNPfZkC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

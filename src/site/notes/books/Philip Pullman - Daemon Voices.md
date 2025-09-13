@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/philip-pullman-daemon-voices/","title":"\"Daemon Voices\"","tags":["essay","writing","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=JIJDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

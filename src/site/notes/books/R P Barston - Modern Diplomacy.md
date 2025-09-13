@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/r-p-barston-modern-diplomacy/","title":"\"Modern Diplomacy\"","tags":["academic","non-fiction","politics"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=4r63AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

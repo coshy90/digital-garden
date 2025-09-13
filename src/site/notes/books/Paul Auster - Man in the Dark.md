@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/paul-auster-man-in-the-dark/","title":"\"Man in the Dark\"","tags":["contemporary","fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=QrlJ4BHCqpEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/peter-v-brett-the-desert-spear/","title":"\"The Desert Spear\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Oo3B6KoOwWUC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
