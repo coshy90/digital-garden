@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/michelle-zauner-crying-in-h-mart/","title":"\"Crying in H Mart\"","tags":["autobiography","non-fiction","family"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=kRjzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

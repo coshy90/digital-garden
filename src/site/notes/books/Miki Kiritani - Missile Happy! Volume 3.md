@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/miki-kiritani-missile-happy-volume-3/","title":"\"Missile Happy! Volume 3\"","tags":["manga","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=86v-IAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

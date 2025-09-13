@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/michael-zapata-the-lost-book-of-adana-moreau/","title":"\"The Lost Book of Adana Moreau\"","tags":["contemporary","science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=_S2YDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

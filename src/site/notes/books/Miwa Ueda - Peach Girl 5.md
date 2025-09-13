@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/miwa-ueda-peach-girl-5/","title":"\"Peach Girl\"","tags":["manga","romance"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=wPJoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
