@@ -10,5 +10,5 @@
 
 ### Description
 
-After the traumatic events of the War for Phang, Hazel, her parents, and their surviving companions embark on a life-changing adventure at the westernmost edge of the universe. Collects SAGA #43-48
+After the traumatic events of the War for Phang, Hazel, her parents, and their surviving companions embark on a life-changing adventure at the westernmost edge of the universe. 
 ```
