@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eiichiro-oda-one-piece-49/","title":"\"One Piece 49\"","tags":["Fantasy","pirate","manga"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=RNBcCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

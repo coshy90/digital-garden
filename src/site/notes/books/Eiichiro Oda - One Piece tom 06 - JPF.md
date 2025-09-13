@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eiichiro-oda-one-piece-tom-06-jpf/","title":"\"One Piece 06\"","tags":["manga","Fantasy","pirate"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ucTAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eiichiro-oda-one-piece-56/","title":"\"One Piece 56\"","tags":["manga","Fantasy","pirate"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=gzLRCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

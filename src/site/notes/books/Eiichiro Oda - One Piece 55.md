@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eiichiro-oda-one-piece-55/","title":"\"One Piece 55\"","tags":["Fantasy","manga","pirate"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=8FrKCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

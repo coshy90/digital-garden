@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eiichiro-oda-one-piece-60/","title":"\"One Piece 60\"","tags":["Fantasy","manga","pirate"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=KCDRCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

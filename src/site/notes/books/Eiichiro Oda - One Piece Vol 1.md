@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/eiichiro-oda-one-piece-vol-1/","title":"\"One Piece, Vol. 1\"","tags":["manga","Fantasy","pirate"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=fV_wAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
