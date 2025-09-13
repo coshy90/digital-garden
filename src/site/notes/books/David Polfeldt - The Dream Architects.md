@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/david-polfeldt-the-dream-architects/","title":"\"The Dream Architects\"","tags":["video-games","non-fiction","business","autobiography","tech"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Xx_IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

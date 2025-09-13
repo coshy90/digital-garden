@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/daniel-h-pink-drive/","title":"\"Drive\"","tags":["non-fiction","business","psychology"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=l6x0a-jkoGUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

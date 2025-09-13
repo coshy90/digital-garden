@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/david-zarefsky-teaching-company-llc-the-teaching-company-argumentation/","title":"\"Argumentation\"","tags":["academic","non-fiction","philosophy"]}
 ---
 
-```
+
 
 ![cover|150](https://cdn.thestorygraph.com/9456y4e42guwnp612sekqdi0nkae)
 

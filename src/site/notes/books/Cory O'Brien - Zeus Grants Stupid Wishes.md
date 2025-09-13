@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/cory-o-brien-zeus-grants-stupid-wishes/","title":"\"Zeus Grants Stupid Wishes\"","tags":["non-fiction","myth","history"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=HwJgTfTen6kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

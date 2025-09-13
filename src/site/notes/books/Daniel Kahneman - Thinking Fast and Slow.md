@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/daniel-kahneman-thinking-fast-and-slow/","title":"\"Thinking, Fast and Slow\"","tags":["health","psychology","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=ZuKTvERuPG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

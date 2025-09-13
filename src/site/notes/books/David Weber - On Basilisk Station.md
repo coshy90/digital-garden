@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/david-weber-on-basilisk-station/","title":"\"On Basilisk Station\"","tags":["science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=uH10CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

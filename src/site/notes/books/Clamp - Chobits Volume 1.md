@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/clamp-chobits-volume-1/","title":"\"Chobits Volume 1\"","tags":["manga","romance","science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=Jl1w-1ahIuAC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

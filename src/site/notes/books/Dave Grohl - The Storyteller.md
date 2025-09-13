@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/dave-grohl-the-storyteller/","title":"\"The Storyteller\"","tags":["autobiography","music","non-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=l5efzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

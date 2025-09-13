@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/david-weber-the-honor-of-the-queen-second-edition/","title":"\"The Honor of the Queen\"","tags":["science-fiction"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=dZh0CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/daniel-abraham-a-shadow-in-summer/","title":"\"A Shadow in Summer\"","tags":["Fantasy"]}
 ---
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=SPfQ2D_v6qoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
