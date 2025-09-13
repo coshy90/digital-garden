@@ -10,5 +10,5 @@
 
 ### Description
 
-Collects SAGA #13-18 The Eisner, Harvey, and Hugo Award-winning phenomenon continues, as new parents Marko and Alana travel to an alien world to visit their hero, while the family's pursuers finally close in on their targets.
+The Eisner, Harvey, and Hugo Award-winning phenomenon continues, as new parents Marko and Alana travel to an alien world to visit their hero, while the family's pursuers finally close in on their targets.
 ```
