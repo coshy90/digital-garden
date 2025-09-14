@@ -1,13 +1,35 @@
+/* Custom body-level styles */
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  /* Add any custom styles that should apply globally here */
+  /* Example: change background color or font size */
+  /* background-color: white; */
+  /* font-size: 14px; */
+}
+
+/* Space between the title and menu */
+header h1 {
+  margin-bottom: 1rem; /* Adjust spacing between Digital Garden title and nav */
+}
+
+/* Make menu horizontal */
+.top-menu ul {
+  list-style: none;       /* Remove bullets */
+  padding: 0;
+  margin: 0;
+  display: flex;          /* Horizontal layout */
+  gap: 1.5rem;            /* Space between menu items */
+}
+
+.top-menu li {
+  margin: 0;              /* Reset default li margin */
+}
+
+.top-menu a {
+  text-decoration: none;
+  color: #333;            /* Adjust to match theme */
+  font-weight: 600;
+}
+
+.top-menu a:hover {
+  color: #0070f3;         /* Hover color */
 }
