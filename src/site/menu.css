@@ -1,0 +1,32 @@
+
+.top-menu {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: #fdfdfd;
+  border-bottom: 1px solid #ddd;
+  padding: 0.5rem 1rem;
+}
+
+.top-menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+.top-menu li {
+  margin: 0;
+}
+
+.top-menu a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.top-menu a:hover {
+  color: #0070f3; /* Vercel blue accent */
+}
