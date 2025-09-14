@@ -12,6 +12,14 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.head %}
       {% include imp %}
     {% endfor %}
+<!-- Your navigation menu -->
+  <nav class="top-menu">
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/books">Books</a></li>
+      <li><a href="/tags">Tags</a></li>
+    </ul>
+  </nav>
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
