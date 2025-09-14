@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or "Digital Garden" }}</title>
+
+    {# --- load default garden styles/scripts --- #}
+    {{ head | safe }}
+
+    {# --- load your custom menu CSS/JS --- #}
+    <link rel="stylesheet" href="/menu.css">
+    <script src="/menu.js" defer></script>
+  </head>
+  <body>
+    {# --- inject your global menu --- #}
+    <div id="global-header"></div>
+
+    {# --- the main note content will render here --- #}
+    {{ content | safe }}
+  </body>
+</html>
