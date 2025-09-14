@@ -1,26 +1,22 @@
-/* Make the header a flex container */
-header {
-  display: flex;
-  justify-content: space-between; /* title on left, menu on right */
-  align-items: center;
-  padding: 1rem 2rem;             /* spacing around header */
-  background-color: #fff;         /* optional, adjust to theme */
-  border-bottom: 1px solid #ddd;  /* subtle separation line */
-}
-
-/* Site title styling */
+/* Only style the h1 + nav flex layout, no background */
 header h1 {
   margin: 0;
-  font-size: 1.5rem;              /* adjust as needed */
-  font-weight: 700;
-  color: #333;
+  font-size: 1.5rem;
+}
+
+/* Make the header content (h1 + nav) flex container */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* title left, menu right */
+  gap: 2rem;
 }
 
 /* Menu styling */
 .top-menu ul {
-  list-style: none;               /* remove bullets */
-  display: flex;                  /* horizontal layout */
-  gap: 2rem;                      /* space between items */
+  list-style: none;
+  display: flex;
+  gap: 1.5rem; /* spacing between links */
   margin: 0;
   padding: 0;
 }
@@ -31,23 +27,10 @@ header h1 {
 
 .top-menu a {
   text-decoration: none;
-  color: #333;                    /* menu link color */
+  color: inherit; /* use theme's text color */
   font-weight: 600;
 }
 
 .top-menu a:hover {
-  color: #0070f3;                 /* hover color */
-}
-
-/* Optional: adjust menu for smaller screens */
-@media (max-width: 768px) {
-  header {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-  .top-menu ul {
-    flex-direction: column;
-    gap: 1rem;
-    width: 100%;
-  }
+  color: #0070f3; /* optional hover */
 }
