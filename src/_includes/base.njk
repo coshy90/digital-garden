@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {# ✅ This pulls in the standard Digital Garden head (styles, metadata, etc.) #}
+    {{ head | safe }}
+
+    {# ✅ Load your custom CSS + JS #}
+    <link rel="stylesheet" href="/menu.css">
+    <script src="/menu.js" defer></script>
+  </head>
+  <body>
+    {# ✅ This div is just a placeholder for your JS menu injection #}
+    <div id="global-header"></div>
+
+    {# ✅ The actual note/page content from Digital Garden will appear here #}
+    {{ content | safe }}
+  </body>
+</html>
