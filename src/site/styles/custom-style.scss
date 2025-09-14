@@ -1,36 +1,6 @@
-/* Only style the h1 + nav flex layout, no background */
-header h1 {
-  margin: 0;
-  font-size: 1.5rem;
-}
-
-/* Make the header content (h1 + nav) flex container */
-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between; /* title left, menu right */
-  gap: 2rem;
-}
-
-/* Menu styling */
-.top-menu ul {
-  list-style: none;
-  display: flex;
-  gap: 1.5rem; /* spacing between links */
-  margin: 0;
-  padding: 0;
-}
-
-.top-menu li {
-  margin: 0;
-}
-
-.top-menu a {
-  text-decoration: none;
-  color: inherit; /* use theme's text color */
-  font-weight: 600;
-}
-
-.top-menu a:hover {
-  color: #0070f3; /* optional hover */
-}
+body { 
+  /*** ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.) 
+  IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE. 
+  ***/ 
+  // background-color: white; 
+  // .content { // font-size: 14px; // } // h1 { // color: black; // } }
