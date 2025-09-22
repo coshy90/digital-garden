@@ -10,7 +10,7 @@
 
 ## My thoughts & notable quotes
 
-A painful, accurate and detailed look at some of the most notable video games of (mostly) the 2010s, and the human stories behind them. It is widely accepted within the games industry that every single game that gets released is a miracle - and this book shows how humans are the magicians.
+A painful, accurate and detailed look at some of the most notable video games of (mostly) the 2010s, and the human stories behind them. It is widely accepted within the games industry that every single game that gets released is a miracle - and this book shows how humans are the magicians, often surprising them the most of everyone.
 
 ### Store description
 
