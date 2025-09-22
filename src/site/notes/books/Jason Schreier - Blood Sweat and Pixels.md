@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/books/jason-schreier-blood-sweat-and-pixels/","title":"\"Blood, Sweat, and Pixels\"","tags":["video-games","non-fiction","business"]}
+---
+
+
+
+![cover|150](http://books.google.com/books/content?id=-bK-DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## Blood, Sweat, and Pixels
+
+## My thoughts & notable quotes
+
+A painful, accurate and detailed look at some of the most notable video games of (mostly) the 2010s, and the human stories behind them. It is widely accepted within the games industry that every single game that gets released is a miracle - and this book shows how humans are the magicians, often surprising them the most of everyone.
+
+### Store description
+
+NATIONAL BESTSELLER “The stories in this book make for a fascinating and remarkably complete pantheon of just about every common despair and every joy related to game development.” — Rami Ismail, cofounder of Vlambeer and developer of Nuclear Throne Developing video games—hero's journey or fool's errand? The creative and technical logistics that go into building today's hottest games can be more harrowing and complex than the games themselves, often seeming like an endless maze or a bottomless abyss. In Blood, Sweat, and Pixels, Jason Schreier takes readers on a fascinating odyssey behind the scenes of video game development, where the creator may be a team of 600 overworked underdogs or a solitary geek genius. Exploring the artistic challenges, technical impossibilities, marketplace demands, and Donkey Kong-sized monkey wrenches thrown into the works by corporate, Blood, Sweat, and Pixels reveals how bringing any game to completion is more than Sisyphean—it's nothing short of miraculous. Taking some of the most popular, bestselling recent games, Schreier immerses readers in the hellfire of the development process, whether it's RPG studio Bioware's challenge to beat an impossible schedule and overcome countless technical nightmares to build Dragon Age: Inquisition; indie developer Eric Barone's single-handed efforts to grow country-life RPG Stardew Valley from one man's vision into a multi-million-dollar franchise; or Bungie spinning out from their corporate overlords at Microsoft to create Destiny, a brand new universe that they hoped would become as iconic as Star Wars and Lord of the Rings—even as it nearly ripped their studio apart. Documenting the round-the-clock crunches, buggy-eyed burnout, and last-minute saves, Blood, Sweat, and Pixels is a journey through development hell—and ultimately a tribute to the dedicated diehards and unsung heroes who scale mountains of obstacles in their quests to create the best games imaginable.
+
