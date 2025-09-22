@@ -7,7 +7,7 @@
 | ---------------- | ----- | ----------------------------------------------------- |
 | #manga           | 425   | [[Tags/manga\|To manga overview]]                     |
 | #Fantasy         | 398   | [[Tags/Fantasy\|To Fantasy overview]]                 |
-| #non-fiction     | 167   | [[Tags/non-fiction\|To non-fiction overview]]         |
+| #non-fiction     | 168   | [[Tags/non-fiction\|To non-fiction overview]]         |
 | #romance         | 140   | [[Tags/romance\|To romance overview]]                 |
 | #crime           | 106   | [[Tags/crime\|To crime overview]]                     |
 | #classic         | 75    | [[Tags/classic\|To classic overview]]                 |
@@ -18,7 +18,7 @@
 | #contemporary    | 42    | [[Tags/contemporary\|To contemporary overview]]       |
 | #autobiography   | 38    | [[Tags/autobiography\|To autobiography overview]]     |
 | #graphic-novel   | 35    | [[Tags/graphic-novel\|To graphic-novel overview]]     |
-| #business        | 33    | [[Tags/business\|To business overview]]               |
+| #business        | 34    | [[Tags/business\|To business overview]]               |
 | #history         | 33    | [[Tags/history\|To history overview]]                 |
 | #sociopolitical  | 33    | [[Tags/sociopolitical\|To sociopolitical overview]]   |
 | #politics        | 31    | [[Tags/politics\|To politics overview]]               |
@@ -26,7 +26,7 @@
 | #psychology      | 27    | [[Tags/psychology\|To psychology overview]]           |
 | #thriller        | 26    | [[Tags/thriller\|To thriller overview]]               |
 | #play            | 20    | [[Tags/play\|To play overview]]                       |
-| #video-games     | 19    | [[Tags/video-games\|To video-games overview]]         |
+| #video-games     | 20    | [[Tags/video-games\|To video-games overview]]         |
 | #philosophy      | 17    | [[Tags/philosophy\|To philosophy overview]]           |
 | #science         | 17    | [[Tags/science\|To science overview]]                 |
 | #dystopia        | 14    | [[Tags/dystopia\|To dystopia overview]]               |
