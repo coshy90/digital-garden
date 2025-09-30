@@ -6,7 +6,7 @@
 | tag              | Count | Overview Pages                                        |
 | ---------------- | ----- | ----------------------------------------------------- |
 | #manga           | 425   | [[Tags/manga\|To manga overview]]                     |
-| #Fantasy         | 398   | [[Tags/Fantasy\|To Fantasy overview]]                 |
+| #Fantasy         | 399   | [[Tags/Fantasy\|To Fantasy overview]]                 |
 | #non-fiction     | 169   | [[Tags/non-fiction\|To non-fiction overview]]         |
 | #romance         | 140   | [[Tags/romance\|To romance overview]]                 |
 | #crime           | 106   | [[Tags/crime\|To crime overview]]                     |
