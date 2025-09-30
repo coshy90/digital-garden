@@ -269,5 +269,6 @@
 - [[books/William H McRaven - Make Your Bed\|William H McRaven - Make Your Bed]]: "Make Your Bed" (William H. McRaven)
 - [[books/Zoë Quinn - Crash Override\|Zoë Quinn - Crash Override]]: "Crash Override" (Zoë Quinn)
 - [[books/Zoë Schlanger - The Light Eaters\|Zoë Schlanger - The Light Eaters]]: "The Light Eaters" (Zoë Schlanger)
+- [[Books/David Brooks - How to Know a Person\|David Brooks - How to Know a Person]]: "How to Know a Person" (David Brooks)
 
 { .block-language-dataview}
