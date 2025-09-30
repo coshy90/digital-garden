@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/dashboards/lifetime-reading/"}
 ---
 
+My Lifetime Reading
+
+These are all the books I remember reading in my life. There will be way more - children's books, books I have borrowed from the library as a teenager without keeping track, university lecture, research books... 
+
+But it's better to have some overview than none at all - so here goes: 
 
 | Cover                                                                                                                                 | Title                                                                                                                                                                                                                                                     | series                                | finished           | rating |
 | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ------------------ | ------ |
