@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/books/akira-toriyama-dragon-ball-12/","title":"\"Dragon Ball 12\"","tags":["manga","Fantasy"]}
 ---
 
-
+[[Welcome to my digital garden\|Back to start page]]
+[[Dashboards/Lifetime Reading\|To my lifetime reading]]
 
 ![cover|150](http://books.google.com/books/content?id=hGYtDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
