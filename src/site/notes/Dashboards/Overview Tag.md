@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/dashboards/overview-tag/"}
 ---
 
+Overview of used tags
+
+If you're interested in checking out the various genres and other classifications I use to sort my books, please check out this overview:
+
 
 | tag              | Count | Overview Pages                                        |
 | ---------------- | ----- | ----------------------------------------------------- |
