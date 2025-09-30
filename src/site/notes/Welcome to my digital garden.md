@@ -11,8 +11,9 @@ If you're curious, feel free to take a look:
 **Reading this year** 
 (What I read, not what was published)
 
-1. [[Dashboards/Best Reads of 2025\|Best Reads of 2025]]
-2. [[Dashboards/Reading Year 2024\|Reading Year 2024]]
+1. [[Dashboards/Reading Year 2025\|Reading Year 2025]]
+2. [[Dashboards/Best Reads of 2025\|Best Reads of 2025]]
+3. [[Dashboards/Reading Year 2024\|Reading Year 2024]]
 
 **General reading lists**
 
