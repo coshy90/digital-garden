@@ -7,7 +7,7 @@
 | ---------------- | ----- | ----------------------------------------------------- |
 | #manga           | 425   | [[Tags/manga\|To manga overview]]                     |
 | #Fantasy         | 399   | [[Tags/Fantasy\|To Fantasy overview]]                 |
-| #non-fiction     | 169   | [[Tags/non-fiction\|To non-fiction overview]]         |
+| #non-fiction     | 170   | [[Tags/non-fiction\|To non-fiction overview]]         |
 | #romance         | 140   | [[Tags/romance\|To romance overview]]                 |
 | #crime           | 106   | [[Tags/crime\|To crime overview]]                     |
 | #classic         | 75    | [[Tags/classic\|To classic overview]]                 |
@@ -23,7 +23,7 @@
 | #sociopolitical  | 33    | [[Tags/sociopolitical\|To sociopolitical overview]]   |
 | #politics        | 31    | [[Tags/politics\|To politics overview]]               |
 | #childrens       | 30    | [[Tags/childrens\|To childrens overview]]             |
-| #psychology      | 27    | [[Tags/psychology\|To psychology overview]]           |
+| #psychology      | 28    | [[Tags/psychology\|To psychology overview]]           |
 | #thriller        | 26    | [[Tags/thriller\|To thriller overview]]               |
 | #video-games     | 21    | [[Tags/video-games\|To video-games overview]]         |
 | #play            | 20    | [[Tags/play\|To play overview]]                       |
@@ -42,11 +42,11 @@
 | #poetry          | 8     | [[Tags/poetry\|To poetry overview]]                   |
 | #myth            | 7     | [[Tags/myth\|To myth overview]]                       |
 | #nature          | 7     | [[Tags/nature\|To nature overview]]                   |
+| #communication   | 6     | [[Tags/communication\|To communication overview]]     |
 | #economy         | 6     | [[Tags/economy\|To economy overview]]                 |
 | #leadership      | 6     | [[Tags/leadership\|To leadership overview]]           |
 | #retelling       | 6     | [[Tags/retelling\|To retelling overview]]             |
 | #coming-of-age   | 5     | [[Tags/coming-of-age\|To coming-of-age overview]]     |
-| #communication   | 5     | [[Tags/communication\|To communication overview]]     |
 | #illustrations   | 5     | [[Tags/illustrations\|To illustrations overview]]     |
 | #climate         | 4     | [[Tags/climate\|To climate overview]]                 |
 | #magical-realism | 4     | [[Tags/magical-realism\|To magical-realism overview]] |
