@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/dashboards/best-reads-of-2025/"}
 ---
 
+[[Welcome to my digital garden\|Back to start page]]
 
+My Best Reads of 2025
 - [[books/Alexander Hagelüken - Schock-Zeiten\|Alexander Hagelüken - Schock-Zeiten]]: "Schock-Zeiten" (Alexander Hagelüken)
 - [[books/Angela Merkel Beate Baumann - Freiheit\|Angela Merkel Beate Baumann - Freiheit]]: "Freiheit" (Angela Merkel, Beate Baumann)
 - [[books/Budi Darma - People from Bloomington\|Budi Darma - People from Bloomington]]: "People from Bloomington" (Budi Darma)
