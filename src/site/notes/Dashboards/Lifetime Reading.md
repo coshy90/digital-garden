@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/dashboards/lifetime-reading/"}
 ---
 
+[[Welcome to my digital garden\|Back to start page]]
+
 My Lifetime Reading
 
 These are all the books I remember reading in my life. There will be way more - children's books, books I have borrowed from the library as a teenager without keeping track, university lecture, research books... 
