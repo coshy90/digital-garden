@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/books/art-spiegelman-the-complete-maus/","title":"\"The Complete Maus\"","tags":["autobiography","non-fiction","graphic-novel","history","world-war-2"]}
 ---
 
-
+[[Welcome to my digital garden\|Back to start page]]
+[[Dashboards/Lifetime Reading\|To my lifetime reading]]
 
 ![cover|150](http://books.google.com/books/content?id=H5Ij0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
