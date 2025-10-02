@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/books/douglas-adams-the-hitchhiker-s-guide-to-the-galaxy/","title":"The Hitchhiker's Guide to the Galaxy"}
+---
+
+[[Welcome to my digital garden\|Back to start page]]
+[[Dashboards/Lifetime Reading\|To my lifetime reading]]
+
+
+
+![cover|150](http://books.google.com/books/content?id=DmUr6q1EDYMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+## The Hitchhiker's Guide to the Galaxy
+
+
+### Store description
+
+‘Sheer delight’ – The Times This 42nd Anniversary Edition includes exclusive bonus material from the Douglas Adams archives, and an introduction by Doctor Who showrunner, Russell T Davies. ***** An international phenomenon and pop-culture classic, The Hitchhiker's Guide to the Galaxy has been a radio show, TV series, novel, stage play, comic book and film. Following the galactic (mis)adventures of Arthur Dent, Hitchhiker’s in its various incarnations has captured the imaginations of curious minds around the world . . . It's an ordinary Thursday lunchtime for Arthur Dent until his house gets demolished. The Earth follows shortly afterwards to make way for a new hyperspace express route, and his best friend has just announced that he's an alien. At this moment, they're hurtling through space with nothing but their towels and an innocuous-looking book inscribed, in large friendly letters, with the words: DON'T PANIC. The weekend has only just begun . . . Continue Arthur Dent's intergalactic adventures in the rest of the trilogy with five parts: The Restaurant at the End of the Universe, Life, the Universe and Everything, So Long, and Thanks for All the Fish, and Mostly Harmless. ***** Praise for Douglas Adams: ‘One of the world’s sanest, smartest, kindest, funniest voices’ – Independent on Sunday ‘Magical . . . read this book’ – Sunday Express 'A pleasure to read' - New York Times
+
+
+```
