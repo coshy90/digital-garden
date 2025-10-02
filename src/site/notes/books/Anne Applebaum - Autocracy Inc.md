@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/books/anne-applebaum-autocracy-inc/","title":"\"Autocracy, Inc.\"","tags":["non-fiction","politics","history","sociopolitical"]}
 ---
 
-
+[[Welcome to my digital garden\|Back to start page]]
+[[Dashboards/Lifetime Reading\|To my lifetime reading]]
 
 ![cover|150](http://books.google.com/books/content?id=xQ9aEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

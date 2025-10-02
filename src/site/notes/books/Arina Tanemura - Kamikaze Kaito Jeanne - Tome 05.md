@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/books/arina-tanemura-kamikaze-kaito-jeanne-tome-05/","title":"\"Kamikaze Kaito Jeanne - 05\"","tags":["Fantasy","manga"]}
 ---
 
-
+[[Welcome to my digital garden\|Back to start page]]
+[[Dashboards/Lifetime Reading\|To my lifetime reading]]
 
 ![cover|150](http://books.google.com/books/content?id=gRwvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

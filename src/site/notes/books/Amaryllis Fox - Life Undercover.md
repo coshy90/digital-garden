@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/books/amaryllis-fox-life-undercover/","title":"\"Life Undercover\"","tags":["non-fiction","autobiography","sociopolitical"]}
 ---
 
-
+[[Welcome to my digital garden\|Back to start page]]
+[[Dashboards/Lifetime Reading\|To my lifetime reading]]
 
 ![cover|150](http://books.google.com/books/content?id=ka2WDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

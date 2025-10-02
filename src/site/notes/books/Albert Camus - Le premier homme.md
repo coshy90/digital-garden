@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/books/albert-camus-le-premier-homme/","title":"\"Le premier homme\"","tags":["classic","philosophy"]}
 ---
 
-
+[[Welcome to my digital garden\|Back to start page]]
+[[Dashboards/Lifetime Reading\|To my lifetime reading]]
 
 ![cover|150](http://books.google.com/books/content?id=hH-ElNbKw48C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

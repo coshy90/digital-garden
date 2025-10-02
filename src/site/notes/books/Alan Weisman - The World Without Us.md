@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/books/alan-weisman-the-world-without-us/","title":"\"The World Without Us\"","tags":["science","non-fiction","nature"]}
 ---
 
-
+[[Welcome to my digital garden\|Back to start page]]
+[[Dashboards/Lifetime Reading\|To my lifetime reading]]
 
 ![cover|150](http://books.google.com/books/content?id=WZEv9Rp9dMQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

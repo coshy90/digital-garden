@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/books/alex-s-vitale-the-end-of-policing/","title":"\"The End of Policing\"","tags":["non-fiction","history","politics","sociopolitical"]}
 ---
 
-
+[[Welcome to my digital garden\|Back to start page]]
+[[Dashboards/Lifetime Reading\|To my lifetime reading]]
 
 ![cover|150](http://books.google.com/books/content?id=ym6-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

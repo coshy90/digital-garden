@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/books/amelia-horgan-lost-in-work/","title":"\"Lost in Work\"","tags":["work","economy","politics","sociopolitical","non-fiction","business"]}
 ---
 
-
+[[Welcome to my digital garden\|Back to start page]]
+[[Dashboards/Lifetime Reading\|To my lifetime reading]]
 
 ![cover|150](http://books.google.com/books/content?id=bKXvzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
