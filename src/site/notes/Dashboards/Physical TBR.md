@@ -9,57 +9,54 @@ These are the books I have stacked in piles in my apartment that I haven't gotte
 *Disclaimer*: This does not equal my TBR. Some of them weren't on my radar but were gifts, lots of books I want to read, I just haven't bought (yet). 
 
 
-| Cover                                                                                                                         | Title                                                                                                                                           | series |
-| ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| ![cover\|80](http://books.google.com/books/content?id=RYaMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Kerstin Gier - A Castle in the Clouds\|Kerstin Gier - A Castle in the Clouds]]                                                       | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=9S0rEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/T Kingfisher - A Sorceress Comes to Call\|T Kingfisher - A Sorceress Comes to Call]]                                                 | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=Rc6uEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Terry Pratchett - A Stroke of the Pen\|Terry Pratchett - A Stroke of the Pen]]                                                       | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=jfSn2RJZI9EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Kai Bird Martin J Sherwin - American Prometheus\|Kai Bird Martin J Sherwin - American Prometheus]]                                   | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=11mHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Zoulfa Katouh - As Long As the Lemon Trees Grow\|Zoulfa Katouh - As Long As the Lemon Trees Grow]]                                   | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=fLM4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/Satoru Iwata - Ask Iwata\|Satoru Iwata - Ask Iwata]]                                                                                 | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=ZbYGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Barney White-Spunner - Berlin\|Barney White-Spunner - Berlin]]                                                                       | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=WSilHWnU4h8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Friedrich Nietzsche - Beyond Good and Evil\|Friedrich Nietzsche - Beyond Good and Evil]]                                             | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=LIFEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Simon Spurrier - Coda 1\|Simon Spurrier - Coda 1]]                                                                                   | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=0HZrq-4zA5QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Fyodor Dostoyevsky - Crime and Punishment\|Fyodor Dostoyevsky - Crime and Punishment]]                                               | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=Yx5XEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Thomas Mann - Der Zauberberg\|Thomas Mann - Der Zauberberg]]                                                                         | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=9yPtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Bram Stoker - Dracula\|Bram Stoker - Dracula]]                                                                                       | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=4yyiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Patrick Weekes - Dragon Age Tevinter Nights\|Patrick Weekes - Dragon Age Tevinter Nights]]                                           | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=JhJ7cgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/Frank Herbert - Dune\|Frank Herbert - Dune]]                                                                                         | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=PyCsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Clive Myrie - Everything is Everything\|Clive Myrie - Everything is Everything]]                                                     | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=1Jw43DhuMc8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/T S Eliot - Four Quartets\|T S Eliot - Four Quartets]]                                                                               | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=cWDcDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Joseph Conrad - Heart of Darkness\|Joseph Conrad - Heart of Darkness]]                                                               | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=o6NzGNODRjkC&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/Mark Z Danielewski - House of Leaves\|Mark Z Danielewski - House of Leaves]]                                                         | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=m7XEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Alok Kanojia MD MPH - How to Raise a Healthy Gamer\|Alok Kanojia MD MPH - How to Raise a Healthy Gamer]]                             | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=tpMsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/Cal Flyn - Islands of Abandonment\|Cal Flyn - Islands of Abandonment]]                                                               | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=L6AtuutQHpwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Haruki Murakami - Kafka on the Shore\|Haruki Murakami - Kafka on the Shore]]                                                         | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=0AGrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Martha Wells - Network Effect\|Martha Wells - Network Effect]]                                                                       | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=QuzeDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Blaise Pascal - Pensées and Other Writings\|Blaise Pascal - Pensées and Other Writings]]                                             | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=c8DyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Jason Schreier - Play Nice\|Jason Schreier - Play Nice]]                                                                             | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=DJq-_ci6ePcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Ben Aaronovitch - Rivers of London\|Ben Aaronovitch - Rivers of London]]                                                             | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=s7sKxilR83YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/John Williams - Stoner\|John Williams - Stoner]]                                                                                     | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=NYMD0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/Shannon Chakraborty - The Adventures of Amina Al-Sirafi\|Shannon Chakraborty - The Adventures of Amina Al-Sirafi]]                   | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=5VYAAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Rolf Dobelli - The Art of Thinking Clearly\|Rolf Dobelli - The Art of Thinking Clearly]]                                             | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=h0fPAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/Robertson Davies - The Deptford Trilogy\|Robertson Davies - The Deptford Trilogy]]                                                   | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=XG3JcNXdgQwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Khaled Hosseini - The Kite Runner\|Khaled Hosseini - The Kite Runner]]                                                               | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=PzhQydl-QD8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Andrzej Sapkowski - The Last Wish\|Andrzej Sapkowski - The Last Wish]]                                                               | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=NtukmPtq2l8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Philip K Dick - The Man in the High Castle\|Philip K Dick - The Man in the High Castle]]                                             | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=2N79DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Christopher Clarey - The Master\|Christopher Clarey - The Master]]                                                                   | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=3sloAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/Marshall McLuhan Quentin Fiore - The Medium is the Massage\|Marshall McLuhan Quentin Fiore - The Medium is the Massage]]             | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=qUVdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/Cesare Pavese - The Moon and the Bonfires\|Cesare Pavese - The Moon and the Bonfires]]                                               | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=DkVRAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Leonardo Sciascia - The Moro Affair\|Leonardo Sciascia - The Moro Affair]]                                                           | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=c74wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/R F Kuang - The Poppy War\|R F Kuang - The Poppy War]]                                                                               | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=ie1bAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/William Goldman - The Princess Bride\|William Goldman - The Princess Bride]]                                                         | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=DXP8uQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/Will Storr - The Science of Storytelling\|Will Storr - The Science of Storytelling]]                                                 | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=dmUIBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Pier Paolo Pasolini - The Selected Poetry of Pier Paolo Pasolini\|Pier Paolo Pasolini - The Selected Poetry of Pier Paolo Pasolini]] | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=IdAmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Taylor Jenkins Reid - The Seven Husbands of Evelyn Hugo\|Taylor Jenkins Reid - The Seven Husbands of Evelyn Hugo]]                   | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=z9Fe2htTgdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Carlos Ruiz Zafon - The Shadow of the Wind\|Carlos Ruiz Zafon - The Shadow of the Wind]]                                             | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=e5jy0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/Tash Aw - The South\|Tash Aw - The South]]                                                                                           | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=Z7GfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Cixin Liu - The Three-Body Problem\|Cixin Liu - The Three-Body Problem]]                                                             | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=Qwo5zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/Michael J Sandel - The Tyranny of Merit\|Michael J Sandel - The Tyranny of Merit]]                                                   | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=AjoeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/James Joyce - Ulysses\|James Joyce - Ulysses]]                                                                                       | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=PgOREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/Mark Andryczyk - Writing from Ukraine\|Mark Andryczyk - Writing from Ukraine]]                                                       | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=4B69DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Guzel Yakhina - Zuleikha\|Guzel Yakhina - Zuleikha]]                                                                                 | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=DmUr6q1EDYMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Douglas Adams - The Hitchhiker's Guide to the Galaxy\|Douglas Adams - The Hitchhiker's Guide to the Galaxy]]                         | \-     |
-| ![cover\|80](http://books.google.com/books/content?id=1G6gDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Ezra Klein - Why We're Polarized\|Ezra Klein - Why We're Polarized]]                                                                 | \-     |
+```base
+filters:
+  or:
+    - file.hasTag("tag")
+    - and:
+        - file.hasTag("book")
+        - file.hasLink("Textbook")
+    - not:
+        - file.hasTag("book")
+        - file.inFolder("Required Reading")
+formulas:
+  formatted_price: if(price, price.toFixed(2) + " dollars")
+  ppu: (price / age).toFixed(2)
+properties:
+  status:
+    displayName: Status
+  formula.formatted_price:
+    displayName: Price
+  file.ext:
+    displayName: Extension
+views:
+  - type: table
+    name: My table
+    filters:
+      and:
+        - status != "done"
+        - or:
+            - formula.ppu > 5
+            - price > 2.1
+    order:
+      - Title
+      - note.
+    sort: []
+    limit: 10
+  - type: cards
+    name: Cardview
+    filters:
+      and:
+        - file.inFolder("books")
+        - '!file.hasProperty("finished")'
+    order:
+      - title
+      - author
+    sort:
+      - property: title
+        direction: ASC
+    image: note.cover
+    cardSize: 130
+    imageFit: contain
 
-{ .block-language-dataview}
+```
