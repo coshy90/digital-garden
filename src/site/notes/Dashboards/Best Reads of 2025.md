@@ -20,5 +20,6 @@ My Best Reads of 2025
 - [[books/Sequoia Nagamatsu - How High We Go in the Dark\|Sequoia Nagamatsu - How High We Go in the Dark]]: "How High We Go in the Dark" (Sequoia Nagamatsu)
 - [[books/Travis Baldree - Bookshops Bonedust\|Travis Baldree - Bookshops Bonedust]]: "Bookshops & Bonedust" (Travis Baldree)
 - [[books/Yeonmi Park - In Order to Live\|Yeonmi Park - In Order to Live]]: "In Order to Live" (Yeonmi Park)
+- [[Books/Khalil Gibran - The Prophet\|Khalil Gibran - The Prophet]]: "The Prophet" (Khalil Gibran)
 
 { .block-language-dataview}
