@@ -61,6 +61,7 @@ These are the books I have stacked in piles in my apartment that I haven't gotte
 | ![cover\|80](http://books.google.com/books/content?id=jfSn2RJZI9EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Kai Bird Martin J Sherwin - American Prometheus\|Kai Bird Martin J Sherwin - American Prometheus]]                                   |
 | ![cover\|80](http://books.google.com/books/content?id=Rc6uEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Terry Pratchett - A Stroke of the Pen\|Terry Pratchett - A Stroke of the Pen]]                                                       |
 | ![cover\|80](http://books.google.com/books/content?id=9S0rEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[books/T Kingfisher - A Sorceress Comes to Call\|T Kingfisher - A Sorceress Comes to Call]]                                                 |
+| ![cover\|80](http://books.google.com/books/content?id=nx-8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[Books/Nilima Rao - A Disappearance in Fiji\|Nilima Rao - A Disappearance in Fiji]]                                                         |
 | ![cover\|80](http://books.google.com/books/content?id=RYaMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Kerstin Gier - A Castle in the Clouds\|Kerstin Gier - A Castle in the Clouds]]                                                       |
 
 { .block-language-dataview}
