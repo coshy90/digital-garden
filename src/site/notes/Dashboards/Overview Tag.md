@@ -13,11 +13,11 @@ If you're interested in checking out the various genres and other classification
 | ---------------- | ----- | ----------------------------------------------------- |
 | #manga           | 425   | [[Tags/manga\|To manga overview]]                     |
 | #Fantasy         | 399   | [[Tags/Fantasy\|To Fantasy overview]]                 |
-| #non-fiction     | 170   | [[Tags/non-fiction\|To non-fiction overview]]         |
+| #non-fiction     | 171   | [[Tags/non-fiction\|To non-fiction overview]]         |
 | #romance         | 140   | [[Tags/romance\|To romance overview]]                 |
 | #crime           | 106   | [[Tags/crime\|To crime overview]]                     |
 | #classic         | 75    | [[Tags/classic\|To classic overview]]                 |
-| #fiction         | 67    | [[Tags/fiction\|To fiction overview]]                 |
+| #fiction         | 68    | [[Tags/fiction\|To fiction overview]]                 |
 | #pirate          | 62    | [[Tags/pirate\|To pirate overview]]                   |
 | #science-fiction | 54    | [[Tags/science-fiction\|To science-fiction overview]] |
 | #horror          | 44    | [[Tags/horror\|To horror overview]]                   |
@@ -25,7 +25,7 @@ If you're interested in checking out the various genres and other classification
 | #autobiography   | 38    | [[Tags/autobiography\|To autobiography overview]]     |
 | #graphic-novel   | 35    | [[Tags/graphic-novel\|To graphic-novel overview]]     |
 | #business        | 34    | [[Tags/business\|To business overview]]               |
-| #history         | 33    | [[Tags/history\|To history overview]]                 |
+| #history         | 34    | [[Tags/history\|To history overview]]                 |
 | #sociopolitical  | 33    | [[Tags/sociopolitical\|To sociopolitical overview]]   |
 | #politics        | 31    | [[Tags/politics\|To politics overview]]               |
 | #childrens       | 30    | [[Tags/childrens\|To childrens overview]]             |
@@ -33,7 +33,7 @@ If you're interested in checking out the various genres and other classification
 | #thriller        | 26    | [[Tags/thriller\|To thriller overview]]               |
 | #video-games     | 21    | [[Tags/video-games\|To video-games overview]]         |
 | #play            | 20    | [[Tags/play\|To play overview]]                       |
-| #philosophy      | 17    | [[Tags/philosophy\|To philosophy overview]]           |
+| #philosophy      | 18    | [[Tags/philosophy\|To philosophy overview]]           |
 | #science         | 17    | [[Tags/science\|To science overview]]                 |
 | #dystopia        | 14    | [[Tags/dystopia\|To dystopia overview]]               |
 | #art             | 12    | [[Tags/art\|To art overview]]                         |
