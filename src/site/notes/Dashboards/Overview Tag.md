@@ -13,9 +13,9 @@ If you're interested in checking out the various genres and other classification
 | ---------------- | ----- | ----------------------------------------------------- |
 | #manga           | 425   | [[Tags/manga\|To manga overview]]                     |
 | #Fantasy         | 399   | [[Tags/Fantasy\|To Fantasy overview]]                 |
-| #non-fiction     | 171   | [[Tags/non-fiction\|To non-fiction overview]]         |
+| #non-fiction     | 172   | [[Tags/non-fiction\|To non-fiction overview]]         |
 | #romance         | 140   | [[Tags/romance\|To romance overview]]                 |
-| #crime           | 106   | [[Tags/crime\|To crime overview]]                     |
+| #crime           | 107   | [[Tags/crime\|To crime overview]]                     |
 | #classic         | 75    | [[Tags/classic\|To classic overview]]                 |
 | #fiction         | 68    | [[Tags/fiction\|To fiction overview]]                 |
 | #pirate          | 62    | [[Tags/pirate\|To pirate overview]]                   |
@@ -29,7 +29,7 @@ If you're interested in checking out the various genres and other classification
 | #sociopolitical  | 33    | [[Tags/sociopolitical\|To sociopolitical overview]]   |
 | #politics        | 31    | [[Tags/politics\|To politics overview]]               |
 | #childrens       | 30    | [[Tags/childrens\|To childrens overview]]             |
-| #psychology      | 28    | [[Tags/psychology\|To psychology overview]]           |
+| #psychology      | 29    | [[Tags/psychology\|To psychology overview]]           |
 | #thriller        | 26    | [[Tags/thriller\|To thriller overview]]               |
 | #video-games     | 21    | [[Tags/video-games\|To video-games overview]]         |
 | #play            | 20    | [[Tags/play\|To play overview]]                       |
@@ -71,6 +71,7 @@ If you're interested in checking out the various genres and other classification
 | #marketing       | 2     | [[Tags/marketing\|To marketing overview]]             |
 | #race            | 2     | [[Tags/race\|To race overview]]                       |
 | #religion        | 2     | [[Tags/religion\|To religion overview]]               |
+| #resilience      | 2     | [[Tags/resilience\|To resilience overview]]           |
 | #screenplay      | 2     | [[Tags/screenplay\|To screenplay overview]]           |
 | #travel          | 2     | [[Tags/travel\|To travel overview]]                   |
 | #animation       | 1     | [[Tags/animation\|To animation overview]]             |
@@ -84,7 +85,6 @@ If you're interested in checking out the various genres and other classification
 | #maps            | 1     | [[Tags/maps\|To maps overview]]                       |
 | #noir            | 1     | [[Tags/noir\|To noir overview]]                       |
 | #photography     | 1     | [[Tags/photography\|To photography overview]]         |
-| #resilience      | 1     | [[Tags/resilience\|To resilience overview]]           |
 | #rome            | 1     | [[Tags/rome\|To rome overview]]                       |
 
 { .block-language-dataview}
