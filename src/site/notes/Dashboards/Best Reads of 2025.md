@@ -16,10 +16,11 @@ My Best Reads of 2025
 - [[books/Jeff Goins - Real Artists Don't Starve\|Jeff Goins - Real Artists Don't Starve]]: Real Artists Don't Starve (Jeff Goins)
 - [[books/Jonathan Haidt - The Anxious Generation\|Jonathan Haidt - The Anxious Generation]]: "The Anxious Generation" (Jonathan Haidt)
 - [[books/Kelly Bishop - The Third Gilmore Girl\|Kelly Bishop - The Third Gilmore Girl]]: "The Third Gilmore Girl" (Kelly Bishop)
+- [[books/Khalil Gibran - The Prophet\|Khalil Gibran - The Prophet]]: "The Prophet" (Khalil Gibran)
 - [[books/Liz Pelly - Mood Machine\|Liz Pelly - Mood Machine]]: "Mood Machine" (Liz Pelly)
 - [[books/Sequoia Nagamatsu - How High We Go in the Dark\|Sequoia Nagamatsu - How High We Go in the Dark]]: "How High We Go in the Dark" (Sequoia Nagamatsu)
 - [[books/Travis Baldree - Bookshops Bonedust\|Travis Baldree - Bookshops Bonedust]]: "Bookshops & Bonedust" (Travis Baldree)
 - [[books/Yeonmi Park - In Order to Live\|Yeonmi Park - In Order to Live]]: "In Order to Live" (Yeonmi Park)
-- [[Books/Khalil Gibran - The Prophet\|Khalil Gibran - The Prophet]]: "The Prophet" (Khalil Gibran)
+- [[Books/Evy Poumpouras - Becoming Bulletproof\|Evy Poumpouras - Becoming Bulletproof]]: "Becoming Bulletproof" (Evy Poumpouras)
 
 { .block-language-dataview}
