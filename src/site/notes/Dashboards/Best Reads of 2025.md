@@ -12,6 +12,7 @@ My Best Reads of 2025
 - [[books/Cherian George - Air-Conditioned Nation Revisited Essays on Singapore Politics\|Cherian George - Air-Conditioned Nation Revisited Essays on Singapore Politics]]: "Air-Conditioned Nation Revisited: Essays on Singapore Politics" (Cherian George)
 - [[books/Ed Catmull Amy Wallace - Creativity Inc (The Expanded Edition)\|Ed Catmull Amy Wallace - Creativity Inc (The Expanded Edition)]]: "Creativity, Inc. (The Expanded Edition)" (Ed Catmull, Amy Wallace)
 - [[books/Elie Wiesel - Night\|Elie Wiesel - Night]]: "Night" (Elie Wiesel)
+- [[books/Evy Poumpouras - Becoming Bulletproof\|Evy Poumpouras - Becoming Bulletproof]]: "Becoming Bulletproof" (Evy Poumpouras)
 - [[books/Gary Stevenson - The Trading Game\|Gary Stevenson - The Trading Game]]: "The Trading Game" (Gary Stevenson)
 - [[books/Jeff Goins - Real Artists Don't Starve\|Jeff Goins - Real Artists Don't Starve]]: Real Artists Don't Starve (Jeff Goins)
 - [[books/Jonathan Haidt - The Anxious Generation\|Jonathan Haidt - The Anxious Generation]]: "The Anxious Generation" (Jonathan Haidt)
@@ -21,6 +22,5 @@ My Best Reads of 2025
 - [[books/Sequoia Nagamatsu - How High We Go in the Dark\|Sequoia Nagamatsu - How High We Go in the Dark]]: "How High We Go in the Dark" (Sequoia Nagamatsu)
 - [[books/Travis Baldree - Bookshops Bonedust\|Travis Baldree - Bookshops Bonedust]]: "Bookshops & Bonedust" (Travis Baldree)
 - [[books/Yeonmi Park - In Order to Live\|Yeonmi Park - In Order to Live]]: "In Order to Live" (Yeonmi Park)
-- [[Books/Evy Poumpouras - Becoming Bulletproof\|Evy Poumpouras - Becoming Bulletproof]]: "Becoming Bulletproof" (Evy Poumpouras)
 
 { .block-language-dataview}
