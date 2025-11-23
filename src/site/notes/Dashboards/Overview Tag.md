@@ -13,7 +13,7 @@ If you're interested in checking out the various genres and other classification
 | ---------------- | ----- | ----------------------------------------------------- |
 | #manga           | 425   | [[Tags/manga\|To manga overview]]                     |
 | #Fantasy         | 399   | [[Tags/Fantasy\|To Fantasy overview]]                 |
-| #non-fiction     | 172   | [[Tags/non-fiction\|To non-fiction overview]]         |
+| #non-fiction     | 174   | [[Tags/non-fiction\|To non-fiction overview]]         |
 | #romance         | 140   | [[Tags/romance\|To romance overview]]                 |
 | #crime           | 107   | [[Tags/crime\|To crime overview]]                     |
 | #classic         | 75    | [[Tags/classic\|To classic overview]]                 |
@@ -24,10 +24,10 @@ If you're interested in checking out the various genres and other classification
 | #contemporary    | 42    | [[Tags/contemporary\|To contemporary overview]]       |
 | #autobiography   | 38    | [[Tags/autobiography\|To autobiography overview]]     |
 | #graphic-novel   | 35    | [[Tags/graphic-novel\|To graphic-novel overview]]     |
+| #sociopolitical  | 35    | [[Tags/sociopolitical\|To sociopolitical overview]]   |
 | #business        | 34    | [[Tags/business\|To business overview]]               |
 | #history         | 34    | [[Tags/history\|To history overview]]                 |
-| #sociopolitical  | 33    | [[Tags/sociopolitical\|To sociopolitical overview]]   |
-| #politics        | 31    | [[Tags/politics\|To politics overview]]               |
+| #politics        | 33    | [[Tags/politics\|To politics overview]]               |
 | #childrens       | 30    | [[Tags/childrens\|To childrens overview]]             |
 | #psychology      | 29    | [[Tags/psychology\|To psychology overview]]           |
 | #thriller        | 26    | [[Tags/thriller\|To thriller overview]]               |
@@ -39,17 +39,17 @@ If you're interested in checking out the various genres and other classification
 | #art             | 12    | [[Tags/art\|To art overview]]                         |
 | #essay           | 12    | [[Tags/essay\|To essay overview]]                     |
 | #short-story     | 12    | [[Tags/short-story\|To short-story overview]]         |
+| #tech            | 12    | [[Tags/tech\|To tech overview]]                       |
 | #academic        | 11    | [[Tags/academic\|To academic overview]]               |
-| #tech            | 11    | [[Tags/tech\|To tech overview]]                       |
 | #druid           | 9     | [[Tags/druid\|To druid overview]]                     |
 | #feminism        | 9     | [[Tags/feminism\|To feminism overview]]               |
 | #work            | 9     | [[Tags/work\|To work overview]]                       |
 | #health          | 8     | [[Tags/health\|To health overview]]                   |
 | #poetry          | 8     | [[Tags/poetry\|To poetry overview]]                   |
+| #economy         | 7     | [[Tags/economy\|To economy overview]]                 |
 | #myth            | 7     | [[Tags/myth\|To myth overview]]                       |
 | #nature          | 7     | [[Tags/nature\|To nature overview]]                   |
 | #communication   | 6     | [[Tags/communication\|To communication overview]]     |
-| #economy         | 6     | [[Tags/economy\|To economy overview]]                 |
 | #leadership      | 6     | [[Tags/leadership\|To leadership overview]]           |
 | #retelling       | 6     | [[Tags/retelling\|To retelling overview]]             |
 | #coming-of-age   | 5     | [[Tags/coming-of-age\|To coming-of-age overview]]     |
@@ -68,6 +68,7 @@ If you're interested in checking out the various genres and other classification
 | #depression      | 2     | [[Tags/depression\|To depression overview]]           |
 | #family          | 2     | [[Tags/family\|To family overview]]                   |
 | #friendship      | 2     | [[Tags/friendship\|To friendship overview]]           |
+| #journalism      | 2     | [[Tags/journalism\|To journalism overview]]           |
 | #marketing       | 2     | [[Tags/marketing\|To marketing overview]]             |
 | #race            | 2     | [[Tags/race\|To race overview]]                       |
 | #religion        | 2     | [[Tags/religion\|To religion overview]]               |
@@ -80,7 +81,6 @@ If you're interested in checking out the various genres and other classification
 | #education       | 1     | [[Tags/education\|To education overview]]             |
 | #gamergate       | 1     | [[Tags/gamergate\|To gamergate overview]]             |
 | #heist           | 1     | [[Tags/heist\|To heist overview]]                     |
-| #journalism      | 1     | [[Tags/journalism\|To journalism overview]]           |
 | #magic           | 1     | [[Tags/magic\|To magic overview]]                     |
 | #maps            | 1     | [[Tags/maps\|To maps overview]]                       |
 | #noir            | 1     | [[Tags/noir\|To noir overview]]                       |
