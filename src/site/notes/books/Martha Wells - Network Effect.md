@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/martha-wells-network-effect/","title":"\"Network Effect\""}
+{"dg-publish":true,"permalink":"/books/martha-wells-network-effect/","title":"\"Network Effect\"","tags":["science-fiction"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
