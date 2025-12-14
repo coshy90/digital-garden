@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/taylor-jenkins-reid-the-seven-husbands-of-evelyn-hugo/","title":"\"The Seven Husbands of Evelyn Hugo\""}
+{"dg-publish":true,"permalink":"/books/taylor-jenkins-reid-the-seven-husbands-of-evelyn-hugo/","title":"\"The Seven Husbands of Evelyn Hugo\"","tags":["contemporary"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
