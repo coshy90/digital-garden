@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/jason-schreier-play-nice/","title":"\"Play Nice\""}
+{"dg-publish":true,"permalink":"/books/jason-schreier-play-nice/","title":"\"Play Nice\"","tags":["video-games","non-fiction"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
