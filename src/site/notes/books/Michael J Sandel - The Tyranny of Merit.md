@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/michael-j-sandel-the-tyranny-of-merit/","title":"\"The Tyranny of Merit\""}
+{"dg-publish":true,"permalink":"/books/michael-j-sandel-the-tyranny-of-merit/","title":"\"The Tyranny of Merit\"","tags":["philosophy","politics","non-fiction"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
