@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/laura-bates-the-new-age-of-sexism/","title":"\"The New Age of Sexism\""}
+{"dg-publish":true,"permalink":"/books/laura-bates-the-new-age-of-sexism/","title":"\"The New Age of Sexism\"","tags":["non-fiction","tech","feminism","sociopolitical"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -13,7 +13,9 @@
 
 ## My thoughts & notable quotes
 
-Insert here
+Bates presents an impressive amount of perspectives on the topic, and gathered her experiences first-hand wherever possible. 
+It is depressive, enraging, and I'd be lying if it doesn't occassionally steal your last, remaining hope in humanity. 
+Personally (and professionally), I am very involved with tech and online culture, so Bates' work mainly functioned as a (very good) summary of a contemporary issue rather than providing me with new topics of concern. 
 
 ### Store description
 
