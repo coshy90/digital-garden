@@ -13,7 +13,7 @@ If you're interested in checking out the various genres and other classification
 | ---------------- | ----- | ----------------------------------------------------- |
 | #manga           | 425   | [[Tags/manga\|To manga overview]]                     |
 | #Fantasy         | 399   | [[Tags/Fantasy\|To Fantasy overview]]                 |
-| #non-fiction     | 177   | [[Tags/non-fiction\|To non-fiction overview]]         |
+| #non-fiction     | 178   | [[Tags/non-fiction\|To non-fiction overview]]         |
 | #romance         | 140   | [[Tags/romance\|To romance overview]]                 |
 | #crime           | 108   | [[Tags/crime\|To crime overview]]                     |
 | #classic         | 75    | [[Tags/classic\|To classic overview]]                 |
@@ -23,7 +23,7 @@ If you're interested in checking out the various genres and other classification
 | #horror          | 44    | [[Tags/horror\|To horror overview]]                   |
 | #contemporary    | 43    | [[Tags/contemporary\|To contemporary overview]]       |
 | #autobiography   | 39    | [[Tags/autobiography\|To autobiography overview]]     |
-| #sociopolitical  | 36    | [[Tags/sociopolitical\|To sociopolitical overview]]   |
+| #sociopolitical  | 37    | [[Tags/sociopolitical\|To sociopolitical overview]]   |
 | #graphic-novel   | 35    | [[Tags/graphic-novel\|To graphic-novel overview]]     |
 | #politics        | 35    | [[Tags/politics\|To politics overview]]               |
 | #business        | 34    | [[Tags/business\|To business overview]]               |
@@ -36,13 +36,13 @@ If you're interested in checking out the various genres and other classification
 | #philosophy      | 19    | [[Tags/philosophy\|To philosophy overview]]           |
 | #science         | 17    | [[Tags/science\|To science overview]]                 |
 | #dystopia        | 14    | [[Tags/dystopia\|To dystopia overview]]               |
+| #tech            | 13    | [[Tags/tech\|To tech overview]]                       |
 | #art             | 12    | [[Tags/art\|To art overview]]                         |
 | #essay           | 12    | [[Tags/essay\|To essay overview]]                     |
 | #short-story     | 12    | [[Tags/short-story\|To short-story overview]]         |
-| #tech            | 12    | [[Tags/tech\|To tech overview]]                       |
 | #academic        | 11    | [[Tags/academic\|To academic overview]]               |
+| #feminism        | 10    | [[Tags/feminism\|To feminism overview]]               |
 | #druid           | 9     | [[Tags/druid\|To druid overview]]                     |
-| #feminism        | 9     | [[Tags/feminism\|To feminism overview]]               |
 | #work            | 9     | [[Tags/work\|To work overview]]                       |
 | #health          | 8     | [[Tags/health\|To health overview]]                   |
 | #poetry          | 8     | [[Tags/poetry\|To poetry overview]]                   |
