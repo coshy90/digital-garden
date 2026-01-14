@@ -10,5 +10,6 @@ My Reading Year 2026
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------- | ------ |
 | ![cover\|80](http://books.google.com/books/content?id=n0pWEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Sarah Stein Lubrano - Don't Talk About Politics\|Sarah Stein Lubrano - Don't Talk About Politics]] | Sarah Stein Lubrano | January 12, 2026 | 5      |
 | ![cover\|80](http://books.google.com/books/content?id=eWEgEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Laura Bates - The New Age of Sexism\|Laura Bates - The New Age of Sexism]]                         | Laura Bates         | January 04, 2026 | 4      |
+| ![cover\|80](http://books.google.com/books/content?id=NtukmPtq2l8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[books/Philip K Dick - The Man in the High Castle\|Philip K Dick - The Man in the High Castle]]           | Philip K. Dick      | January 14, 2026 | 3      |
 
 { .block-language-dataview}
