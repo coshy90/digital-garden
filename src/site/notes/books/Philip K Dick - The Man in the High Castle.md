@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/philip-k-dick-the-man-in-the-high-castle/","title":"\"The Man in the High Castle\""}
+{"dg-publish":true,"permalink":"/books/philip-k-dick-the-man-in-the-high-castle/","title":"\"The Man in the High Castle\"","tags":["classic","dystopia","science-fiction","world-war-2"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -16,4 +16,3 @@
 Slavery is back. America, 1962. Having lost a war, America finds itself under Nazi Germany and Japan occupation. A few Jews still live under assumed names. The 'I Ching' is prevalent in San Francisco. Science fiction meets serious ideas in this take on a possible alternate history.
 
 
-```
