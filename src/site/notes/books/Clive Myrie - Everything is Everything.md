@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/clive-myrie-everything-is-everything/","title":"\"Everything is Everything\""}
+{"dg-publish":true,"permalink":"/books/clive-myrie-everything-is-everything/","title":"\"Everything is Everything\"","tags":["autobiography","journalism","race","non-fiction"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
