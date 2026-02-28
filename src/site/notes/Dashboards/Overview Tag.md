@@ -17,7 +17,7 @@ If you're interested in checking out the various genres and other classification
 | #romance         | 140   | [[Tags/romance\|To romance overview]]                 |
 | #crime           | 108   | [[Tags/crime\|To crime overview]]                     |
 | #classic         | 76    | [[Tags/classic\|To classic overview]]                 |
-| #fiction         | 68    | [[Tags/fiction\|To fiction overview]]                 |
+| #fiction         | 69    | [[Tags/fiction\|To fiction overview]]                 |
 | #pirate          | 62    | [[Tags/pirate\|To pirate overview]]                   |
 | #science-fiction | 56    | [[Tags/science-fiction\|To science-fiction overview]] |
 | #horror          | 44    | [[Tags/horror\|To horror overview]]                   |
@@ -25,8 +25,8 @@ If you're interested in checking out the various genres and other classification
 | #autobiography   | 41    | [[Tags/autobiography\|To autobiography overview]]     |
 | #sociopolitical  | 38    | [[Tags/sociopolitical\|To sociopolitical overview]]   |
 | #politics        | 37    | [[Tags/politics\|To politics overview]]               |
+| #history         | 36    | [[Tags/history\|To history overview]]                 |
 | #graphic-novel   | 35    | [[Tags/graphic-novel\|To graphic-novel overview]]     |
-| #history         | 35    | [[Tags/history\|To history overview]]                 |
 | #business        | 34    | [[Tags/business\|To business overview]]               |
 | #childrens       | 30    | [[Tags/childrens\|To childrens overview]]             |
 | #psychology      | 29    | [[Tags/psychology\|To psychology overview]]           |
@@ -50,10 +50,10 @@ If you're interested in checking out the various genres and other classification
 | #communication   | 7     | [[Tags/communication\|To communication overview]]     |
 | #myth            | 7     | [[Tags/myth\|To myth overview]]                       |
 | #nature          | 7     | [[Tags/nature\|To nature overview]]                   |
+| #coming-of-age   | 6     | [[Tags/coming-of-age\|To coming-of-age overview]]     |
 | #leadership      | 6     | [[Tags/leadership\|To leadership overview]]           |
 | #retelling       | 6     | [[Tags/retelling\|To retelling overview]]             |
 | #climate         | 5     | [[Tags/climate\|To climate overview]]                 |
-| #coming-of-age   | 5     | [[Tags/coming-of-age\|To coming-of-age overview]]     |
 | #depression      | 5     | [[Tags/depression\|To depression overview]]           |
 | #illustrations   | 5     | [[Tags/illustrations\|To illustrations overview]]     |
 | #resilience      | 5     | [[Tags/resilience\|To resilience overview]]           |
