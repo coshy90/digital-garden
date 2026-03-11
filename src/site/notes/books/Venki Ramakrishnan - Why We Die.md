@@ -1,19 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/books/venki-ramakrishnan-why-we-die/","title":"\"Why We Die\""}
+{"dg-publish":true,"permalink":"/books/venki-ramakrishnan-why-we-die/","title":"\"Why We Die\"","tags":["academic","science","health","non-fiction"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
 [[Dashboards/Lifetime Reading\|To my lifetime reading]]
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=SS7MEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 ## Why We Die
-
-## My thoughts & notable quotes
-
-Insert here
 
 ### Store description
 
