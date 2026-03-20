@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/william-goldman-the-princess-bride/","title":"\"The Princess Bride\""}
+{"dg-publish":true,"permalink":"/books/william-goldman-the-princess-bride/","title":"\"The Princess Bride\"","tags":["fiction","classic","Fantasy","romance"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -15,5 +15,3 @@
 
 For its 40th anniversary, this beloved tale of romance and adventure is given a beautiful four-color illustrated treatment.
 
-
-```
