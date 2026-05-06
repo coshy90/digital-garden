@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/will-storr-the-science-of-storytelling/","title":"\"The Science of Storytelling\""}
+{"dg-publish":true,"permalink":"/books/will-storr-the-science-of-storytelling/","title":"\"The Science of Storytelling\"","tags":["writing","non-fiction","communication","fiction"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
