@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/elif-shafak-10-minutes-38-seconds-in-this-strange-world/","title":"\"10 Minutes 38 Seconds in This Strange World\""}
+{"dg-publish":true,"permalink":"/books/elif-shafak-10-minutes-38-seconds-in-this-strange-world/","title":"\"10 Minutes 38 Seconds in This Strange World\"","tags":["resilience","coming-of-age","contemporary","feminism","friendship"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -13,7 +13,7 @@
 
 ## My thoughts & notable quotes
 
-Insert here
+Wonderful story, heart-wrenching and affirming at the same time. A story about resilience, found family, and the struggles of growing up. 
 
 ### Store description
 
