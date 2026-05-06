@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/ben-aaronovitch-rivers-of-london/","title":"\"Rivers of London\""}
+{"dg-publish":true,"permalink":"/books/ben-aaronovitch-rivers-of-london/","title":"\"Rivers of London\"","tags":["crime","Fantasy"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
