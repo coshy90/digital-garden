@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/rahul-rao-the-psychic-lives-of-statues/","title":"\"The Psychic Lives of Statues\""}
+{"dg-publish":true,"permalink":"/books/rahul-rao-the-psychic-lives-of-statues/","title":"\"The Psychic Lives of Statues\"","tags":["academic","non-fiction","race","politics","sociopolitical","history"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -10,10 +10,6 @@
 ![cover|150](http://books.google.com/books/content?id=QRya0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 ## The Psychic Lives of Statues
-
-## My thoughts & notable quotes
-
-Insert here
 
 ### Store description
 
