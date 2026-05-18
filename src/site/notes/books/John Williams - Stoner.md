@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/john-williams-stoner/","title":"\"Stoner\""}
+{"dg-publish":true,"permalink":"/books/john-williams-stoner/","title":"\"Stoner\"","tags":["writing","classic","education","family","fiction"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -10,7 +10,6 @@
 ![cover|150](http://books.google.com/books/content?id=s7sKxilR83YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 ## Stoner
-
 
 ### Store description
 
