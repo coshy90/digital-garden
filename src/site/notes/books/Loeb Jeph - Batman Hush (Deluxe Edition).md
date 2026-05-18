@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/loeb-jeph-batman-hush-deluxe-edition/","title":"\"Batman: Hush \""}
+{"dg-publish":true,"permalink":"/books/loeb-jeph-batman-hush-deluxe-edition/","title":"\"Batman: Hush \"","tags":["crime","dystopia","graphic-novel","noir","super-heroes"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -9,10 +9,6 @@
 ![cover|150](http://books.google.com/books/content?id=luOYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 ## Batman: Hush (Deluxe Edition)
-
-## My thoughts & notable quotes
-
-Insert here
 
 ### Store description
 
