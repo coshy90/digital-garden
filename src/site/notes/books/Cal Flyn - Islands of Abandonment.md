@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/cal-flyn-islands-of-abandonment/","title":"\"Islands of Abandonment\""}
+{"dg-publish":true,"permalink":"/books/cal-flyn-islands-of-abandonment/","title":"\"Islands of Abandonment\"","tags":["climate","nature","non-fiction"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
