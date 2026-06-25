@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mary-wollstonecraft-a-vindication-of-the-rights-of-woman/","title":"\"A Vindication of the Rights of Woman\""}
+{"dg-publish":true,"permalink":"/books/mary-wollstonecraft-a-vindication-of-the-rights-of-woman/","title":"\"A Vindication of the Rights of Woman\"","tags":["non-fiction","feminism","classic","essay"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
