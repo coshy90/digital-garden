@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/pierce-brown-red-rising-01/","title":"Red Rising"}
+{"dg-publish":true,"permalink":"/books/pierce-brown-red-rising-01/","title":"Red Rising","tags":["science-fiction","dystopia"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -9,14 +9,7 @@
 
 ![cover|150](http://books.google.com/books/content?id=3ZhprgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
-## Red Rising 01
-
-## My thoughts & notable quotes
-
-Insert here
-
-### Store description
-
+## Red Rising
 
 
 
