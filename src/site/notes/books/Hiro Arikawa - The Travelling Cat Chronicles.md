@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/hiro-arikawa-the-travelling-cat-chronicles/","title":"\"The Travelling Cat Chronicles\""}
+{"dg-publish":true,"permalink":"/books/hiro-arikawa-the-travelling-cat-chronicles/","title":"\"The Travelling Cat Chronicles\"","tags":["contemporary","cozy","family","friendship"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -13,7 +13,8 @@
 
 ## My thoughts & notable quotes
 
-Insert here
+Cute, well-written story from very different perspectives that ends up being incredibly predictable early on and does not manage to deliver any meaningful surprises. 
+Good read for when you don't want to think, but the cat narrator is definitely an acquired taste.
 
 ### Store description
 
