@@ -19,7 +19,7 @@ If you're interested in checking out the various genres and other classification
 | #classic         | 80    | [[Tags/classic\|To classic overview]]                 |
 | #fiction         | 73    | [[Tags/fiction\|To fiction overview]]                 |
 | #pirate          | 62    | [[Tags/pirate\|To pirate overview]]                   |
-| #science-fiction | 57    | [[Tags/science-fiction\|To science-fiction overview]] |
+| #science-fiction | 58    | [[Tags/science-fiction\|To science-fiction overview]] |
 | #contemporary    | 46    | [[Tags/contemporary\|To contemporary overview]]       |
 | #horror          | 44    | [[Tags/horror\|To horror overview]]                   |
 | #autobiography   | 43    | [[Tags/autobiography\|To autobiography overview]]     |
@@ -39,10 +39,10 @@ If you're interested in checking out the various genres and other classification
 | #academic        | 14    | [[Tags/academic\|To academic overview]]               |
 | #feminism        | 14    | [[Tags/feminism\|To feminism overview]]               |
 | #essay           | 13    | [[Tags/essay\|To essay overview]]                     |
+| #short-story     | 13    | [[Tags/short-story\|To short-story overview]]         |
 | #tech            | 13    | [[Tags/tech\|To tech overview]]                       |
 | #art             | 12    | [[Tags/art\|To art overview]]                         |
 | #health          | 12    | [[Tags/health\|To health overview]]                   |
-| #short-story     | 12    | [[Tags/short-story\|To short-story overview]]         |
 | #work            | 10    | [[Tags/work\|To work overview]]                       |
 | #communication   | 9     | [[Tags/communication\|To communication overview]]     |
 | #druid           | 9     | [[Tags/druid\|To druid overview]]                     |
