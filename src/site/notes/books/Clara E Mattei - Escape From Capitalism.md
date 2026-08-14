@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/books/clara-e-mattei-escape-from-capitalism/","title":"\"Escape From Capitalism\""}
+{"dg-publish":true,"permalink":"/books/clara-e-mattei-escape-from-capitalism/","title":"\"Escape From Capitalism\"","tags":["academic","economy","non-fiction","politics","sociopolitical"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
 [[Dashboards/Lifetime Reading\|To my lifetime reading]]
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=HQkxEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
@@ -13,7 +13,8 @@
 
 ## My thoughts & notable quotes
 
-Insert here
+A bit of a tour de force of left-wing political theory - many of the theories and thoughts have been familiar to me due to previous research and literature, but Mattei succeeds at succinctly presenting all the ideas in a way that they build upon one another to reveal clear truths about today's society.
+Would recommend it to everyone who is interested in a better society.
 
 ### Store description
 
