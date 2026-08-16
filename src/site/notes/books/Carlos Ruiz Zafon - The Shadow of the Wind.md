@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/carlos-ruiz-zafon-the-shadow-of-the-wind/","title":"\"The Shadow of the Wind\""}
+{"dg-publish":true,"permalink":"/books/carlos-ruiz-zafon-the-shadow-of-the-wind/","title":"\"The Shadow of the Wind\"","tags":["coming-of-age","contemporary","family","friendship","noir"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
