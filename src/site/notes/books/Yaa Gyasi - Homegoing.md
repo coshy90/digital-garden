@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/yaa-gyasi-homegoing/","title":"\"Homegoing\""}
+{"dg-publish":true,"permalink":"/books/yaa-gyasi-homegoing/","title":"\"Homegoing\"","tags":["resilience","coming-of-age","family","race"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
