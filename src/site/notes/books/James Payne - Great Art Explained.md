@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/james-payne-great-art-explained/","title":"\"Great Art Explained\""}
+{"dg-publish":true,"permalink":"/books/james-payne-great-art-explained/","title":"\"Great Art Explained\"","tags":["art","history","non-fiction"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -10,9 +10,7 @@
 
 ## Great Art Explained
 
-## My thoughts & notable quotes
 
-??
 
 ### Store description
 
