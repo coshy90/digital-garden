@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/james-islington-the-strength-of-the-few/","title":"\"The Strength of the Few\""}
+{"dg-publish":true,"permalink":"/books/james-islington-the-strength-of-the-few/","title":"\"The Strength of the Few\"","tags":["Fantasy","rome"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -10,10 +10,6 @@
 ![cover|150](http://books.google.com/books/content?id=jvRQEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 ## The Strength of the Few
-
-## My thoughts & notable quotes
-
-Insert here
 
 ### Store description
 
