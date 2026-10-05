@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/angela-duckworth-grit/","title":"\"Grit\""}
+{"dg-publish":true,"permalink":"/books/angela-duckworth-grit/","title":"\"Grit\"","tags":["resilience","education","non-fiction","psychology"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -11,9 +11,6 @@
 
 ## Grit
 
-## My thoughts & notable quotes
-
-Insert here
 
 ### Store description
 
