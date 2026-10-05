@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/tash-aw-the-south/","title":"\"The South\""}
+{"dg-publish":true,"permalink":"/books/tash-aw-the-south/","title":"\"The South\"","tags":["coming-of-age","contemporary","family","friendship","romance"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
