@@ -13,7 +13,7 @@ If you're interested in checking out the various genres and other classification
 | ---------------- | ----- | ----------------------------------------------------- |
 | #manga           | 425   | [[Tags/manga\|To manga overview]]                     |
 | #Fantasy         | 404   | [[Tags/Fantasy\|To Fantasy overview]]                 |
-| #non-fiction     | 197   | [[Tags/non-fiction\|To non-fiction overview]]         |
+| #non-fiction     | 198   | [[Tags/non-fiction\|To non-fiction overview]]         |
 | #romance         | 142   | [[Tags/romance\|To romance overview]]                 |
 | #crime           | 114   | [[Tags/crime\|To crime overview]]                     |
 | #classic         | 80    | [[Tags/classic\|To classic overview]]                 |
@@ -27,8 +27,8 @@ If you're interested in checking out the various genres and other classification
 | #graphic-novel   | 39    | [[Tags/graphic-novel\|To graphic-novel overview]]     |
 | #politics        | 39    | [[Tags/politics\|To politics overview]]               |
 | #history         | 38    | [[Tags/history\|To history overview]]                 |
-| #business        | 34    | [[Tags/business\|To business overview]]               |
-| #psychology      | 33    | [[Tags/psychology\|To psychology overview]]           |
+| #business        | 35    | [[Tags/business\|To business overview]]               |
+| #psychology      | 34    | [[Tags/psychology\|To psychology overview]]           |
 | #childrens       | 30    | [[Tags/childrens\|To childrens overview]]             |
 | #thriller        | 27    | [[Tags/thriller\|To thriller overview]]               |
 | #video-games     | 22    | [[Tags/video-games\|To video-games overview]]         |
@@ -44,9 +44,9 @@ If you're interested in checking out the various genres and other classification
 | #tech            | 13    | [[Tags/tech\|To tech overview]]                       |
 | #health          | 12    | [[Tags/health\|To health overview]]                   |
 | #coming-of-age   | 11    | [[Tags/coming-of-age\|To coming-of-age overview]]     |
+| #communication   | 10    | [[Tags/communication\|To communication overview]]     |
 | #economy         | 10    | [[Tags/economy\|To economy overview]]                 |
 | #work            | 10    | [[Tags/work\|To work overview]]                       |
-| #communication   | 9     | [[Tags/communication\|To communication overview]]     |
 | #druid           | 9     | [[Tags/druid\|To druid overview]]                     |
 | #family          | 9     | [[Tags/family\|To family overview]]                   |
 | #resilience      | 9     | [[Tags/resilience\|To resilience overview]]           |
