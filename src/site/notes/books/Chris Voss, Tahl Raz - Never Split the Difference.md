@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/chris-voss-tahl-raz-never-split-the-difference/","title":"\"Never Split the Difference\""}
+{"dg-publish":true,"permalink":"/books/chris-voss-tahl-raz-never-split-the-difference/","title":"\"Never Split the Difference\"","tags":["business","communication","psychology","non-fiction"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -13,7 +13,9 @@
 
 ## My thoughts & notable quotes
 
-Insert here
+I've watched his masterclass before reading the book, so it mostly served as a solidification of what I had already learned, but Voss has a very straight-forward and effective way of conveying lessons and approaches.
+
+Can absolutely recommend for anyone who would like to learn how to more effectively stand up for what they believe in - at home, at work or in the world.
 
 ### Store description
 
