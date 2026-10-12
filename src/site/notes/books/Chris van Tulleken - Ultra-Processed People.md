@@ -1,19 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/books/chris-van-tulleken-ultra-processed-people/","title":"\"Ultra-Processed People\""}
+{"dg-publish":true,"permalink":"/books/chris-van-tulleken-ultra-processed-people/","title":"\"Ultra-Processed People\"","tags":["health","journalism","non-fiction","sociopolitical","science"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
 [[Dashboards/Lifetime Reading\|To my lifetime reading]]
 
-```
+
 
 ![cover|150](http://books.google.com/books/content?id=zvVsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 ## Ultra-Processed People
-
-## My thoughts & notable quotes
-
-Insert here
 
 ### Store description
 
