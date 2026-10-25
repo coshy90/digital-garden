@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/eliezer-yudkowsky-nate-soares-if-anyone-builds-it-everyone-dies/","title":"\"If Anyone Builds It, Everyone Dies\""}
+{"dg-publish":true,"permalink":"/books/eliezer-yudkowsky-nate-soares-if-anyone-builds-it-everyone-dies/","title":"\"If Anyone Builds It, Everyone Dies\"","tags":["tech","sociopolitical","politics","philosophy","non-fiction"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -13,7 +13,8 @@
 
 ## My thoughts & notable quotes
 
-Insert here
+Strong and important message at a crucial time in modern history that gets bogged down by meandering and unnecessary analogies.   
+Maybe I am not the target audience of this exact book, but I don't need tales about ancient alchemists and princesses to give importance to saving human life from the hubris of a few untethered tech millionaires & billionaires.
 
 ### Store description
 
