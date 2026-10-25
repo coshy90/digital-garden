@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/francesco-verso-solarpunk/","title":"\"Solarpunk\""}
+{"dg-publish":true,"permalink":"/books/francesco-verso-solarpunk/","title":"\"Solarpunk\"","tags":["sociopolitical","short-story","dystopia","science-fiction"]}
 ---
 
 [[Welcome to my digital garden\|Back to start page]]
@@ -13,7 +13,11 @@
 
 ## My thoughts & notable quotes
 
-Insert here
+Would love to rate it higher as I'm a lover of Solarpunk, but between about half of the stories being written extremely badly with meandering stories, no plot, bad dialogue and flat character, and consistently bad editing with spelling and grammar mistakes throughout the whole book, I cannot rate it higher. Some stories are really solid to great though, which saves it to a 2.5 overall.  
+  
+My main disappointment is that the majority of the authors dream small. Instead of futuristic utopias and dystopias, new scientific advancements and complex moral problems, they just tell small stories with small questions and stakes.  
+  
+Cannot recommend it at all, unless you've maybe never read any sci-fi at all.
 
 ### Store description
 
